@@ -1,0 +1,10 @@
+id,file_name,decision_type,keywordid,url_pdf,easy_query_passed,medium_query_passed,hard_query_passed,all_passed,error
+8623,juportal.be_BE_CASS_2007_ARR.20070612.2_FR.txt,Arrêt,KUD2-29-2-3,https://juportal.be/JUPORTAwork/ECLI:BE:CASS:2007:ARR.20070612.2_FR.pdf?Version=1607979575,true,false,false,false,
+8625,juportal.be_BE_TTBRL_2015_JUG.20150105.5_FR.txt,Jugement,KUD2-29-2-5,https://juportal.be/JUPORTAwork/ECLI:BE:TTBRL:2015:JUG.20150105.5_FR.pdf?Version=1607974289,true,true,true,true,
+8627,juportal.be_BE_TTLIE_2006_JUG.20061129.24_FR.txt,Jugement,KUD2-10-9,https://juportal.be/JUPORTAwork/ECLI:BE:TTLIE:2006:JUG.20061129.24_FR.pdf?Version=1607979936,true,true,true,true,
+8628,juportal.be_BE_CASS_2011_ARR.20110628.2_FR.txt,Arrêt,KUD2-10-9-4,https://juportal.be/JUPORTAwork/ECLI:BE:CASS:2011:ARR.20110628.2_FR.pdf?Version=1607976672,false,false,true,false,
+8632,juportal.be_BE_CTBRL_2011_ARR.20110106.8_FR.txt,Arrêt,KUD2-10-3-5,https://juportal.be/JUPORTAwork/ECLI:BE:CTBRL:2011:ARR.20110106.8_FR.pdf?Version=1607977062,true,true,true,true,
+8639,juportal.be_BE_CASS_2008_ARR.20080110.1_FR.txt,Arrêt,KUD2-10-10-1,https://juportal.be/JUPORTAwork/ECLI:BE:CASS:2008:ARR.20080110.1_FR.pdf?Version=1607979228,true,true,true,true,
+8640,juportal.be_BE_CASS_2011_ARR.20111220.6_FR.txt,Arrêt,KUD2-10-2,https://juportal.be/JUPORTAwork/ECLI:BE:CASS:2011:ARR.20111220.6_FR.pdf?Version=1607976403,true,true,true,true,
+8641,juportal.be_BE_CASS_2007_ARR.20070927.2_FR.txt,Arrêt,KUD2-10-12,https://juportal.be/JUPORTAwork/ECLI:BE:CASS:2007:ARR.20070927.2_FR.pdf?Version=1607979441,true,true,true,true,
+8644,juportal.be_BE_TTHAI_2010_ORD.20101116.2_FR.txt,Ordonnance,KUD2-10-4-5-3,https://juportal.be/JUPORTAwork/ECLI:BE:TTHAI:2010:ORD.20101116.2_FR.pdf?Version=1607977152,true,true,true,true,
