@@ -7,7 +7,6 @@ const { OpenAI } = require('openai');
 
 // Initialize OpenAI client
 const openai = new OpenAI({
-  apiKey: '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' // Make sure to set this environment variable
 });
 
 // Path to input and output files
