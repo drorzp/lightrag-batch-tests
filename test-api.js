@@ -6,8 +6,7 @@ const axios = require('axios');
 const { OpenAI } = require('openai');
 
 // Initialize OpenAI client
-const openai = new OpenAI({
-});
+
 
 // Path to input and output files
 const inputCsvPath = path.join(__dirname, 'test-data', 'lightrag-valid-test-data.csv');
