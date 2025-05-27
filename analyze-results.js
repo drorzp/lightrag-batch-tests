@@ -24,8 +24,34 @@ async function analyzeResults(filePath) {
 
 // Main function
 async function main() {
-  // Get the file path from command line arguments or use a default
-  const filePath = process.argv[2] || path.join(__dirname, 'test-results-valid-2025-05-27T00-15-22-141Z.csv');
+  // Get the file path from command line arguments or use the most recent file in results directory
+  let filePath = process.argv[2];
+  
+  if (!filePath) {
+    // Find the most recent results file in the results directory
+    const resultsDir = path.join(__dirname, 'results');
+    
+    try {
+      if (fs.existsSync(resultsDir)) {
+        const files = fs.readdirSync(resultsDir)
+          .filter(file => file.startsWith('test-results-') && file.endsWith('.csv'))
+          .map(file => path.join(resultsDir, file));
+          
+        if (files.length > 0) {
+          // Sort by modification time (most recent first)
+          files.sort((a, b) => fs.statSync(b).mtime.getTime() - fs.statSync(a).mtime.getTime());
+          filePath = files[0];
+        }
+      }
+    } catch (error) {
+      console.error('Error finding results files:', error);
+    }
+    
+    // If still no file path, use a default
+    if (!filePath) {
+      filePath = path.join(__dirname, 'results', 'test-results-valid-2025-05-27T00-15-22-141Z.csv');
+    }
+  }
   
   try {
     console.log(`Analyzing results from: ${filePath}`);

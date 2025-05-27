@@ -11,7 +11,14 @@ const { OpenAI } = require('openai');
 // Path to input and output files
 const inputCsvPath = path.join(__dirname, 'test-data', 'lightrag-valid-test-data.csv');
 const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
-const outputCsvPath = path.join(__dirname, `test-results-valid-${timestamp}.csv`);
+
+// Create results directory if it doesn't exist
+const resultsDir = path.join(__dirname, 'results');
+if (!fs.existsSync(resultsDir)) {
+  fs.mkdirSync(resultsDir, { recursive: true });
+}
+
+const outputCsvPath = path.join(resultsDir, `test-results-valid-${timestamp}.csv`);
 
 // Configuration
 const START_FROM_ROW = 0; // Start from the first row (0-indexed)
@@ -227,6 +234,7 @@ DO NOT include any explanations, notes, or text outside the JSON array. Return O
     
     // Parse the response
     let content = response.choices[0].message.content;
+    console.log('OpenAI response content:', content);
     
     try {
       // Check if the response is wrapped in markdown code blocks
