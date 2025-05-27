@@ -1,0 +1,547 @@
+                                                                                                  1/17
+          H33JSSN3477
+              J3N8d1
+                  Ju
+                      1⁸                                Avis n° 02/2010 du 13 janvier 2010
+            COMMISSION S  1
+                    'DE
+         COMMISSIE
+                 VOOR [
+Objet: Demande d'avis sur l'avant-projet de loi modificant le Code d'instruction criminelle et la loi du
+22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale
+La Commission de la protection de la vie privée ;
+Vu la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de
+données à caractère personnel (ci-après LVP), en particulier l'article 29 ;
+Vu la demande d'avis de Monsieur Stefaan de Clerck, ministre de la Justice, reçue le 01/12/2009;
+Vu le rapport de Monsieur Bart De Schutter  ;
+Émet, le 13 janvier 2010, l'avis suivant :
+                                                                                                            .
+                                                                                                            .
+                                                                                                            .
+                                                                                                            .
+                                                                                                            .
+                                                                                                            .
+
+                                                                                   Avis 02/2010 - 2/17
+A. INTRODUCTION
+1.     Le 1ᵉʳ décembre 2009, le ministre de la Justice a demandé à la Commission d'émettre un
+       avis  sur l'avant-projet de  loi modifiant le Code   d'instruction criminelle et la  loi         du
+       22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale
+       (ci-après        „l'avant-projet de loi). La Commission émet donc l'avis suivant sur l'avant-projet
+       précité sur la base des informations dont elle dispose.
+B. LÉGISLATION D'APPLICATION
+2.     Avant tout, on peut faire référence aux articles 44ter et 90undecies du Code d'instruction
+       criminelle ainsi qu'à la Loi du 22 mars 1999 relative à la procédure d'identification par
+       analyse ADN en matière pénale (ci-après la "Loi analyse ADN"), et l'Arrêté Royal portant
+       exécution de la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN
+       en matière pénale (ci-après "AR analyse ADN"). Il faut aussi tenir compte du Traité de Prüm
+       relatif à l'intensification de la coopération transfrontalière, plus particulièrement dans la lutte
+       contre le terrorisme, la criminalité transfrontalière et la migration illégale, traité qui a été
+       intégré  dans  le cadre  juridique de  l'Union  européenne   par  la Décision  du           Conseil
+       2008/615/JAI du 23 juin 2008.
+C. CONTEXTE DE L'AVANT-PROJET DE LOI
+3.     Conformément à l'exposé des motifs¹ depuis 1999, il existe en Belgique deux banques de
+       données ADN gérées par l'Institut national de Criminalistique et de Criminologie (INCC).
+       La banque de données "Criminalistique" contient les profils ADN de traces identifiées et non
+       identifies trouvées au cours de l'enquête relative à une infraction et la banque de données
+       "Condamnés",   les profils ADN  de  personnes  condamnées    ou  internées pour           certaines
+       infractions énumérées dans la loi. Depuis l'entrée en vigueur de la loi en 2002, plusieurs
+       problèmes se sont posés, principalement en ce qui concerne la lourdeur des procédures
+       prévues dans la loi et l'arrêté d'exécution. Cette lourdeur a entraîné la rédaction d'un certain
+       nombre de circulaires aussi variées et nombreuses que les interprétations données à la loi.
+       Il a en  outre été constaté  qu'un  grand  nombre  de  traces ne  sont pas  analysées,           en
+       particulier dans le cadre de faits moins graves. Ces affaires pourraient toutefois être réglées
+       bien plus rapidement   si des analyses  ADN étaient  effectuées. De  même, ces             analyses
+       pourraient éventuellement établir des liens avec des faits plus graves. De plus, un nombre
+1 Voir pages 3-8.
+
+                                                                                        Avis 02/2010 - 3/17
+        non négligeable de profils ADN ayant déjà fait l'objet d'une expertise ne sont pas enregistrés
+        dans la banque de données ADN. Ce n'est pas le fait d'une quelconque mauvaise volonté de
+        la part des magistrats mais plutôt le résultat d'erreurs, d'une mauvaise compréhension des
+        procédures ou de distractions. Sur ce plan, l'automatisation de certaines procédures serait
+        déjà d'une grande aide. L'expérience a également montré que la durée d'établissement et
+        d'analyse des profils ADN est trop longue et que leur prix est trop élevé, surtout si l'on
+        compare avec l'étranger.
+4.      L'avant-projet de loi a pour principal objectif d'améliorer et de simplifier la          procédure.
+        Bien que  certaines des adaptations  proposées   soient parfois substantielles, le but          est
+        principalement de clarifier les diverses procédures et de préserver la philosophie de la loi
+        actuelle, ainsi que l'équilibre entre les libertés individuelles et le respect de la vie privée des
+        citoyens d'une part et la protection de la société d'autre part. Les adaptations ont pour objet
+        de simplifier la demande d'analyse, le rapport et la transmission des informations, ce qui,
+        d'un point de vue général, aura un effet positif sur les délais d'exécution des expertises et le
+        montant des coûts.
+        • L'avant-projet vise en premier lieu une procédure simple, claire et transparente. Ainsi, le
+        présent projet de loi fait la clarté sur les conditions d'ouverture d'une analyse génétique
+        concernant une personne et les conditions               dans lesquelles les profils ADN de suspects
+        peuvent être comparés. De même, une procédure claire est prévue en ce qui concerne
+        l'expertise de profils ADN de tiers qui ne sont ni suspects ni condamnés, et les modalités de
+        destruction des échantillons de référence ADN et des échantillons qui en dérivent.
+        • L'efficacité du déroulement de la procédure constitue un deuxième objectif. La loi actuelle
+        est boiteuse en  ce sens  qu'il existe énormément   d'exigences  procédurales et           d'étapes
+        intermédiaires, ce qui a pour effet que l'objectif final de la loi, l'alimentation des banques de
+        données ADN, ne produit pas le résultat escompté. Pour cette raison, on a élaboré une
+        procédure univoque et transparente qui conduit directement aux banques de données ADN,
+        avec une  transmission  automatique   des données,   des dispositions précises en  ce  qui
+        concerne les délais et une obligation de rapport simplifiée. Cela réduira sensiblement la
+        durée des délais d'analyse et aura un effet positif sur l'arriéré judiciaire. En simplifiant les
+        procédures,  l'avant-projet de  loi aura également  un  effet d'économie   sur  les          coûts.
+        Cette économie résultera notamment de l'installation d'une cellule nationale, grâce à laquelle
+        il pourra être vérifié si le profil ADN a déjà été établi. En effet, actuellement, il est souvent
+        constaté, dans la pratique, que le profil ADN de la même personne est parfois établi à
+        plusieurs reprises sur ordre de différents parquets. La simplification des rapports d'expertise
+        et la centralisation des expertises des profils ADN des condamnés dans un seul laboratoire,
+        sont aussi des éléments qui contribueront à cet objectif. L'avant-projet de loi entend garantir
+
+                                                                                      Avis 02/2010 - 4/17
+       un rendement maximal des banques de données ADN. Différentes mesures sont prises à cet
+       effet : une adaptation des conditions d'ouverture d'une expertise concernant une personne,
+       une circulation maximale des profils ADN vers les banques de données ADN par le biais
+       d'une  transmission  d'office, l'INCC comparera   d'une   façon  systématique  les         profils
+       enregistrés et une actualisation de la liste des infractions entraînant un enregistrement dans
+       la  banque   de  données  ADN     "Condamnés".  Ainsi,    les infractions commises par         des
+       organisations criminelles et des infractions perpétrées en réunion figureront dans la liste,
+       infractions pour  lesquelles l'analyse ADN   peut  précisément   être extrêmement           utile.
+       L'avant-projet de loi vise également à apporter les adaptations nécessaires afin de mettre la
+       législation belge en conformité avec certaines obligations internationales. Le 27 mai 2005 a
+       été signé à Prüm, entre la Belgique, les Pays-Bas, le Luxembourg, l'Allemagne, l'Espagne, la
+       France et l'Autriche, un traité relatif à l'approfondissement de la coopération transfrontalière,
+       notamment    en  vue de  lutter contre le    terrorisme,  la criminalité transfrontalière et    la
+       migration  illégale. Ce traité a  d'ailleurs été intégré dans le cadre juridique de        l'Union
+       européenne par la décision 2008/615/JAI du Conseil du 23 juin 2008. La Belgique doit donc
+       prévoir la législation nécessaire afin de rendre possible la comparaison automatique des
+       profils ADN des banques de données ADN "Criminalistique" et "Condamnés" avec des points
+       de contact étrangers.
+       • Enfin, l'avant-projet de loi préserve l'équilibre essentiel entre les libertés individuelles, la
+       vie privée des citoyens et le devoir de protéger la société. Le respect de la vie privée du
+       citoyen est garanti par l'utilisation des numéros de code ADN uniques, par l'anonymat des
+       profils ADN pour les laboratoires et les banques nationales de données ADN, ainsi que par la
+       destruction effective des échantillons de référence ADN et des échantillons dérivés."
+D. EXAMEN DE LA DEMANDE D'AVIS
+5.     Ci-après, suit une confrontation entre les principaux éléments de la LVP et l'avant-projet de
+loi.
+D.1. Applicabilité de la loi relative au traitement des données à caractère personnel
+DONNÉES À CARACTÈRE PERSONNEL
+6.     Conformément à l'article 1ᵉʳ, § 1ᵉʳ de la LVP, il faut entendre par            “donnée à caractère
+personnel” toute information  concernant  une  personne  physique  identifiée ou identifiable,        (…)
+            directement ou indirectement, notamment par référence à un numéro d'identification ou à un ou
+plusieurs éléments  spécifiques, propres   à son   identité physique,  physiologique,          psychique,
+
+                                                                                      Avis 02/2010 - 5/17
+économique, culturelle ou sociale. Dans son avis² n° 17/98 relatif à l'avant-projet de loi relatif à
+l'analyse ADN en matière pénale, la Commission a déjà estimé que les profils ADN sont des données
+à caractère personnel, même s'ils ne sont pas encore identifiés. Cette position a été confirmée
+ultérieurement dans son avis³ d'initiative n° 17/2008 relatif aux traitements de données biométriques
+dans le cadre de l'authentification de personnes.
+7.      L'exposé    des  motifs   précise   que    l'ADN,   l'appellation  consacrée   de         l'acide
+désoxyribonucléique,  est le support  moléculaire  des  caractéristiques génétiques d'un        individu.
+Dans un souci de protection de la vie privée, la procédure            d'identification par analyse ADN en
+matière pénale ne porte que sur les séquences non codantes de l'ADN. Les séquences non codantes
+sont les parties de l'ADN qui ne contiennent pas d'information génétique pertinente et dont on ne
+peut par conséquent déduire aucune donnée relative aux propriétés physiologiques, morphologiques
+ou psychiques d'une personne (par exemple, son état de santé). L'analyse de ces séquences conduit
+à  l'établissement  d'un  profil ADN, un   code  alphanumérique    spécifique à  chaque         individu.
+Ces séquences non codantes sont donc suffisantes pour permettre l'identification d'une personne, à
+l'instar, par exemple, des empreintes digitales.
+8.              Si, dans l'état actuel des connaissances scientifiques, on ne peut pas déduire de données
+concernant la santé à partir des séquences non codantes de l'ADN, elles ne constituent pas des
+données relatives à la santé au sens de l'article 7 de la LVP. Elles peuvent donc, par contre, être en
+principe considérées comme des traitements de données judiciaires.
+TRAITEMENT DES DONNÉES
+9.               La LVP définit le "traitement" comme toute opération ou ensemble d'opérations effectuées
+ou non à l'aide de procédés automatisés et appliquées à des données à caractère personnel, telles
+que la collecte, l'enregistrement, l'organisation, la conservation, l'adaptation ou la modification,
+l'extraction, la consultation, l'utilisation, la communication par transmission, diffusion ou toute autre
+forme  de  mise  à  disposition, le rapprochement  ou  l'interconnexion, ainsi que le       verrouillage,
+l'effacement ou la destruction de données à caractère personnel.⁴
+10.         L'utilisation des séquences non codantes de l'ADN suppose la collecte, l'enregistrement et le
+stockage des données et ceci à l'aide de moyens automatisés.
+2 Avis n° 17/98 du 14 mai 1998, n° 11.
+3 Avis n° 17/2008 du 9 avril 2008, n° 10, n° 25-28.
+4 Article 1er, § 2 de la LVP.
+
+                                                                                                                Avis 02/2010 - 6/17
+LÉGITIMITÉ ET PROPORTIONNALITÉ⁵
+11.     Toutes  les données   à  caractère  personnel  doivent   être collectées pour  des                                finalités
+déterminées, explicites et légitimes, et ne pas être traitées ultérieurement de manière incompatible
+avec  ces finalités. Pour être légitime, chaque  finalité doit, entre autres, satisfaire à une                                  des
+conditions de l'article 8⁶ de la LVP, étant donné qu'in casu le traitement concerne des données
+judiciaires. Dans ce cas, on peut invoquer l'article 8, § 2, b).
+12.     Conformément à l'avant-projet de loi⁷, l'analyse ADN et la comparaison des profils ADN ne
+sont  autorisés en  matière  pénale que  dans   le seul but  de  pouvoir identifier directement                                  ou
+indirectement les personnes impliquées dans des infractions, en vue de lever les soupçons qui
+pèsent sur d'autres personnes ou de prouver leur innocence. L'exposé des motifs explique que les
+objectifs déjà mentionnés dans la loi de 1999 (Loi analyse ADN) ont été pris en compte, mais qu'ils
+ont été complétés par la possibilité de lever des soupçons qui peuvent peser sur des personnes ou
+de prouver leur innocence.
+D.2. Commentaires des articles de l'avant-projet de loi
+ARTICLE 2
+13.                                 L'article 2 de l'avant-projet de loi remplace l'article 44ter du Code d'instruction criminelle.
+Une série de définitions ont été reformulées et certaines y ont été ajoutées. C'est ainsi que le point
+1° définit que le profil ADN est un code alphanumérique spécifique à chaque individu, et qu'il est
+déterminé sur la base de séquences non codantes du patrimoine génétique. L'exposé des motifs⁸
+mentionne à ce sujet que la garantie importante de la loi de 1999 est maintenue : l'analyse ADN en
+matière pénale est   limitée aux séquences   non codantes, afin de garantir que les                                    informations
+extraites ne peuvent informer quiconque sur une fonction biologique caractéristique de la personne.
+5 Articles 4 et 5 de la LVP.
+6 Article 8. § 2. L'interdiction de traiter les données à caractère personnel visées au § 1er  n'est pas applicable aux traitements
+effectués :
+a) sous le contrôle d'une autorité publique ou d'un officier ministériel au sens du Code judiciaire, lorsque le traitement est
+nécessaire à l'exercice de leurs tâches ;
+b) par d'autres personnes lorsque le traitement est nécessaire à la réalisation de finalités fixées par ou en vertu d'une loi, d'un
+décret ou d'une ordonnance ;
+c) par des personnes physiques ou par des personnes morales de droit public ou de droit privé pour autant que la gestion de
+leurs propres contentieux l'exige ;
+d) par des avocats ou d'autres conseils juridiques, pour autant que la défense de leurs clients l'exige ;
+e) pour les nécessités de la recherche scientifique, dans le respect des conditions fixées par le Roi par arrêté délibéré en
+Conseil des ministres, après avis de la Commission de la protection de la vie privée.
+7 Article 11.
+8 Page 9.
+
+                                                                                                        Avis 02/2010 - 7/17
+Pour le souligner, il faudrait pouvoir ajouter à l'avant-projet de loi "… déterminé exclusivement sur la
+base de séquences non codantes du patrimoine génétique."
+14.                                 Le 8° concerne la définition du numéro de code de l'ADN : le numéro de référence unique
+attribué par la cellule nationale, le service organisé par le ministère public qui attribue des numéros
+de code ADN qui permettent de faire le lien entre un profil ADN et le nom d'une personne. L'exposé
+des  motifs 9 fait remarquer que  l'introduction d'une cellule nationale constitue une                          innovation.
+Ce service est organisé au niveau national, ceci contrairement à précédemment où il était organisé
+au niveau d'un parquet local. De ce fait, toujours selon l'exposé des motifs, cela permet d'éviter les
+expertises et les coûts  inutiles, et permet aux laboratoires  d'analyse ADN et   aux banques                            de
+données ADN de travailler avec des données anonymes, ce qui est important du point de vue de la
+protection de la vie privée.
+15.                               La Commission estime que l'introduction d'un numéro de code ADN contribue à la protection
+des données à caractère personnel, et que l'introduction d'un tel numéro répond aux remarques déjà
+formulées dans son avis n° 17/98¹⁰. Il serait également recommandé de ne pas parler de données
+anonymes mais plutôt de "données codées" pour être en conformité avec la terminologie de la
+LVP¹¹.
+ARTICLE 3
+16.     L'article 3 insère  un  nouvel  article 44quater   dans  le  Code   d'instruction                       criminelle.
+Conformément à l'exposé des motifs, cet article peut être comparé à l'actuel § 2 de l'article 44ter du
+Code d'instruction criminelle et il vise le cas des traces découvertes sur les lieux du délit. L'exposé
+des motifs explique en outre : "Un des objectifs de la révision de la loi de 1999 est de veiller à
+rendre les enquêtes plus efficientes. Cet objectif est rencontré, d'une part en imposant des délais
+plus courts, quoique raisonnables, pour la réalisation des analyses des échantillons et des analyses
+de comparaison, et d'autre part en simplifiant les procédures de transmission des profils vers les
+banques nationales de données. L'expert du laboratoire d'analyse ADN ne doit donc plus comme
+auparavant attendre la réquisition spécifique du magistrat pour la transmission des données vers les
+banques nationales de données ADN en vue de leur enregistrement et de leur comparaison. Sur la
+base de la nouvelle loi, il transmet d'office les profils et les données y afférentes, sauf décision
+contraire et motivée du magistrat. Il y est également souligné qu'actuellement, de nombreux profils
+génétiques de traces ne sont pas transmis aux fichiers nationaux parce que le magistrat considère à
+9 Page 9.
+10 Voir avis n° 17/98, n° 15.
+11 Voir l'Arrêté royal du 13 février 2001 portant exécution de la Loi du 8 décembre 1992 relative à la protection de la vie
+privée à l'égard des traitements de données à caractère personnel du 13 février 2001, article 1ᵉʳ, 3°-5°.
+
+                                                                                  Avis 02/2010 - 8/17
+tort que le transfert tel que prévu par la loi aujourd'hui, est assuré d'office. La suppression des
+réquisitoires fastidieux souvent oubliés et le fait de prévoir l'alimentation systématique, simplifiée et
+automatique  de la banque   de  données  "Criminalistique" réduiront non seulement  le temps       de
+traitement des dossiers, mais  ils permettront aussi d'établir davantage  de  liens avec     d'autres
+dossiers. Ceci permettra d'accélérer la résolution des nouveaux dossiers."
+17.    En  application de  l'article 3 de l'avant-projet de loi, tous les profils ADN  des     traces
+découvertes sont repris dans la banque de données "Criminalistique". La Commission estime qu'il
+faut préciser que seules les traces dont on peut raisonnablement supposer qu'elles contribueront à la
+résolution de l'infraction peuvent être analysées et reprises dans la banque de données. Ces profils
+ADN, ainsi que quelques données supplémentaires dont le numéro de notice du dossier répressif, la
+nature biologique des échantillons étudiés, le sexe de la personne dont provient la trace, … ,   sont
+conservés jusqu'à 20 ans dans la banque de données. La banque de données "Criminalistique" offre
+de très vastes  possibilités de comparaison  des  profils ADN. Le  procureur  du  Roi  et le     juge
+d'instruction peuvent, dans certaines conditions, exiger que des cellules soient prélevées en vue
+d'une analyse ADN. Le profil ADN obtenu peut non seulement être comparé au profil ADN des traces
+trouvées dans le cadre de cette infraction à proprement parler mais peuvent également l'être avec le
+profil ADN des traces trouvées dans d'autres infractions. Dans l'exposé des motifs, la discussion de
+l'article 5 de l'avant-projet de loi (prélèvement d'un échantillon de référence chez un non-suspect
+avec son autorisation) mentionne expressément que les profils de tiers ou des victimes ne sont en
+aucun cas envoyés aux banques nationales de données ADN, que ce soit à des fins de comparaison
+ou à des fins d'enregistrement. L'intention n'est donc pas de créer un fichier spécifique dans lequel
+seraient stockés les profils ADN  de citoyens  en principe innocents.  Il convient aussi de     faire
+remarquer qu'en principe, il ne sera procédé au prélèvement d'un échantillon de référence chez une
+personne non suspecte qu'en vue de faire la distinction entre ses éventuelles traces et celles des
+personnes qui ont participé à une infraction (p. ex. en cas de "profils ADN contaminés")¹². Si les
+profils ADN trouvés sur le lieu de l'infraction ne sont pas contaminés, on ne procède pas, en
+principe, au prélèvement d'un échantillon de référence auprès des témoins et autres personnes et
+des profils ADN non identifiés de citoyens innocents seront donc forcément enregistrés dans la
+banque de données "Criminalistique". La demande de la Commission citée plus haut de n'analyser et
+de n'enregistrer dans la banque de données que les traces dont on peut raisonnablement supposer
+qu'elles contribueront à la résolution de l'infraction est donc importante. Il convient également de
+mentionner que lorsqu'une affaire est résolue, p. ex. par une décision ayant acquis force de chose
+jugée,  il n'est plus  nécessaire  de  conserver  les  profils ADN  des   traces non      identifiées
+(qui appartiendront en principe à des citoyens innocents, par ex. à des témoins) trouvées dans le
+cadre de ladite affaire.
+12 Voir l'exposé des motifs, discussion de l'article 5, p. 14-15.
+
+                                                                                   Avis 02/2010 - 9/17
+ARTICLE 4
+18.     Cet article insère un nouvel article 44quinquies dans le Code d'instruction criminelle et vise
+        le cas du prélèvement d'un échantillon de référence chez un suspect avec son autorisation.
+        En vertu de la loi actuelle (article 44ter, § 3 du Code d'instruction criminelle), le procureur
+        du Roi ne peut procéder à un tel prélèvement que si au moins une trace de cellules
+        humaines a été découverte et recueillie dans le cadre de l‟affaire dont il est saisi. Dans le
+        nouveau texte de l'avant-projet de loi, cette condition est supprimée. La nouvelle disposition
+        prévoit que le procureur du Roi peut ordonner, avec l'accord du suspect, le prélèvement
+        d'un échantillon de référence lorsqu'il existe des indications de culpabilité quant aux faits de
+        l'affaire dont il a la charge ou de faits similaires. Selon l'exposé des motifs, il faut entendre
+        par "faits similaires", les faits qui tombent soit sous la même qualification que l'infraction
+        dont il est suspecté, soit sous une qualification connexe."
+19.     L'exposé des motifs défend la suppression de la "condition" de la présence de cellules
+        humaines en faisant référence au gain de temps au niveau de la procédure, non sans
+        importance lorsque l'intéressé est arrêté, mais aussi et surtout en faisant référence à la
+        possibilité qu'offre la comparaison du profil génétique du suspect avec les profils ADN des
+        traces et des échantillons de référence déjà enregistrés dans les banques de données ADN.
+        Toujours selon l'exposé des motifs, cela pourrait surtout s'avérer utile en cas d'infractions en
+        série. Selon l'exposé  des motifs, ces  informations  correspondent aux   conclusions          de
+        nombreuses études.
+20.     La  suppression de  la condition de la  présence  de  cellules humaines implique que           le
+        procureur du Roi peut à chaque infraction –  moyennant le consentement de l'intéressé           –
+        faire procéder au prélèvement d'un échantillon de référence, en vue de le comparer aux
+        profils et aux échantillons contenus dans les banques de données ADN. Il n'est donc plus
+        nécessaire que  des cellules humaines  soient trouvées sur le lieu d'une  infraction pour
+        pouvoir procéder à une analyse ADN. Une seule comparaison du profil ADN obtenu avec
+        tous les profils ADN contenus dans toutes les banques de données ADN est prévue, qu'il
+        s'agisse d'un  prélèvement  avec   ou  sans  consentement   mais,  précédemment,            cette
+        comparaison n'était possible qu'en cas de lien positif entre l'échantillon de référence et les
+        traces de cellules humaines. La Commission constate que l'avant-projet de loi opte pour
+        l'utilisation systématique de l'analyse ADN, ce que confirme l'exposé des motifs. Même si on
+        ne trouve pas de traces de cellules humaines sur le lieu d'une infraction, le procureur peut
+        demander au suspect de consentir à un prélèvement d'échantillon ADN, afin de vérifier s'il
+        n'a pas été, par le passé, impliqué dans un autre dossier. Le lien entre un dossier donné et
+
+                                                                                                             Avis 02/2010 - 10/17
+        le prélèvement d'un échantillon ADN disparaît donc complètement dans ce cas : il suffit
+        d'être suspecté d'une  infraction dans laquelle on n'a  pas trouvé de  traces de                                 cellules
+        humaines pour que le procureur ait la possibilité de demander un échantillon de référence à
+        l'intéressé, et de le comparer à la banque de données ADN pour faire d'éventuels liens avec
+        d'autres infractions. Les raisons invoquées dans l'exposé des motifs suffisent pour justifier la
+        suppression de la condition de la présence de cellules humaines. L'avant-projet de loi prévoit
+        en la matière des garanties supplémentaires, en imposant l'exigence d'un consentement
+        écrit informé par le suspect et l'exigence d'indices de culpabilité.
+21.     Il convient de se poser la question de savoir en quoi les termes "ou dans la commission de
+        faits similaires"¹³                                   sont nécessaires : une analyse ADN est ordonnée lorsqu'une personne
+        donnée est suspectée dans une affaire donnée.                                      Ces données peuvent, dans ce cas, être
+        comparées, une seule fois, à celles contenues dans les banques de données ADN, ce qui
+        peut donner lieu à l'émergence d'un lien avec d'autres affaires. À quoi  servent donc                                 les
+        termes  "ou dans la  commission de faits similaires"  ? L'article 6 de l'avant-projet                              de loi
+        (prélèvement forcé par le juge                                 d'instruction) se limite à mentionner "une personne contre
+        laquelle il existe des indices de culpabilité dans la commission des faits dont il                               (le juge
+        d'instruction)                         est saisi". Il n'est pas fait mention des termes "commission de faits similaires".
+        L'exposé des motifs n'est pas suffisamment précis à ce sujet et doit donc être plus explicite.
+22.     Précédemment, le prélèvement de référence n'était possible que dans le cas de personnes
+        majeures. Aujourd'hui, l'article 4 de l'avant-projet de loi prévoit que le prélèvement d'un
+        échantillon de référence est possible                                 à partir de l'âge de seize ans. L'exposé des motifs
+        justifie cette modification par analogie avec les conditions de dessaisissement en droit de la
+        jeunesse. La Commission estime que cette justification est pour le moins sommaire, et
+        n'offre aucun fondement pouvant justifier une mesure aussi invasive à l'égard d'un mineur.
+        La possibilité de prendre une telle mesure à l'égard d'un mineur doit être examinée de
+        manière  plus  approfondie,   motivée et  fondée, et  le cas échéant, être soumise à                                  des
+        conditions  supplémentaires.   C'est  ainsi que l'accompagnement  d'un  mineur  par  une
+        personne   majeure  de   son   choix  devrait  être   obligatoire et non  facultatif,                          facultatif
+        (comme c'est   actuellement   prévu par   l'article   44quinquies, § 3, inséré dans le                               Code
+        d'instruction criminelle par l'article 4 de l'avant-projet de loi).
+23.     L'article  44quinquies dispose de  plus que  l'accord de l'intéressé  ne peut être                                  donné
+        valablement  que  s'il a été  préalablement informé   d'une série d'éléments énumérés                                  de
+        manière limitative.
+13 Selon l'exposé des motifs, il convient d'entendre par "faits similaires" des faits qui tombent soit sous la même qualification
+que l'infraction dont il est suspecté, soit sous une qualification connexe.
+
+                                                                                  Avis 02/2010 - 11/17
+24.     Le § 7 prévoit que le profil ADN d'un échantillon de référence est comparé une seule fois
+        avec  les  profils ADN  enregistrés dans  les banques   de  données   "Criminalistique" et
+        "Condamnés".   En  l'absence  de  lien  positif, le  profil ADN ne  sera  pas      enregistré.
+        La Commission renvoie à ce sujet à sa remarque sous le point 17, relative à l'enregistrement
+        des profils ADN des innocents dans la banque de données "Criminalistique".
+25.     Le § 9 donne des précisions sur la destruction des échantillons de référence dès lors qu'ils
+        ne  sont plus  utiles à  l'expertise. La  loi actuelle ne prévoit pas la  destruction      des
+        "sous-échantillons "dérivés du prélèvement initial. L'avant-projet de loi prévoit de détruire
+        automatiquement dans un délai de six mois les échantillons de référence et les échantillons
+        dérivés, sauf décision contraire du  magistrat. La  Commission   n'a aucune   remarque       à
+        formuler à ce sujet.
+ARTICLE 5
+26.     Le C.I.C. est complété par l'article 44sexies. Cet article vise le cas d'un prélèvement d'un
+        échantillon de référence chez un non-suspect avec son autorisation. Selon l'exposé des
+        motifs, il n'est actuellement fait aucune distinction entre les prélèvements de référence
+        réalisés sur une personne suspecte, sur une victime ou toute autre personne ayant pu
+        contribuer, naturellement ou accidentellement à la trace suspecte (contamination d'un profil
+        ADN  déterminé   :  il s'agit par exemple des victimes, en  particulier celles    d'agressions
+        sexuelles, leurs conjoints ou compagnons, des policiers et des magistrats habilités à se
+        rendre sur les lieux, des experts et de leurs collaborateurs, etc.). En aucun cas, les profils
+        des victimes ou des tiers         ne seront envoyés aux banques nationales de données ADN, que
+        ce soit aux fins de comparaison ou aux fins d'enregistrement.  Il     est donc essentiel, pour
+        éviter toute confusion, que la qualité de la personne  concernée  (conjoint de     la victime,
+        policier, etc.) soit communiquée à l'expert afin de faciliter l'interprétation des profils ADN
+        contaminés. En outre, il n'est pas prévu que ces échantillons reçoivent un code ADN unique.
+        L'expert dispose donc   de l'information nécessaire pour ne pas risquer l'envoi de ces profils
+        dans les bases de données nationales. Il est extrêmement important que ces profils ADN ne
+        soient pas enregistrés dans les banques nationales de données     : on pourrait éventuellement
+        penser à demander à un expert de confirmer qu'il s'agit d'un cas prévu à l'article 44sexies et
+        que le profil ADN concerné ne sera pas envoyé aux banques nationales de données.
+
+                                                                                   Avis 02/2010 - 12/17
+ARTICLE 6
+27.     L'article 90undecies  du  Code d'instruction  criminelle est remplacé  par  une  nouvelle
+        disposition. Conformément    à  l'exposé des  motifs, les modifications  apportées          visent
+        essentiellement à mettre en concordance les compétences du juge d'instruction et leur mise
+        en concordance    avec les prérogatives offertes au ministère public. Les conditions          sont
+        cependant plus strictes vu qu'il s'agit du prélèvement d'un échantillon de référence sur un
+        suspect qui n'y consent pas.
+28.     Le choix du législateur de 1999 de limiter cette mesure contraignante à un seuil de la peine
+        applicable (cinq  ans maximum    d'emprisonnement ou   une  peine  plus lourde) n'est          pas
+        modifié. La limitation au niveau de faits punissables est raisonnable et offre une protection
+        suffisante contre l'utilisation disproportionnée de la technique d'identification ADN. Une telle
+        limitation est également  conforme  à  la jurisprudence récente 14 à ce sujet de           la Cour
+        européenne des droits de l'homme.
+29.     Pour le reste (suppression de la condition de la présence de cellules humaines, mineur, …),
+        la Commission renvoie à ses remarques dans la discussion relative à l'article 4.
+ARTICLE 7
+30.     Le Code d'instruction criminelle est complété d'un article 90duedecies. Cet article concerne
+        le prélèvement d'un échantillon de référence chez une personne non suspectée sans son
+        autorisation. La Commission renvoie à ce sujet à la discussion relative à l'article 5.
+ARTICLE 10
+31.     L'article 10 de l'avant-projet de loi insère dans la Loi analyse ADN des définitions comme le
+        fait l'article 2 de l'avant-projet de loi dans le Code d'instruction criminelle, ceci en raison de
+        l'importance égale des deux. La Commission renvoie à ce sujet à la remarque faite sous le
+        point 13.
+14 Case of S. and Marper v. The United Kingdom, 4 décembre 2008.
+
+                                                                                  Avis 02/2010 - 13/17
+ARTICLE 12
+32.    Conformément au § 2, premier alinéa, les profils ADN sont automatiquement effacés 20 ans
+       après leur enregistrement dans la banque de données Criminalistique, au plus tard vingt ans
+       après  leur enregistrement, sauf  si le magistrat compétent   a fixé un  délai  plus       court.
+       L'exposé des motifs explique que ce délai correspond au double du délai de la prescription
+       de l'action publique prévue pour les crimes. Cette explication reste néanmoins sommaire.
+       La Commission estime qu'elle fait référence à la possibilité que le délai de prescription de
+       l'action publique, du fait d'actes interruptifs, puisse être de maximum le double du délai de
+       prescription initial, ce qui correspondrait à 20 ans. Il convient donc aussi de recommander
+       que ce point soit précisé dans l'exposé des motifs. Étant donné cet argument, la Commission
+       n'émet aucune remarque en ce qui concerne la durée de conservation de 20 ans.
+33.    Le deuxième alinéa du § 2 dispose qu'en cas de décision judiciaire définitive d'acquittement
+       ou de non-lieu, l'intéressé             peut demander au procureur du Roi qui donne suite à cette
+       demande, d'ordonner l'effacement immédiat de son profil ADN et des données y relatives,
+       concernant le dossier d'acquittement ou de non-lieu. Étant donné la jurisprudence¹⁵ récente
+       de la Cour européenne des droits de l'homme, conserver le profil ADN d'une personne à
+       l'encontre de  laquelle une   telle  décision a été  prise dans  la banque   de           données
+       "Criminalistique" serait contraire à ses droits fondamentaux. La Commission estime qu'il faut
+       prévoir une  destruction automatique,  comme    c'est le cas dans    la banque  de        données
+       "Condamnés" et de ne pas subordonner cette destruction à une demande de l'intéressé.
+       Cette  destruction automatique  peut  aussi être dans  l'intérêt de tiers (par  exemple        de
+       personnes innocentes présentes sur le lieu de l'infraction), voir plus haut la discussion sous
+       le point 17.
+34.    Le troisième alinéa du § 2 dispose qu'en cas de condamnation ou d'internement définitifs, il
+       est fait application de l'article 5 (banque de données ADN "Condamnés"). La Commission
+       part du principe que cette disposition signifie que le profil ADN du condamné, s'il est satisfait
+       aux  conditions énumérées    à  l'article 5, sera enregistré dans la banque   de          données
+       "Condamnés". Le cas échéant, les profils ADN de la banque de données "Criminalistique"
+       doivent être effacés. Tout cela ne ressort pas clairement du texte de l'avant-projet de loi et
+       doit donc être précisé.
+15 Case of S. and Marper v. The United Kingdom, o.c.
+
+                                                                                   Avis 02/2010 - 14/17
+ARTICLE 13
+35.    Cet article remplace l'actuel article 5 de la Loi analyse ADN et dresse la liste des infractions
+       pour lesquelles le profil génétique du condamné est enregistré et conservé dans la banque
+       de données "Condamnés". La liste des infractions a été adaptée. Selon l'exposé des motifs,
+       une actualisation s'imposait en raison de l'introduction de la peine de travail, le fait que
+       plusieurs nouvelles infractions ont vu le jour (p. ex. génocide, infractions terroristes, ...)
+       l'ajout d'infractions qui par nature se prêtent à être liées à d'autres dossiers par le biais
+       d'une analyse ADN et notamment les infractions commises dans le cadre des organisations
+       criminelles ou des associations de malfaiteurs. La banque de données est aussi élargie aux
+       personnes condamnées pour tentative de commettre une des infractions reprises dans la
+       liste.
+36.    L'avant-projet de loi fixe sans équivoque les personnes dont les profils ADN sont enregistrés
+       dans la banque de données "Condamnés". Les critères cités plus haut garantissent une
+       sélectivité suffisante (énumération limitative des infractions graves), et satisfont dès lors au
+       principe de proportionnalité.
+37.    Le § 2 stipule que les profils ADN et les données y relatives sont automatiquement effacés
+       de la banque de données ADN "Condamnés" trente ans après leur enregistrement. Le critère
+       actuel de suppression du profil ADN "10 ans après le décès de l'intéressé" est dès lors
+       supprimé, ce qui est en tout cas déjà un progrès. Selon la Commission, il manque toutefois
+       toujours dans l'exposé des motifs une justification de la durée de conservation de 30 ans :
+       ce point doit être éclairci.
+ARTICLE 20
+38.    Cet article insère un article 8bis dans la Loi analyse ADN. Conformément à l'exposé des
+       motifs, "il ouvre la voie aux comparaisons de profils ADN avec des banques de données ADN
+       d'autres pays,  tout  en respectant l'intégralité des processus développés   lorsqu'il    s'agit
+       d'expertises de comparaison ne concernant que des enquêtes belges. Il met en œuvre le
+       Traité de Prüm, signé en 2005 par plusieurs pays de l'Union européenne dont la Belgique,
+       qui constitue un accord   formel visant à  intensifier la coopération policière et judiciaire
+       notamment    en vue   de lutter  contre le terrorisme, la criminalité transfrontalière et     la
+       migration illégale. Il consacre l'échange continu des données en ouvrant l'accès des banques
+       de   données ADN   nationales et d'empreintes  digitales nationales ainsi que les      registres
+       d'immatriculation des véhicules aux autres États membres. Le Traité est entré en vigueur en
+       Belgique  le 6  mai   2007 (loi  du 26  décembre   2006  portant assentiment   au       Traité).
+
+                                                                            Avis 02/2010 - 15/17
+Le programme de La Haye avait précédemment               précisé que "les nouvelles technologies
+devaient être exploitées pleinement" et qu'à ce titre, les banques de données nationales
+devaient être   réciproquement accessibles sans pour  autant faire migrer  les        structures
+actuelles vers  des banques de  données européennes    centralisées si de tels projets        ne
+peuvent  démontrer  leur valeur ajoutée. Aussi  la règle qui prévaut  aujourd'hui  est        de
+constituer un réseau des fichiers nationaux des États membres. Les Parties contractantes du
+Traité de Prüm se sont engagées à créer et à gérer des fichiers nationaux d'analyse ADN en
+vue  de  la  poursuite d'infractions pénales qui  pourront  être  consultés  de          manière
+automatique par d'autres Parties contractantes. Au plus tard trois ans après l'entrée en
+vigueur du Traité de Prüm, une initiative devait être présentée en vue de la transposition
+des dispositions du Traité dans le cadre juridique de l'Union européenne en vertu des Actes
+pris en application du titre VI du traité de l'UE. C'est chose faite depuis le 23 juin 2008, par
+les "Décisions 2008/615/JAI et 2008/616/JAI" qui reprennent les mêmes principes que le
+Traité de  Prüm.  Ainsi, tous les États  membres   de  l'Union européenne           ambitionnent
+dorénavant  clairement  d'approfondir la coopération  transfrontalière dans  les        matières
+relevant du titre VI du Traité sur l'Union, en particulier l'échange d'informations entre les
+services chargés de la prévention des infractions pénales et des enquêtes en la matière.
+Les États membres créent et conservent les fichiers nationaux de profils génétiques ; ils
+garantissent la disponibilité des données  en  autorisant les autres points  de         contacts
+nationaux à procéder à des consultations automatiques à des fins de comparaison des
+profils. Les profils ADN de référence échangés de façon automatisée ne peuvent contenir
+aucun   paramètre   permettant   l'identification  directe de  la personne            concernée.
+La consultation des banques  de  données  doit s'inscrire dans le cadre de   la        recherche
+d'infractions pénales. Pour lutter contre un flux d'informations incontrôlé, il est prévu que la
+consultation aura lieu via des points de contact nationaux. Lors du dépôt des instruments de
+ratification du Traité, la Belgique a déclaré que le point de contact national pour l'analyse
+ADN sera l'Institut national de Criminalistique et de Criminologie. L'INCC sera également
+compétent  pour  exercer la  comparaison  entre les banques  de  données  belges  et         des
+banques de données étrangères. Le principe de comparaison de données en provenance de
+fichiers nationaux ADN et l'expression du résultat d'une comparaison sont fondées sur un
+système "hit - no hit" (concordance /non concordance) dans le cadre duquel des données à
+caractère personnel  supplémentaires  ne  sont échangées   par  le biais des          procédures
+d'entraide judiciaire que s'il y a eu concordance, leur transmission et leur réception étant
+régies par la législation nationale.
+
+                                                                                  Avis 02/2010 - 16/17
+        Ce mécanisme garantit une structure adéquate de protection des données, étant entendu
+        que la transmission de données à caractère personnel à un autre État membre exige un
+        niveau suffisant de protection des données de la part de l'État membre destinataire."
+39.     Le § 4 stipule que le gestionnaires des banques nationales de données ADN veille au respect
+        du prescrit de cette loi concernant la protection et à la suppression des données échangées
+        avec les points de contact étrangers.
+40.     La Commission prend note de cet échange avec des points de contact extérieurs, tels que
+        prévus dans le Traité de Prüm et la Décision 2008/615/JAI et la Décision 2008/616/JAI.
+        Elle estime toutefois qu'étant donné  cet  échange,  et plus  particulièrement le    caractère
+        sensible des données contenues dans les banques de données de l'INCC, un contrôle et une
+        surveillance effectifs de ces traitements de données s'avèrent nécessaires. Il faudrait aussi
+        reprendre dans la loi que         l'INCC, et plus particulièrement le gestionnaire des banques
+        nationales de données, est tenu de remettre chaque année un rapport à la Commission
+        conformément à l'article 18 de l'AR relatif à l'analyse ADN. Cet AR prévoit actuellement que
+        la personne désignée fasse un rapport sur les banques de données ADN. Un tel rapport
+        devrait aussi devoir être transmis à la Commission et être élargi à des informations relatives
+        à l'exécution de l'échange des profils ADN avec les points de contact étrangers.
+
+                                                                               Avis 02/2010 - 17/17
+PAR CES MOTIFS,
+La Commission émet un avis favorable pour autant qu'il soit tenu compte des remarques formulées
+concernant :
+-       point 13, relatif aux séquences non codantes du patrimoine génétique ;
+-       point 15, relatif au numéro de code ADN et aux données anonymes ;
+-       point 17, concernant l'enregistrement des profils ADN des citoyens innocents ;
+-       point 21, relatif aux termes "ou la commission de faits similaires";
+-       point 22, concernant le prélèvement de référence chez un mineur ;
+-       point 26,  le  prélèvement  d'un  échantillon de  référence  auprès   d'une  personne   non
+        suspecte ;
+-       point 32,  relatif à la durée  de  conservation de  20  ans  dans  la banque   de   données
+        "Criminalistique" ;
+-       point 33, la destruction d'un profil ADN en cas d'acquittement ou de non-lieu ;
+-       point 37, la durée de conservation de 30 ans dans la banque de données "Condamnés";
+-       point 40, relatif au rapport à la Commission.
+Pour l‟Administrateur e.c.,                                   Le Président,
+(sé) Patrick Van Wouwe                                        (sé) Willem Debeuckelaere

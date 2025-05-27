@@ -1,0 +1,2 @@
+id,file_name,decision_type,keywordid,url_pdf,easy_query_passed,medium_query_passed,hard_query_passed,all_passed,error
+8623,juportal.be_BE_CASS_2007_ARR.20070612.2_FR.txt,Arrêt,KUD2-29-2-3,https://juportal.be/JUPORTAwork/ECLI:BE:CASS:2007:ARR.20070612.2_FR.pdf?Version=1607979575,true,false,true,false,

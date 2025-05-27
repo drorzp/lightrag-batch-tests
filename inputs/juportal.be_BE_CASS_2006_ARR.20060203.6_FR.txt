@@ -1,0 +1,847 @@
+                                3 FEVRIER 2006                              F.04.0007.F/ 1
+                 Cour de cassation de Belgique
+                                           Arrêt
+N° F.04.0007.F
+LHOIST,  société anonyme dont le siège social est établi à Ottignies       ‑Louvain‑
+la‑Neuve, rue Charles Dubois, 28,
+demanderesse en cassation,
+représentée par Maître John Kirkpatrick, avoca     t à la Cour de cassation, dont le
+cabinet est établi à Bruxelles, boulevard de l’Empereur, 3,
+
+contre
+ETAT BELGE,         représenté par le ministre des Finances, dont le cabinet est
+établi à Bruxelles, rue de la Loi, 12,
+défendeur en cassation,
+représenté par M aître François T’Kint, avocat à la Cour de cassation, dont le
+cabinet est établi à Charleroi, rue de l’Athénée, 9, où il est fait élection de
+domicile.
+
+                               3 FEVRIER 2006                              F.04.0007.F/ 2
+I.      La procédure devant la Cour
+        Le pourvoi en cassation est dirigé contre l’arrêt rendu le 16 octobre
+2003 par la cour d’appel de Bruxelles.
+        Le président de section Claude Parmentier a fait rapport.
+        L’avocat général André Henkes a conclu.
+
+II.     Le moyen de cassation
+        La demanderesse présente un moyen libellé dans les termes suivants  :
+
+        Dispositions légales violées
+        -  article 149 de la Constitution ;
+        - articles 3, 175 et 176 du titre IX du livre 1   er du Code de commerce
+(avant l'abrogation de ce titre par la loi du 7 mai 1999 contenant le Code des
+sociétés) ;
+        - articles 25, § 1 er, alinéa 1er, et § 2, 45, 4°, et 49 du C ode des impôts
+sur les  revenus  coordonné  par  arrêté royal du 26 février 1964 (tels que ces
+dispositions étaient en vigueur pour l'exercice d'imposition 1989) ;
+        -  article 34 de l'arrêté royal du 4 mars 1965 d'exécution du Code des
+impôts sur les revenu s (tel que cet article a été modifié par arrêté royal du 16
+mars 1977) ;
+        - article 3, alinéa 3, de la loi du 17 juillet 1975 relative à la
+comptabilité et aux comptes annuels des entreprises, tel qu’il a été modifié par
+l'article 2 de l'arrêté royal du 15 décembre 1978.
+        Décisions et motifs critiqués
+        Après avoir constaté, en substance, (1) que la société anonyme
+Interferry, filiale de la S.N.C.B., a conclu, par contrat du 29 novembre 1988,
+une association en participation (ci    -après « l'association ») avec      d'autres
+sociétés ; qu'elle en était l'associé gérant, les autres associés étant associés
+
+                              3 FEVRIER 2006                              F.04.0007.F/ 3
+participants ; que la [demanderesse], à laquelle a succédé la société du même
+nom ici demanderesse, était l'un des associés participants et a fait un apport en
+espèces de 32 p.c. du fonds social ; que les associés sont convenus de
+participer aux bénéfices et aux pertes de l'association en fonction de leurs
+participations respectives dans le fonds social ; (2) que, par convention du
+même jour, la société Interferry, ag issant en qualité d'associé gérant de ladite
+association, a acheté à la S.N.C.B., pour le compte commun des associés, du
+matériel ferroviaire roulant, utilisé depuis une dizaine d'années, pour le prix
+de 3.000.000.000 francs hors TVA ; (3) que dans sa décl        aration fiscale de
+l'exercice d'imposition 1989, la société Interferry a régulièrement opté, pour le
+compte de tous les associés, pour l'amortissement de ce matériel suivant la
+méthode dégressive, compte tenu d'une durée d'utilisation probable de dix
+ans ; que dans les comptes de l'association au 31 décembre 1988, elle a
+comptabilisé en conséquence une première annuité d'amortissement de 20 p.c.
+du prix d'acquisition de ce matériel et que, compte tenu de cet amortissement,
+les comptes de l'association pour    cet exercice se sont soldés par une perte ;
+que la [demanderesse] a déduit 32 p.c. de cette perte pour la détermination de
+son bénéfice imposable de l'exercice fiscal 1989 ; (4) que l'administration a
+rejeté la déduction de cette perte chez la [demanderess       e] à concurrence du
+montant total de l'amortissement compris dans celle     -ci et a enrôlé sur cette
+base un supplément à l'impôt des sociétés ; que le recours introduit par la
+[demanderesse] est dirigé contre la décision directoriale qui a rejeté sa
+réclamation contre cette imposition ; (5) que, dans ses  conclusions  devant  la
+cour d'appel de Bruxelles, le défendeur soutient : 1° que la première annuité
+d'amortissement du matériel acquis par la société anonyme Interferry pour le
+compte des associés devait êt re limitée à deux douzièmes, eu égard au fait que
+l'association en participation n'a été conclue que par contrat du 29 novembre
+1988 ; 2° que la demanderesse n'était pas fondée à amortir suivant la méthode
+dégressive sa quote-part du matériel ferroviaire a cquis par la société anonyme
+Interferry pour le compte des associés, à défaut d'avoir joint à sa déclaration
+fiscale de l'exercice d'imposition 1989 le relevé prescrit par l'article 39 de
+l'arrêté d'exécution du Code des impôts sur les revenus (1964),
+        et après avoir rejeté la thèse du défendeur sur ce second point, pour le
+motif, en substance, que la régularité de l'amortissement doit être appréciée
+
+                              3 FEVRIER 2006                              F.04.0007.F/ 4
+chez la société anonyme Interferry, associé gérant, et non chez les associés
+participants, qui ne comptabilis ent pas une quote -part de l'amortissement du
+matériel acquis pour le compte commun des associés, mais une quote      -part de
+la perte par laquelle se sont soldés les comptes de l'association en
+participation au 31 décembre 1988,
+       l'arrêt annule la cotisation lit igieuse dans la mesure seulement où « la
+base taxable de la [demanderesse] a été fixée sans prendre en compte une
+perte de l'association en participation déductible et égale à l'amortissement
+dégressif admissible de deux douzièmes ; condamne la demanderess         e à dix
+douzièmes et le défendeur à deux douzièmes des frais ».
+       L'arrêt fonde cette décision sur les motifs suivants :
+       « L 'administration ne conteste pas un amortissement portant sur la
+période d'activité de l'association  - 33 jours ou deux mois     - alors q ue la
+(demanderesse) revendique un amortissement correspondant à un exercice
+social normal.
+       La déduction litigieuse ne porte pas dans le chef de la (demanderesse)
+sur un amortissement d'une quotité des immobilisations mais sur une quotité de
+la perte subie    par l'association en participation compte tenu de
+l'amortissement pratiqué dans les comptes de cette association au cours de son
+premier exercice de courte durée.
+       On ne saurait donc pas, sans violer la portée de la convention
+d'association  - comme tente d   e le faire admettre la (demanderesse), en
+invoquant la transparence de l'association    - appliquer un amortissement en
+fonction de l'exercice social complet normal de l'associé. En effet, l'associé ne
+déduit pas un amortissement mais une perte (…).
+       Si une pr emière annuité d'amortissement normal peut être déduite des
+revenus professionnels de l'exercice comptable au cours duquel les actifs
+amortissables ont été effectivement acquis sans avoir égard au fait que cette
+acquisition a eu lieu au début ou à la fin d      e la période, le montant de
+l'amortissement doit toutefois être diminué ou augmenté proportionnellement à
+la durée de l'exercice comptable. Pour l'année où l'activité est entamée,
+l'annuité d'amortissement afférente aux actifs y affectés doit toujours être
+réduite proportionnellement au nombre de mois d'activité professionnelle.
+
+                              3 FEVRIER 2006                              F.04.0007.F/ 5
+       Les amortissements en raison d'immobilisations acquises ou constituées
+par l'association en participation, par l'intermédiaire de son gérant, durant
+l'année dans laquelle elle a été   constituée et a entamé ses activités, doivent
+correspondre à un prorata de l'annuité compté en douzièmes en vue de la
+détermination du résultat de l'association. La quotité de la perte que l'associé
+peut déduire est dès lors réduite d'autant.
+       La perte déd     uctible provenant du résultat de l'association en
+participation doit dès lors être réduite en fonction de la limitation des
+amortissements qui en sont l’origine, proportionnellement au nombre de mois
+d'activité professionnelle de ladite association en part    icipation, soit deux
+douzièmes ... ».
+       Griefs
+       Première branche
+       Dans ses secondes conclusions additionnelles, la demanderesse faisait
+valoir ce qui suit :
+        « (1) Lorsque, comme en l'espèce, les membres d'une association en
+participation font des apports e n numéraire, ces fonds deviennent la propriété
+de l'associé gérant, à charge de les affecter, pour le compte commun des
+associés, à l'objet de l'association (…) et les biens que l'associé gérant acquiert
+au moyen de ces fonds (et en outre, en l'espèce, au  moyen de fonds empruntés)
+pour le compte commun des associés deviennent la propriété de l'associé
+gérant à l'égard des tiers, en sorte qu'ils peuvent être saisis par ses créanciers
+(…). Il s'agit toutefois d'une propriété fiduciaire : l’associé gérant est
+propriétaire des biens pour le compte des associés.
+       (2) Au point de vue comptable, l'article 3, alinéa 3, de la loi du 17
+juillet 1975 relative à la comptabilité et aux comptes annuels des entreprises,
+modifié par l'article 2 de l'arrêté royal n° 22 du 15     décembre 1978, se borne à
+disposer :
+       ‘Lorsque l'activité d'une entreprise comporte, au titre de gérant ou
+d'associé, des opérations menées en association commerciale momentanée ou
+en participation, sa comptabilité est appropriée de manière à lui conférer l      e
+
+                              3 FEVRIER 2006                              F.04.0007.F/ 6
+caractère complet défini à l'alinéa 1 er, à la fois sous l'angle des rapports avec
+les tiers d'une part et des comptes que les associés et, le cas échéant, le gérant,
+ont à se rendre d'autre part’.
+        La loi ignore donc la comptabilité distincte des opératio          ns de
+l'association en participation qui peut être tenue par l'associé gérant
+indépendamment de sa propre comptabilité (...).
+        Dans la situation où, comme en l'espèce, l'associé gérant est
+propriétaire à l’égard des tiers des biens qu'il a acquis pour le co        mpte
+commun des associés, deux méthodes comptables se rencontrent dans la
+pratique (voir A. Halterman, Fiscale transparantie, 1992,  n° 436).
+        Suivant une première méthode, l'associé gérant tient une comptabilité
+séparée des opérations accomplies pour le co    mpte de l'association et chacun
+des associés participants reprend dans ses comptes annuels sa part
+proportionnelle des différents postes de cette comptabilité, et notamment sa
+part des éléments d'actifs et des amortissements.
+        Suivant une autre méthode, l'a      ssocié gérant incorpore dans sa
+comptabilité générale toutes les opérations faites pour compte des associés, et
+notamment les éléments d'actif qu'il a acquis pour le compte des associés et les
+amortissements pratiqués sur ceux -ci, mais comptabilise par ail leurs une dette
+vis-à-vis des associés participants. Ceux   -ci, dans ce système, se bornent à
+comptabiliser, dans leurs comptes annuels, leur part dans le résultat net de
+l'association (bénéfice ou perte).
+        Les deux méthodes conduisent au même résultat final,           tant chez
+l’associé gérant que chez les associés participants (...).
+        Dans la présente espèce, la société Interferry, associé gérant, a
+appliqué la seconde méthode comme cela résulte de ses comptes annuels au 31
+décembre 1988 (voir déclaration fiscale ...,  annexe 1, poste III, E, de l'actif qui
+indique en immobilisations corporelles un montant de 2.000.400.000  francs
+représentant le prix d'acquisition de 3.000.000 francs diminué de
+l'amortissement de 20 p.c. ; voir aussi compte de résultats, poste II, D, q     ui
+comprend l'amortissement de 600.000.000 francs)           ; les mêmes comptes
+annuels reprennent dans les dettes, poste VIII du passif, d'une part la dette
+bancaire, d'autre part la dette vis  -à-vis des associés participants ... ; (...) la
+
+                              3 FEVRIER 2006                              F.04.0007.F/ 7
+répartition de la perte  entre les associés participants apparaît au compte de
+résultats dans les produits, sous la rubrique 1, D.
+        Au contraire, la (demanderesse) a estimé devoir comptabiliser, dans
+ses comptes annuels, conformément à la première méthode décrite supra, sa
+quote-part de 32 p.c. du matériel roulant acquis par l'associé gérant pour le
+compte commun des associés, ainsi que sa quote     -part des amortissements sur
+ces éléments d'actifs (...).
+        (3) En vertu de l'article 25 du Code des impôts sur les revenus (1964),
+la part de   chaque associé dans les résultats (bénéfices ou pertes) d'une
+association en participation est considérée comme un résultat (bénéfice ou
+perte) dans le chef de chaque associé.
+        L'association en participation, étant dénuée de la personnalité
+juridique (loi  sur les sociétés, article 3 et 176), est transparente en droit fiscal
+et n'est donc pas soumise en tant que telle à l'impôt des sociétés. La loi sur les
+comptes annuels des entreprises ignore la comptabilité séparée des opérations
+de l'association qui peut être tenue par l'associé gérant (…).
+        La durée de l'exercice social au cours duquel l'amortissement de biens
+acquis par l'associé gérant pour le compte des associés est comptabilisé doit
+donc être appréciée exclusivement dans le chef de l'associé gérant et     dans le
+chef des associés participants.
+        En l'espèce, l'amortissement du matériel roulant a été comptabilisé au
+31 décembre 1988 (…) par Interferry (à concurrence de 100 p.c.) et par la
+(demanderesse) à concurrence de 32 p.c. (…). Or, tant chez Interferry  que chez
+la (demanderesse), l'exercice clôturé le 31 décembre 1988 est un exercice de
+douze mois.
+        Il importe donc peu que l’association en participation ait été conclue
+par un contrat du 29 novembre 1988 et que le matériel roulant ait été acquis à
+la même  date. En effet, il n’a jamais été contesté qu'une première annuité
+d'amortissement entière puisse être déduite des revenus professionnels de
+l'exercice comptable au cours duquel les actifs amortissables ont été acquis,
+même si l'acquisition a lieu à la fin        de la période (voir en matière
+d'amortissements dégressifs, arrêté d'exécution du Code des impôts sur les
+revenus (1964), article 34, 1°) ».
+
+                              3 FEVRIER 2006                              F.04.0007.F/ 8
+        Résumant « la position de la [demanderesse] », l'arrêt  considère que,
+« pour la [demanderesse], la conséquence de      la transparence de l'association
+en participation, dénuée de la personnalité juridique, est que l'exercice social
+au cours duquel l’amortissement des biens acquis doit être apprécié est celui
+de l'associé participant sans que la constitution de l'associat          ion en
+participation ait une incidence quelconque sur l'amortissement. Or, il s'agit
+pour la [demanderesse] d'un exercice normal de 12 mois... ».
+        La cour d'appel a ainsi perdu de vue que la demanderesse faisait aussi
+valoir que, si l'amortissement devait ê tre comptabilisé chez la société anonyme
+Interferry, il s'agissait d'une immobilisation acquise par celle    -ci, pour le
+compte commun des associés, au cours d'un exercice de douze mois de cette
+société (passage des secondes conclusions additionnelles de la d    emanderesse
+cité supra, (3)).
+        Ni par les motifs reproduits plus haut (sous le titre « décisions et motifs
+critiqués »), ni par aucun autre motif, l'arrêt ne répond à l'argumentation de la
+demanderesse , relative à la déduction de la première annuité d'amor tissement
+chez la société Interferry : les motifs précités de l'arrêt ne concernent que la
+déduction de l'amortissement chez la demanderesse, associé participant.
+        L'arrêt laisse sans réponse spécialement l'argumentation de la
+demanderesse  reproduite  supr a,  (3), en tant qu'elle se fondait sur le fait que
+« l'amortissement du matériel roulant a été comptabilisé au 31 décembre 1988
+(...) par Interferry (à concurrence de 100 p.c.]. Or, (…) chez Interferry (…),
+l'exercice clôturé le 31 décembre 1988 est un ex       ercice de douze mois. Il
+importe donc peu que l'association en participation ait été conclue par un
+contrat du 29 novembre 1988 et que le matériel roulant ait été acquis à la
+même date ». L'arrêt attaqué n'est dès lors pas régulièrement motivé (violation
+de l'article 149 de la Constitution).
+        Seconde branche
+        Aux termes de l'article 34 de l'arrêté royal du 4 mars 1965 d'exécution
+du Code des impôts sur les revenus pris en vertu de l'article 49 du Code des
+impôts sur les revenus (1964), « lorsqu'un contribua   ble assujetti à l'impôt des
+personnes physiques, à l'impôt des sociétés ou à l'impôt des non     -résidents a
+
+                               3 FEVRIER 2006                              F.04.0007.F/ 9
+opté pour le régime d'amortissements dégressifs prévu par l'article 49 du Code
+des impôts sur les revenus, le montant de l'annuité d'amortissement dégr     essif
+afférent à chaque groupe d'éléments de nature analogue amortissable au même
+taux dégressif et admissible au titre de charge professionnelle est déterminé :
+1° pour la période imposable en cours à la date de l'acquisition... de ces
+éléments, en appliq uant, quelle que soit cette date, à la valeur d'investissement
+ou de revient un taux n'excédant pas le double du taux d'amortissement
+linéaire correspondant à la durée normale d'utilisation de ces mêmes
+éléments... ».
+        En l'espèce, il ressort des constatati   ons de l'arrêt que la société
+Interferry, agissant en qualité de gérant de l'association en participation et,
+par conséquent, pour le compte commun des associés, a acquis de la SNCB du
+matériel ferroviaire roulant.
+        Sans dénier que l'exercice social 1988 de  la société Interferry avait une
+durée de douze mois, comme l'exposait la demanderesse dans ses secondes
+conclusions additionnelles citées dans la première branche du moyen, et que
+cette société a régulièrement opté pour le régime d'amortissements dégressi    fs,
+l'arrêt décide que la première annuité d'amortissement dégressif de 20 p.c.
+comptabilisée par cette société doit être réduite à deux douzièmes pour les
+motifs précités selon lesquels « le montant de l'amortissement doit être
+diminué... proportionnellem ent à la durée de l'exercice comptable ; pour
+l'année où l'activité est entamée, l’annuité d'amortissement afférente aux actifs
+y affectés doit toujours être réduite proportionnellement au nombre de mois
+d'activité professionnelle ; les amortissements en r     aison d'immobilisations
+acquises ou constituées par l'association en participation, par l'intermédiaire
+de son gérant, durant l'année dans laquelle elle a été constituée et a entamé ses
+activités, doivent correspondre à un prorata de l'annuité comptée en douzièmes
+en vue de la détermination du résultat de l'association ».
+        L'arrêt applique ainsi à une association en participation une
+instruction administrative relative au cas où une personne physique commence
+une activité professionnelle au cours de la pério   de imposable (Commentaire
+administratif du Code des impôts sur les revenus (1964), article 44/167 et, sous
+l'empire du Code des impôts sur les revenus 1992, Commentaire administratif
+du Code des impôts sur les revenus 1992, article 61/87 à 89). Cette règle
+
+                             3 FEVRIER 2006                              F.04.0007.F/ 10
+trouve son fondement légal, en matière d'amortissements linéaires, dans
+l'article 45, 4°, du Code des impôts sur les revenus (1964), selon lequel les
+amortissements ne sont admis que s' « ils correspondent à une dépréciation
+réellement survenue pendant la  période imposable» et s'applique par voie de
+conséquence aux amortissements dégressifs, dont les annuités sont déterminées
+par référence au taux de l'annuité d'amortissement linéaire (article 34 de
+l'arrêté d'exécution précité).
+        Cette règle formulée à pro    pos de l'impôt des personnes physiques
+s'applique assurément, par identité de motifs, au cas où une société dotée de la
+personnalité juridique a un premier exercice social d'une durée inférieure à
+douze mois, mais non au cas où, comme en l'espèce, une tell     e société conclut
+un contrat d'association en participation au cours d'un exercice social de
+douze mois et acquiert des immobilisations amortissables au cours de cet
+exercice en qualité d'associé gérant de l'association en participation, pour
+compte commun des associés.
+        En effet, l'association en participation, comme l'association
+momentanée, est une société dénuée de la personnalité juridique (articles 3,
+175 et 176 du titre IX du livre 1  er du Code de commerce) et transparente au
+point de vue fiscal (artic le 25, § 1ᵉʳ, alinéa 1°, et § 2, du Code des impôts sur
+les revenus (1964)), de sorte que, pour une société qui conclut, au cours d'un
+exercice social, une association en participation avec d'autres sociétés et
+acquiert, au cours de ce même exercice social    , en qualité d'associé gérant de
+cette association, des biens pour le compte commun des associés, cette
+acquisition constitue une opération de cet associé faite en association au cours
+de son exercice social et non une opération de l'association en partici    pation
+qui, en l'absence de personnalité juridique, n'a pas d'activité propre. C'est ce
+que reflète l'article 3, alinéa 3, de la loi du 17 juillet 1975 relative à la
+comptabilité et aux comptes annuels des entreprises : « lorsque l'activité d'une
+entreprise comporte, au titre de gérant ou d'associé, des opérations menées en
+association commerciale momentanée ou en participation, sa comptabilité est
+appropriée de manière à lui conférer le caractère complet... ».
+        Ni cette disposition ni aucune autre dispositi  on de ladite loi ne font
+allusion à la comptabilité ou aux comptes annuels d'une association
+momentanée ou d'une association en participation, car une telle association ne
+
+                              3 FEVRIER 2006                              F.04.0007.F/ 11
+constitue pas elle -même, à défaut de personnalité juridique, une « entreprise»
+au se ns de la loi. Aucune disposition légale de droit privé ou de droit
+comptable n'impose aux membres d'une telle association d'arrêter, à l'issue de
+chaque « exercice social», des « comptes annuels». Certes, dans le cas d'une
+association en participation conc lue entre des sociétés tenues, elles, de publier
+des comptes annuels, le contrat d'association imposera normalement à
+l'associé gérant, tenu de rendre compte de sa gestion, d'arrêter annuellement
+des comptes de l'association, mais il s'agit alors d'une obl     igation purement
+conventionnelle.
+        Dès lors, en considérant l'acquisition du matériel ferroviaire faite par
+la société Interferry le 29 novembre 1988 en qualité d'associé gérant d'une
+association en participation conclue le même jour avec plusieurs autres
+sociétés  comme  une  acquisition  faite  «  par » l'association en participation
+« constituée » à cette date, pour en déduire qu'il s'agit d'une immobilisation
+acquise au cours d'un exercice social s'étendant du 29 novembre au 31
+décembre 1988, alors qu'il     s'agit d'immobilisations acquises par la société
+Interferry au cours d'un exercice social de douze mois, l'arrêt viole l'ensemble
+des dispositions visées en tête du moyen.
+III.    La décision de la Cour
+
+        Quant à la première branche  :
+
+        L’arrêt considère que «   les amortissements en raison d’immobilisations
+acquises ou constituées par l’association en participation, par l’intermédiaire de
+son gérant, durant l’année dans laquelle elle a été constituée et a entamé ses
+activités, doivent correspondre à un prorata de l’  annuité compté en douzièmes
+en vue de la détermination du résultat de l’association  ».
+        Il répond ainsi, en les contredisant, aux conclusions de la demanderesse
+qui faisait valoir que l’exercice 1988 de l’associé gérant était de douze mois et
+qu’il importai t peu que l’association en participation eût été constituée le 29
+
+                               3 FEVRIER 2006                              F.04.0007.F/ 12
+novembre 1988 et que le matériel roulant faisant l’objet des amortissements
+litigieux eût été acquis à cette date.
+        Le moyen, en cette branche, manque en fait.
+
+        Quant à la seconde branche  :
+
+        L’arrêt constate que le litige porte sur le droit de la demanderesse de
+pratiquer les amortissements afférents à du matériel roulant acheté le 29
+novembre 1988 et donné en location avec effet au 1          er décembre 1988 par la
+société anonyme Interferry agissant      en qualité de gérant de l’association en
+participation créée le 29 novembre 1988 et dont la demanderesse était l’un des
+membres.
+        L’article 25, § 1 er, alinéa 1ᵉʳ, du Code des impôts sur les revenus (1964)
+dispose que dans les sociétés civiles ou association     s sans personnalité juridique
+qui bénéficient de revenus visés à l’article 20, 1° ou 3°, les prélèvements des
+associés ou membres, ainsi que leurs parts dans les bénéfices ou profits
+distribués ou non distribués, sont considérés comme des bénéfices ou prof            its
+dans le chef desdits associés ou membres.
+        Aux termes de l’article 45, 4°, de ce code sont notamment considérés
+comme charges professionnelles les amortissements relatifs aux frais
+d’établissement et aux immobilisations incorporelles et corporelles dont
+l’utilisation est limitée dans le temps, tels que ces frais et  immobilisations sont
+définis par la législation relative à la comptabilité et aux comptes annuels des
+entreprises, dans la mesure où ces amortissements sont nécessaires et où ils
+correspondent à une dépréciation réellement survenue pendant la période
+imposable.
+        L’association en participation étant une société dépourvue de la
+personnalité juridique, l’acquisition de biens par l’associé gérant pour le
+compte commun des associés constitue une opé          ration de cet associé faite en
+association au cours de l’exercice social de celui       ‑ci et non une opération de
+l’association en participation.
+
+                               3 FEVRIER 2006                              F.04.0007.F/ 13
+        Il s’ensuit que les amortissements résultant d’immobilisations acquises
+par l’associé gérant pour le compte commun         des associés au cours de l’année
+qui a vu cette association se constituer doivent correspondre pour cette année à
+la durée de l’exercice pendant lequel l’association a exercé son activité et,
+partant, que l’annuité d’amortissement revendiquée par un membre            participant
+doit être réduite proportionnellement.
+        L’arrêt, qui considère l’acquisition du matériel roulant précité comme
+une acquisition faite pour le compte de l’association constituée le 29 novembre
+1988, décide légalement que l’annuité d’amortissement              déductible pour
+l’exercice d’imposition 1989 doit être réduite à deux douzièmes en raison du
+fait que le premier exercice social de l’association s’est limité à la période du
+29 novembre au 31 décembre 1988.
+        Le moyen, en cette branche, ne peut être accuei lli.
+
+        Par ces motifs,
+
+        La Cour
+
+        Rejette le pourvoi ;
+        Condamne la demanderesse aux dépens.
+Les dépens taxés à la somme de trois cent vingt            ‑huit euros cinquante  ‑huit
+centimes payés par la demanderesse.
+Ainsi jugé par la Cour de cassation, première chambre, à                Bruxelles, où
+siégeaient le président de section Claude Parmentier, les conseillers Didier
+Batselé, Daniel Plas, Christine Matray et Philippe Gosseries, et prononcé en
+audience publique du trois février deux mille six par le président de section
+Claude P armentier, en présence de l’avocat général André Henkes, avec
+l’assistance du greffier Marie ‑Jeanne Massart.
+
+--- ADDITIONAL CONTENT ADDED 2025-05-26T02:03:14.820Z ---
+
+                                3 FEVRIER 2006                              F.04.0007.F/ 1
+                 Cour de cassation de Belgique
+                                           Arrêt
+N° F.04.0007.F
+LHOIST,  société anonyme dont le siège social est établi à Ottignies       ‑Louvain‑
+la‑Neuve, rue Charles Dubois, 28,
+demanderesse en cassation,
+représentée par Maître John Kirkpatrick, avoca     t à la Cour de cassation, dont le
+cabinet est établi à Bruxelles, boulevard de l’Empereur, 3,
+
+contre
+ETAT BELGE,         représenté par le ministre des Finances, dont le cabinet est
+établi à Bruxelles, rue de la Loi, 12,
+défendeur en cassation,
+représenté par M aître François T’Kint, avocat à la Cour de cassation, dont le
+cabinet est établi à Charleroi, rue de l’Athénée, 9, où il est fait élection de
+domicile.
+
+                               3 FEVRIER 2006                              F.04.0007.F/ 2
+I.      La procédure devant la Cour
+        Le pourvoi en cassation est dirigé contre l’arrêt rendu le 16 octobre
+2003 par la cour d’appel de Bruxelles.
+        Le président de section Claude Parmentier a fait rapport.
+        L’avocat général André Henkes a conclu.
+
+II.     Le moyen de cassation
+        La demanderesse présente un moyen libellé dans les termes suivants  :
+
+        Dispositions légales violées
+        -  article 149 de la Constitution ;
+        - articles 3, 175 et 176 du titre IX du livre 1   er du Code de commerce
+(avant l'abrogation de ce titre par la loi du 7 mai 1999 contenant le Code des
+sociétés) ;
+        - articles 25, § 1 er, alinéa 1er, et § 2, 45, 4°, et 49 du C ode des impôts
+sur les  revenus  coordonné  par  arrêté royal du 26 février 1964 (tels que ces
+dispositions étaient en vigueur pour l'exercice d'imposition 1989) ;
+        -  article 34 de l'arrêté royal du 4 mars 1965 d'exécution du Code des
+impôts sur les revenu s (tel que cet article a été modifié par arrêté royal du 16
+mars 1977) ;
+        - article 3, alinéa 3, de la loi du 17 juillet 1975 relative à la
+comptabilité et aux comptes annuels des entreprises, tel qu’il a été modifié par
+l'article 2 de l'arrêté royal du 15 décembre 1978.
+        Décisions et motifs critiqués
+        Après avoir constaté, en substance, (1) que la société anonyme
+Interferry, filiale de la S.N.C.B., a conclu, par contrat du 29 novembre 1988,
+une association en participation (ci    -après « l'association ») avec      d'autres
+sociétés ; qu'elle en était l'associé gérant, les autres associés étant associés
+
+                              3 FEVRIER 2006                              F.04.0007.F/ 3
+participants ; que la [demanderesse], à laquelle a succédé la société du même
+nom ici demanderesse, était l'un des associés participants et a fait un apport en
+espèces de 32 p.c. du fonds social ; que les associés sont convenus de
+participer aux bénéfices et aux pertes de l'association en fonction de leurs
+participations respectives dans le fonds social ; (2) que, par convention du
+même jour, la société Interferry, ag issant en qualité d'associé gérant de ladite
+association, a acheté à la S.N.C.B., pour le compte commun des associés, du
+matériel ferroviaire roulant, utilisé depuis une dizaine d'années, pour le prix
+de 3.000.000.000 francs hors TVA ; (3) que dans sa décl        aration fiscale de
+l'exercice d'imposition 1989, la société Interferry a régulièrement opté, pour le
+compte de tous les associés, pour l'amortissement de ce matériel suivant la
+méthode dégressive, compte tenu d'une durée d'utilisation probable de dix
+ans ; que dans les comptes de l'association au 31 décembre 1988, elle a
+comptabilisé en conséquence une première annuité d'amortissement de 20 p.c.
+du prix d'acquisition de ce matériel et que, compte tenu de cet amortissement,
+les comptes de l'association pour    cet exercice se sont soldés par une perte ;
+que la [demanderesse] a déduit 32 p.c. de cette perte pour la détermination de
+son bénéfice imposable de l'exercice fiscal 1989 ; (4) que l'administration a
+rejeté la déduction de cette perte chez la [demanderess       e] à concurrence du
+montant total de l'amortissement compris dans celle     -ci et a enrôlé sur cette
+base un supplément à l'impôt des sociétés ; que le recours introduit par la
+[demanderesse] est dirigé contre la décision directoriale qui a rejeté sa
+réclamation contre cette imposition ; (5) que, dans ses  conclusions  devant  la
+cour d'appel de Bruxelles, le défendeur soutient : 1° que la première annuité
+d'amortissement du matériel acquis par la société anonyme Interferry pour le
+compte des associés devait êt re limitée à deux douzièmes, eu égard au fait que
+l'association en participation n'a été conclue que par contrat du 29 novembre
+1988 ; 2° que la demanderesse n'était pas fondée à amortir suivant la méthode
+dégressive sa quote-part du matériel ferroviaire a cquis par la société anonyme
+Interferry pour le compte des associés, à défaut d'avoir joint à sa déclaration
+fiscale de l'exercice d'imposition 1989 le relevé prescrit par l'article 39 de
+l'arrêté d'exécution du Code des impôts sur les revenus (1964),
+        et après avoir rejeté la thèse du défendeur sur ce second point, pour le
+motif, en substance, que la régularité de l'amortissement doit être appréciée
+
+                              3 FEVRIER 2006                              F.04.0007.F/ 4
+chez la société anonyme Interferry, associé gérant, et non chez les associés
+participants, qui ne comptabilis ent pas une quote -part de l'amortissement du
+matériel acquis pour le compte commun des associés, mais une quote      -part de
+la perte par laquelle se sont soldés les comptes de l'association en
+participation au 31 décembre 1988,
+       l'arrêt annule la cotisation lit igieuse dans la mesure seulement où « la
+base taxable de la [demanderesse] a été fixée sans prendre en compte une
+perte de l'association en participation déductible et égale à l'amortissement
+dégressif admissible de deux douzièmes ; condamne la demanderess         e à dix
+douzièmes et le défendeur à deux douzièmes des frais ».
+       L'arrêt fonde cette décision sur les motifs suivants :
+       « L 'administration ne conteste pas un amortissement portant sur la
+période d'activité de l'association  - 33 jours ou deux mois     - alors q ue la
+(demanderesse) revendique un amortissement correspondant à un exercice
+social normal.
+       La déduction litigieuse ne porte pas dans le chef de la (demanderesse)
+sur un amortissement d'une quotité des immobilisations mais sur une quotité de
+la perte subie    par l'association en participation compte tenu de
+l'amortissement pratiqué dans les comptes de cette association au cours de son
+premier exercice de courte durée.
+       On ne saurait donc pas, sans violer la portée de la convention
+d'association  - comme tente d   e le faire admettre la (demanderesse), en
+invoquant la transparence de l'association    - appliquer un amortissement en
+fonction de l'exercice social complet normal de l'associé. En effet, l'associé ne
+déduit pas un amortissement mais une perte (…).
+       Si une pr emière annuité d'amortissement normal peut être déduite des
+revenus professionnels de l'exercice comptable au cours duquel les actifs
+amortissables ont été effectivement acquis sans avoir égard au fait que cette
+acquisition a eu lieu au début ou à la fin d      e la période, le montant de
+l'amortissement doit toutefois être diminué ou augmenté proportionnellement à
+la durée de l'exercice comptable. Pour l'année où l'activité est entamée,
+l'annuité d'amortissement afférente aux actifs y affectés doit toujours être
+réduite proportionnellement au nombre de mois d'activité professionnelle.
+
+                              3 FEVRIER 2006                              F.04.0007.F/ 5
+       Les amortissements en raison d'immobilisations acquises ou constituées
+par l'association en participation, par l'intermédiaire de son gérant, durant
+l'année dans laquelle elle a été   constituée et a entamé ses activités, doivent
+correspondre à un prorata de l'annuité compté en douzièmes en vue de la
+détermination du résultat de l'association. La quotité de la perte que l'associé
+peut déduire est dès lors réduite d'autant.
+       La perte déd     uctible provenant du résultat de l'association en
+participation doit dès lors être réduite en fonction de la limitation des
+amortissements qui en sont l’origine, proportionnellement au nombre de mois
+d'activité professionnelle de ladite association en part    icipation, soit deux
+douzièmes ... ».
+       Griefs
+       Première branche
+       Dans ses secondes conclusions additionnelles, la demanderesse faisait
+valoir ce qui suit :
+        « (1) Lorsque, comme en l'espèce, les membres d'une association en
+participation font des apports e n numéraire, ces fonds deviennent la propriété
+de l'associé gérant, à charge de les affecter, pour le compte commun des
+associés, à l'objet de l'association (…) et les biens que l'associé gérant acquiert
+au moyen de ces fonds (et en outre, en l'espèce, au  moyen de fonds empruntés)
+pour le compte commun des associés deviennent la propriété de l'associé
+gérant à l'égard des tiers, en sorte qu'ils peuvent être saisis par ses créanciers
+(…). Il s'agit toutefois d'une propriété fiduciaire : l’associé gérant est
+propriétaire des biens pour le compte des associés.
+       (2) Au point de vue comptable, l'article 3, alinéa 3, de la loi du 17
+juillet 1975 relative à la comptabilité et aux comptes annuels des entreprises,
+modifié par l'article 2 de l'arrêté royal n° 22 du 15     décembre 1978, se borne à
+disposer :
+       ‘Lorsque l'activité d'une entreprise comporte, au titre de gérant ou
+d'associé, des opérations menées en association commerciale momentanée ou
+en participation, sa comptabilité est appropriée de manière à lui conférer l      e
+
+                              3 FEVRIER 2006                              F.04.0007.F/ 6
+caractère complet défini à l'alinéa 1 er, à la fois sous l'angle des rapports avec
+les tiers d'une part et des comptes que les associés et, le cas échéant, le gérant,
+ont à se rendre d'autre part’.
+        La loi ignore donc la comptabilité distincte des opératio          ns de
+l'association en participation qui peut être tenue par l'associé gérant
+indépendamment de sa propre comptabilité (...).
+        Dans la situation où, comme en l'espèce, l'associé gérant est
+propriétaire à l’égard des tiers des biens qu'il a acquis pour le co        mpte
+commun des associés, deux méthodes comptables se rencontrent dans la
+pratique (voir A. Halterman, Fiscale transparantie, 1992,  n° 436).
+        Suivant une première méthode, l'associé gérant tient une comptabilité
+séparée des opérations accomplies pour le co    mpte de l'association et chacun
+des associés participants reprend dans ses comptes annuels sa part
+proportionnelle des différents postes de cette comptabilité, et notamment sa
+part des éléments d'actifs et des amortissements.
+        Suivant une autre méthode, l'a      ssocié gérant incorpore dans sa
+comptabilité générale toutes les opérations faites pour compte des associés, et
+notamment les éléments d'actif qu'il a acquis pour le compte des associés et les
+amortissements pratiqués sur ceux -ci, mais comptabilise par ail leurs une dette
+vis-à-vis des associés participants. Ceux   -ci, dans ce système, se bornent à
+comptabiliser, dans leurs comptes annuels, leur part dans le résultat net de
+l'association (bénéfice ou perte).
+        Les deux méthodes conduisent au même résultat final,           tant chez
+l’associé gérant que chez les associés participants (...).
+        Dans la présente espèce, la société Interferry, associé gérant, a
+appliqué la seconde méthode comme cela résulte de ses comptes annuels au 31
+décembre 1988 (voir déclaration fiscale ...,  annexe 1, poste III, E, de l'actif qui
+indique en immobilisations corporelles un montant de 2.000.400.000  francs
+représentant le prix d'acquisition de 3.000.000 francs diminué de
+l'amortissement de 20 p.c. ; voir aussi compte de résultats, poste II, D, q     ui
+comprend l'amortissement de 600.000.000 francs)           ; les mêmes comptes
+annuels reprennent dans les dettes, poste VIII du passif, d'une part la dette
+bancaire, d'autre part la dette vis  -à-vis des associés participants ... ; (...) la
+
+                              3 FEVRIER 2006                              F.04.0007.F/ 7
+répartition de la perte  entre les associés participants apparaît au compte de
+résultats dans les produits, sous la rubrique 1, D.
+        Au contraire, la (demanderesse) a estimé devoir comptabiliser, dans
+ses comptes annuels, conformément à la première méthode décrite supra, sa
+quote-part de 32 p.c. du matériel roulant acquis par l'associé gérant pour le
+compte commun des associés, ainsi que sa quote     -part des amortissements sur
+ces éléments d'actifs (...).
+        (3) En vertu de l'article 25 du Code des impôts sur les revenus (1964),
+la part de   chaque associé dans les résultats (bénéfices ou pertes) d'une
+association en participation est considérée comme un résultat (bénéfice ou
+perte) dans le chef de chaque associé.
+        L'association en participation, étant dénuée de la personnalité
+juridique (loi  sur les sociétés, article 3 et 176), est transparente en droit fiscal
+et n'est donc pas soumise en tant que telle à l'impôt des sociétés. La loi sur les
+comptes annuels des entreprises ignore la comptabilité séparée des opérations
+de l'association qui peut être tenue par l'associé gérant (…).
+        La durée de l'exercice social au cours duquel l'amortissement de biens
+acquis par l'associé gérant pour le compte des associés est comptabilisé doit
+donc être appréciée exclusivement dans le chef de l'associé gérant et     dans le
+chef des associés participants.
+        En l'espèce, l'amortissement du matériel roulant a été comptabilisé au
+31 décembre 1988 (…) par Interferry (à concurrence de 100 p.c.) et par la
+(demanderesse) à concurrence de 32 p.c. (…). Or, tant chez Interferry  que chez
+la (demanderesse), l'exercice clôturé le 31 décembre 1988 est un exercice de
+douze mois.
+        Il importe donc peu que l’association en participation ait été conclue
+par un contrat du 29 novembre 1988 et que le matériel roulant ait été acquis à
+la même  date. En effet, il n’a jamais été contesté qu'une première annuité
+d'amortissement entière puisse être déduite des revenus professionnels de
+l'exercice comptable au cours duquel les actifs amortissables ont été acquis,
+même si l'acquisition a lieu à la fin        de la période (voir en matière
+d'amortissements dégressifs, arrêté d'exécution du Code des impôts sur les
+revenus (1964), article 34, 1°) ».
+
+                              3 FEVRIER 2006                              F.04.0007.F/ 8
+        Résumant « la position de la [demanderesse] », l'arrêt  considère que,
+« pour la [demanderesse], la conséquence de      la transparence de l'association
+en participation, dénuée de la personnalité juridique, est que l'exercice social
+au cours duquel l’amortissement des biens acquis doit être apprécié est celui
+de l'associé participant sans que la constitution de l'associat          ion en
+participation ait une incidence quelconque sur l'amortissement. Or, il s'agit
+pour la [demanderesse] d'un exercice normal de 12 mois... ».
+        La cour d'appel a ainsi perdu de vue que la demanderesse faisait aussi
+valoir que, si l'amortissement devait ê tre comptabilisé chez la société anonyme
+Interferry, il s'agissait d'une immobilisation acquise par celle    -ci, pour le
+compte commun des associés, au cours d'un exercice de douze mois de cette
+société (passage des secondes conclusions additionnelles de la d    emanderesse
+cité supra, (3)).
+        Ni par les motifs reproduits plus haut (sous le titre « décisions et motifs
+critiqués »), ni par aucun autre motif, l'arrêt ne répond à l'argumentation de la
+demanderesse , relative à la déduction de la première annuité d'amor tissement
+chez la société Interferry : les motifs précités de l'arrêt ne concernent que la
+déduction de l'amortissement chez la demanderesse, associé participant.
+        L'arrêt laisse sans réponse spécialement l'argumentation de la
+demanderesse  reproduite  supr a,  (3), en tant qu'elle se fondait sur le fait que
+« l'amortissement du matériel roulant a été comptabilisé au 31 décembre 1988
+(...) par Interferry (à concurrence de 100 p.c.]. Or, (…) chez Interferry (…),
+l'exercice clôturé le 31 décembre 1988 est un ex       ercice de douze mois. Il
+importe donc peu que l'association en participation ait été conclue par un
+contrat du 29 novembre 1988 et que le matériel roulant ait été acquis à la
+même date ». L'arrêt attaqué n'est dès lors pas régulièrement motivé (violation
+de l'article 149 de la Constitution).
+        Seconde branche
+        Aux termes de l'article 34 de l'arrêté royal du 4 mars 1965 d'exécution
+du Code des impôts sur les revenus pris en vertu de l'article 49 du Code des
+impôts sur les revenus (1964), « lorsqu'un contribua   ble assujetti à l'impôt des
+personnes physiques, à l'impôt des sociétés ou à l'impôt des non     -résidents a
+
+                               3 FEVRIER 2006                              F.04.0007.F/ 9
+opté pour le régime d'amortissements dégressifs prévu par l'article 49 du Code
+des impôts sur les revenus, le montant de l'annuité d'amortissement dégr     essif
+afférent à chaque groupe d'éléments de nature analogue amortissable au même
+taux dégressif et admissible au titre de charge professionnelle est déterminé :
+1° pour la période imposable en cours à la date de l'acquisition... de ces
+éléments, en appliq uant, quelle que soit cette date, à la valeur d'investissement
+ou de revient un taux n'excédant pas le double du taux d'amortissement
+linéaire correspondant à la durée normale d'utilisation de ces mêmes
+éléments... ».
+        En l'espèce, il ressort des constatati   ons de l'arrêt que la société
+Interferry, agissant en qualité de gérant de l'association en participation et,
+par conséquent, pour le compte commun des associés, a acquis de la SNCB du
+matériel ferroviaire roulant.
+        Sans dénier que l'exercice social 1988 de  la société Interferry avait une
+durée de douze mois, comme l'exposait la demanderesse dans ses secondes
+conclusions additionnelles citées dans la première branche du moyen, et que
+cette société a régulièrement opté pour le régime d'amortissements dégressi    fs,
+l'arrêt décide que la première annuité d'amortissement dégressif de 20 p.c.
+comptabilisée par cette société doit être réduite à deux douzièmes pour les
+motifs précités selon lesquels « le montant de l'amortissement doit être
+diminué... proportionnellem ent à la durée de l'exercice comptable ; pour
+l'année où l'activité est entamée, l’annuité d'amortissement afférente aux actifs
+y affectés doit toujours être réduite proportionnellement au nombre de mois
+d'activité professionnelle ; les amortissements en r     aison d'immobilisations
+acquises ou constituées par l'association en participation, par l'intermédiaire
+de son gérant, durant l'année dans laquelle elle a été constituée et a entamé ses
+activités, doivent correspondre à un prorata de l'annuité comptée en douzièmes
+en vue de la détermination du résultat de l'association ».
+        L'arrêt applique ainsi à une association en participation une
+instruction administrative relative au cas où une personne physique commence
+une activité professionnelle au cours de la pério   de imposable (Commentaire
+administratif du Code des impôts sur les revenus (1964), article 44/167 et, sous
+l'empire du Code des impôts sur les revenus 1992, Commentaire administratif
+du Code des impôts sur les revenus 1992, article 61/87 à 89). Cette règle
+
+                             3 FEVRIER 2006                              F.04.0007.F/ 10
+trouve son fondement légal, en matière d'amortissements linéaires, dans
+l'article 45, 4°, du Code des impôts sur les revenus (1964), selon lequel les
+amortissements ne sont admis que s' « ils correspondent à une dépréciation
+réellement survenue pendant la  période imposable» et s'applique par voie de
+conséquence aux amortissements dégressifs, dont les annuités sont déterminées
+par référence au taux de l'annuité d'amortissement linéaire (article 34 de
+l'arrêté d'exécution précité).
+        Cette règle formulée à pro    pos de l'impôt des personnes physiques
+s'applique assurément, par identité de motifs, au cas où une société dotée de la
+personnalité juridique a un premier exercice social d'une durée inférieure à
+douze mois, mais non au cas où, comme en l'espèce, une tell     e société conclut
+un contrat d'association en participation au cours d'un exercice social de
+douze mois et acquiert des immobilisations amortissables au cours de cet
+exercice en qualité d'associé gérant de l'association en participation, pour
+compte commun des associés.
+        En effet, l'association en participation, comme l'association
+momentanée, est une société dénuée de la personnalité juridique (articles 3,
+175 et 176 du titre IX du livre 1  er du Code de commerce) et transparente au
+point de vue fiscal (artic le 25, § 1ᵉʳ, alinéa 1°, et § 2, du Code des impôts sur
+les revenus (1964)), de sorte que, pour une société qui conclut, au cours d'un
+exercice social, une association en participation avec d'autres sociétés et
+acquiert, au cours de ce même exercice social    , en qualité d'associé gérant de
+cette association, des biens pour le compte commun des associés, cette
+acquisition constitue une opération de cet associé faite en association au cours
+de son exercice social et non une opération de l'association en partici    pation
+qui, en l'absence de personnalité juridique, n'a pas d'activité propre. C'est ce
+que reflète l'article 3, alinéa 3, de la loi du 17 juillet 1975 relative à la
+comptabilité et aux comptes annuels des entreprises : « lorsque l'activité d'une
+entreprise comporte, au titre de gérant ou d'associé, des opérations menées en
+association commerciale momentanée ou en participation, sa comptabilité est
+appropriée de manière à lui conférer le caractère complet... ».
+        Ni cette disposition ni aucune autre dispositi  on de ladite loi ne font
+allusion à la comptabilité ou aux comptes annuels d'une association
+momentanée ou d'une association en participation, car une telle association ne
+
+                              3 FEVRIER 2006                              F.04.0007.F/ 11
+constitue pas elle -même, à défaut de personnalité juridique, une « entreprise»
+au se ns de la loi. Aucune disposition légale de droit privé ou de droit
+comptable n'impose aux membres d'une telle association d'arrêter, à l'issue de
+chaque « exercice social», des « comptes annuels». Certes, dans le cas d'une
+association en participation conc lue entre des sociétés tenues, elles, de publier
+des comptes annuels, le contrat d'association imposera normalement à
+l'associé gérant, tenu de rendre compte de sa gestion, d'arrêter annuellement
+des comptes de l'association, mais il s'agit alors d'une obl     igation purement
+conventionnelle.
+        Dès lors, en considérant l'acquisition du matériel ferroviaire faite par
+la société Interferry le 29 novembre 1988 en qualité d'associé gérant d'une
+association en participation conclue le même jour avec plusieurs autres
+sociétés  comme  une  acquisition  faite  «  par » l'association en participation
+« constituée » à cette date, pour en déduire qu'il s'agit d'une immobilisation
+acquise au cours d'un exercice social s'étendant du 29 novembre au 31
+décembre 1988, alors qu'il     s'agit d'immobilisations acquises par la société
+Interferry au cours d'un exercice social de douze mois, l'arrêt viole l'ensemble
+des dispositions visées en tête du moyen.
+III.    La décision de la Cour
+
+        Quant à la première branche  :
+
+        L’arrêt considère que «   les amortissements en raison d’immobilisations
+acquises ou constituées par l’association en participation, par l’intermédiaire de
+son gérant, durant l’année dans laquelle elle a été constituée et a entamé ses
+activités, doivent correspondre à un prorata de l’  annuité compté en douzièmes
+en vue de la détermination du résultat de l’association  ».
+        Il répond ainsi, en les contredisant, aux conclusions de la demanderesse
+qui faisait valoir que l’exercice 1988 de l’associé gérant était de douze mois et
+qu’il importai t peu que l’association en participation eût été constituée le 29
+
+                               3 FEVRIER 2006                              F.04.0007.F/ 12
+novembre 1988 et que le matériel roulant faisant l’objet des amortissements
+litigieux eût été acquis à cette date.
+        Le moyen, en cette branche, manque en fait.
+
+        Quant à la seconde branche  :
+
+        L’arrêt constate que le litige porte sur le droit de la demanderesse de
+pratiquer les amortissements afférents à du matériel roulant acheté le 29
+novembre 1988 et donné en location avec effet au 1          er décembre 1988 par la
+société anonyme Interferry agissant      en qualité de gérant de l’association en
+participation créée le 29 novembre 1988 et dont la demanderesse était l’un des
+membres.
+        L’article 25, § 1 er, alinéa 1ᵉʳ, du Code des impôts sur les revenus (1964)
+dispose que dans les sociétés civiles ou association     s sans personnalité juridique
+qui bénéficient de revenus visés à l’article 20, 1° ou 3°, les prélèvements des
+associés ou membres, ainsi que leurs parts dans les bénéfices ou profits
+distribués ou non distribués, sont considérés comme des bénéfices ou prof            its
+dans le chef desdits associés ou membres.
+        Aux termes de l’article 45, 4°, de ce code sont notamment considérés
+comme charges professionnelles les amortissements relatifs aux frais
+d’établissement et aux immobilisations incorporelles et corporelles dont
+l’utilisation est limitée dans le temps, tels que ces frais et  immobilisations sont
+définis par la législation relative à la comptabilité et aux comptes annuels des
+entreprises, dans la mesure où ces amortissements sont nécessaires et où ils
+correspondent à une dépréciation réellement survenue pendant la période
+imposable.
+        L’association en participation étant une société dépourvue de la
+personnalité juridique, l’acquisition de biens par l’associé gérant pour le
+compte commun des associés constitue une opé          ration de cet associé faite en
+association au cours de l’exercice social de celui       ‑ci et non une opération de
+l’association en participation.
+
+                               3 FEVRIER 2006                              F.04.0007.F/ 13
+        Il s’ensuit que les amortissements résultant d’immobilisations acquises
+par l’associé gérant pour le compte commun         des associés au cours de l’année
+qui a vu cette association se constituer doivent correspondre pour cette année à
+la durée de l’exercice pendant lequel l’association a exercé son activité et,
+partant, que l’annuité d’amortissement revendiquée par un membre            participant
+doit être réduite proportionnellement.
+        L’arrêt, qui considère l’acquisition du matériel roulant précité comme
+une acquisition faite pour le compte de l’association constituée le 29 novembre
+1988, décide légalement que l’annuité d’amortissement              déductible pour
+l’exercice d’imposition 1989 doit être réduite à deux douzièmes en raison du
+fait que le premier exercice social de l’association s’est limité à la période du
+29 novembre au 31 décembre 1988.
+        Le moyen, en cette branche, ne peut être accuei lli.
+
+        Par ces motifs,
+
+        La Cour
+
+        Rejette le pourvoi ;
+        Condamne la demanderesse aux dépens.
+Les dépens taxés à la somme de trois cent vingt            ‑huit euros cinquante  ‑huit
+centimes payés par la demanderesse.
+Ainsi jugé par la Cour de cassation, première chambre, à                Bruxelles, où
+siégeaient le président de section Claude Parmentier, les conseillers Didier
+Batselé, Daniel Plas, Christine Matray et Philippe Gosseries, et prononcé en
+audience publique du trois février deux mille six par le président de section
+Claude P armentier, en présence de l’avocat général André Henkes, avec
+l’assistance du greffier Marie ‑Jeanne Massart.

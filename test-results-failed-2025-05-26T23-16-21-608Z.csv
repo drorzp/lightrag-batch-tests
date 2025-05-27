@@ -1,0 +1,2 @@
+id,file_name,decision_type,keywordid,url_pdf,easy_query_passed,medium_query_passed,hard_query_passed,all_passed,error
+8623,juportal.be_BE_CASS_2007_ARR.20070612.2_FR.txt,Arrêt,KUD2-29-2-3,https://juportal.be/JUPORTAwork/ECLI:BE:CASS:2007:ARR.20070612.2_FR.pdf?Version=1607979575,false,false,false,false,"Easy query error: Unexpected token '#', ""### Respon""... is not valid JSON; Medium query error: Unexpected token '#', ""### Condit""... is not valid JSON; Hard query error: No number after minus sign in JSON at position 1 (line 1 column 2)"

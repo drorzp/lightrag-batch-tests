@@ -1,0 +1,291 @@
+                            22 JANVIER 2010                              F.08.0100.F/1
+                 Cour de cassation de Belgique
+                                        Arrêt
+N° F.08.0100.F
+ETAT BELGE,  représenté par le ministre de      s Finances, dont le cabinet est
+établi à Bruxelles, rue de la Loi, 12, en   la personne du directeur régional des
+contributions à Bruxelles I Sociétés, dont  les bureaux sont établis à Bruxelles,
+boulevard du Jardin botanique, 50,
+demandeur en cassation,
+
+contre
+
+ING LEASE BELGIUM,  société anonyme dont le siège social est établi à
+Evere, rue du Colonel Bourg, 155,
+défenderesse en cassation,
+représentée par Maître Ludovic De Gryse, avocat à la Cour de cassation, dont
+le cabinet est établi à Bruxelles, rue de Loxum, 25, où il est fait élection de
+domicile.
+
+                             22 JANVIER 2010                              F.08.0100.F/2
+
+I.      La procédure devant la Cour
+
+        Le pourvoi en cassation est dirigé c ontre l’arrêt rendu le 12 septembre
+2008 par la cour d’appel de Bruxelles.
+        Le conseiller Martine Regout a fait rapport.
+        L’avocat général André Henkes a conclu.
+
+II.     Le moyen de cassation
+
+        Le demandeur présente un moyen libellé dans les termes suivants :
+
+        Dispositions légales violées
+
+        -   articles 12, §§ 1  er à 3, et 23, A, b), de la Convention entre le
+Royaume de Belgique et la République socialiste tchécoslovaque tendant à
+éviter la double imposition et à prévenir   l'évasion fiscale en matière d'impôt
+sur le revenu et sur la fortune, signée à Prague le 19 juin 1975, approuvée par
+la loi du 19 septembre 1977 et dont le Royaume de Belgique et la République
+tchèque ont déclaré, par échange de not es datées du 17 décembre 1996 qu'elle
+resterait en vigueur entre la République tchèque et le Royaume de Belgique
+(voir spécialement l'annexe 1, point 10) ;
+        -   articles 286 et 287 du Code des impôts sur les revenus 1992, tels
+qu'ils sont applicables à l'exercice d'imposition 1999.
+
+        Décisions et motifs critiqués
+
+        Après avoir observé que :
+
+                            22 JANVIER 2010                              F.08.0100.F/3
+       « La (défenderesse) a donné en location une ligne de production de
+caoutchouc à la société tchèque Thona s.    r.o. en vertu de deux contrats de
+leasing,  dont  seul  le  premier,  soit  le  contrat  n°  110N/00011457  (lire :
+n° 110N/00186850) du 20 août 1997 tel qu’il a été modifié par l'avenant n° 1 à
+ce contrat (qui a ramené la valeur totale d'investissement initiale de
+101.912.901 francs à 85.090.586 francs), concerne l'année comptable 1998 et
+l'exercice d'imposition 1999 litigieux ;
+       Les sommes payées par la société tc    hèque, preneuse de leasing, sont
+qualifiées par la convention de loyers (versés trimestriellement) pour le leasing
+du matériel qualifié de ligne de production de caoutchouc, la durée de la
+location étant fixée à vingt-neuf trimestres ;
+       Le prix de l'option d'achat en fin de contrat a été fixé forfaitairement à
+700.000 francs (lire : 1.019.129 francs) hors taxes. Le preneur de leasing en
+fin de leasing n'a aucune obligation de   lever l'option et, à défaut, le contrat
+prend fin à son terme ;
+       Il est constant que le fisc tchèque,  suivant les attestations produites, a
+opéré des retenues à la source sur le montant total des loyers de leasing
+litigieux, soit une retenue d'impôt tc hèque de 114.872 couronnes tchèques sur
+la première redevance de 12.763.587, 88 francs (pour la période du 1    er juillet
+1998 au 30 septembre 1998) et une retenue d'impôt tchèque de 28.341
+couronnes tchèques sur la seconde redevance de 3.257.630 francs (pour la
+période du 1er octobre 1998 au 31 décembre 1998) ;
+       Il n'est pas contesté qu'à l'im     pôt des sociétés pour l'exercice
+d'imposition 1999, la (défenderesse), conformément à ses écritures comptables,
+n'a déclaré dans ses bénéfices imposables, au titre de revenus de l'opération de
+leasing litigieuse, que les seuls intérêts compris dans les redevances qui lui ont
+été versées par le preneur de leasing tchèque, soit un montant de 2.334.078
+francs sur les 16.164.431 francs de loyers perçus ;
+       Dans sa déclaration à l'impôt des sociétés de l'exercice d'imposition
+1999, (la défenderesse) a imputé une quotit     é forfaitaire d’impôt étranger de
+2.827.274 francs, calculée conformément à l'article 286 du Code des impôts
+sur les revenus 1992, à concurrence de 15/85      e de 16.021.218 francs (soit le
+
+                            22 JANVIER 2010                              F.08.0100.F/4
+montant perçu au titre de redevances, l'impôt tchèque de 143.213 couronnes
+tchèques ayant été supporté par la société tchèque), suivant l'annexe 20bis de
+sa déclaration »,
+       l'arrêt considère que :
+       « Pendant la durée du leasing, il n'y a aucun transfert de propriété, et
+le transfert pouvant se réaliser au moment  de la levée de l'option est purement
+éventuel ;
+       Les loyers payés par le preneur pendant la durée du leasing le sont
+donc bien en rémunération de l'usage qui lui est concédé d'un équipement,
+industriel en l'espèce ;
+       Ils rentrent bien dès lors dans la définition des redevances donnée à
+l'article 12, 3, b) de la convention préventive, redevances qui sont dès lors
+‘imposables conformément à l'article 12,     § 2, de la même convention’ et
+justifient à ce titre la prévention de la double imposition prévue à l'article 23,
+A, b) »,
+       et décide que :
+       « Dans ces conditions, l’Etat ne peut pas ignorer la qualification de
+redevances, au moment de l'application et du calcul de la quotité forfaitaire
+d’impôt étranger - lequel calcul est déterminé par le droit belge mais en
+fonction de la définition du revenu selon la Convention -, au seul motif qu'en
+droit belge, conformément à la législation comptable, pour la détermination
+des bénéfices imposables à l'impôt des sociétés, une partie du loyer n'y est pas
+reprise, car elle correspond économique ment à une reconstitution du capital
+de base et non à un revenu au sens de la  législation comptable et du Code des
+impôts sur les revenus ;
+       A défaut de respecter la qualification du revenu selon la Convention,
+comme l'a constaté à bon droit le premier juge (en décidant que ‘l'Etat belge
+ne peut, d'une part, accepter le pouvoir d'imposition d'un revenu à titre de
+redevance en vertu d'une convention préventive de double imposition pour,
+ensuite, qualifier le revenu autrement, à savoir pour partie de reconstitution de
+la valeur d'un investissement et pour le  reste d'intérêts, et appliquer à la seule
+partie du revenu qu'il qualifie d'intérêts la quotité forfaitaire d'impôt étranger
+
+                             22 JANVIER 2010                              F.08.0100.F/5
+[de sorte que] c'est à une quotité forfaitaire d'impôt étranger calculée sur le
+loyer perçu à titre de redevance que la [défenderesse] a droit et, partant, à
+l'imputation d'une quotité forfaitaire d'impôt étranger calculée conformément à
+l'article 286 du Code des impôts sur les revenus 1992, et ce, indépendamment
+du traitement que recevra le revenu au     regard de l'impôt des sociétés’), [le
+demandeur] viole les articles 12 et 23, A, b), de la Convention préventive de la
+double imposition belgo-tchécoslovaque ».
+
+        Griefs
+
+        L'article 23, A, b), de la Convention dispose, en vue d'éliminer la
+double imposition, que, « en Belgique : ( ...) en ce qui concerne les dividendes
+imposables conformément à l'article 10, § 2, et non exemptés d'impôt belge en
+vertu du c) ci-après, les intérêts imposab les conformément à l'article 11, §§ 2
+ou 7, et les redevances imposables conformément à l'article 12, §§ 2 ou 6, la
+quotité forfaitaire d'impôt étranger prévue par la législation belge est imputée,
+dans les conditions et au taux prévus par     cette législation, sur l'impôt belge
+afférent auxdits revenus ».
+        Ledit article 12, § 2, prévoit que, « par dérogation au paragraphe 1    er
+(qui réserve à l'Etat de résidence du bénéficiaire effectif de la redevance un
+pouvoir d'imposition exclusif) , les redevances visées au paragraphe 3, b) (à
+savoir, les rémunérations de toute nature payées pour [...] l'usage ou la
+concession de l'usage d'un équipement industriel, commercial ou scientifique
+ne constituant pas un bien immobilier  […]) peuvent aussi être imposées dans
+l'Etat contractant d'où elles proviennent et selon la législation de cet Etat mais
+(...) l'impôt ainsi établi ne peut excéder 5 p.c. du montant brut des
+redevances ».
+        Il résulte de l'économie de cette di sposition que la dérogation instituée
+par le paragraphe 2 se borne à rec      onnaître à l'Etat d'où proviennent les
+redevances un pouvoir d'imposition limité sur ces redevances et qu'elle laisse
+intact le pouvoir d'impositi  on conféré par le paragraphe 1       er à l'Etat de
+résidence du bénéficiaire effectif desdites redevances, seule l'exclusivité de ce
+
+                           22 JANVIER 2010                              F.08.0100.F/6
+pouvoir d'imposition étant retirée avec pour  conséquence que l'article 23, A,
+b), de la Convention trouve désormais application.
+       Ainsi, cet article 12 règle-t-il la dévolution du pouvoir d'imposition aux
+Etats contractants à raison des redevances payées en l'espèce par la société
+tchèque Thona s.r.o. à la défenderesse   en exécution d'un contrat de leasing
+mobilier, mais il ne règle pas pour autant la détermination de la base
+imposable dans chacun des Etats contractants ; ceux-ci peuvent dès lors
+exercer leur pouvoir d'imposition respecti f conformément aux dispositions de
+leur législation nationale et notamment    sans être liés par la qualification
+donnée au revenu par ledit article 12 aux seules fins de régler la dévolution du
+pouvoir d'imposition, le terme « redevances » n'étant du reste nullement
+compris dans la nomenclature des revenus  mobiliers dans le Code des impôts
+sur les revenus 1992.
+       De même, en ce qu'il prévoit qu' « en Belgique (...), la quotité
+forfaitaire d'impôt étranger prévue par la législation belge est imputée, dans
+les conditions et au taux prévus par cette législation, sur l'impôt belge afférent
+auxdits revenus », l'article 23, A, b), de la Convention ne règle ni la
+détermination de la base imposable ni le calcul de l'impôt en Belgique mais il
+renvoie aux règles prévues par la législation fiscale belge et, plus
+particulièrement, à l'imputation de la quot ité forfaitaire d'impôt étranger telle
+qu'elle est réglée par la législation fiscale belge pour le revenu qui, à raison de
+redevances obtenues en exécution d'un contrat de leasing mobilier, concourt à
+la formation de la base imposable en vertu de la législation fiscale belge.
+
+       A cet égard, si l'article 183 du Code  des impôts sur les revenus 1992
+prévoit que le montant des revenus soumis  à l'impôt des sociétés est déterminé
+d'après les règles applicables aux bénéfices, il précise également que, « sous
+réserve des dérogations prévues au présent titre (sans application en l'espèce),
+les revenus soumis à l'impôt des sociét  és (...) sont, quant à leur nature, les
+mêmes que ceux qui sont envisagés en matière d'impôt des personnes
+physiques », c'est-à-dire notamment les revenus mobiliers déterminés aux
+articles 17 à 20 du Code des impôts sur les revenus 1992, de sorte que, pour le
+
+                             22 JANVIER 2010                              F.08.0100.F/7
+ calcul de la quotité forfaitaire d'impôt étranger, il y a lieu d'avoir égard à la
+ nature mobilière spécifique qu'a en droit belge le revenu qui, à raison des
+ redevances obtenues en l'espèce, concourt à la formation de la base imposable
+ soumise à l'impôt belge.
+        Or, si l'article 286 du Code des impôts sur les revenus 1992 prévoit que
+« la quotité forfaitaire d'impôt étr
+                                        anger est fixée à quinze quatre-vingt
+ cinquièmes du revenu net, avant déduction du précompte mobilier », l'article
+ 287 du Code des impôts sur les revenus 19 92 fixe un autre mode de calcul de
+ la quotité forfaitaire d'impôt étranger   « en ce qui concerne les revenus de
+ capitaux et biens mobiliers autres que    les dividendes et les revenus de la
+ location, de l'affermage, de l'usage ou de la concession de tous biens
+ mobiliers ».
+          De ce qui précède, il résulte que l'arrêt n'a pu légalement décider que
+ « (le) calcul (de la quotité forfaitair  e d’impôt étranger) est déterminé par le
+ droit belge mais en fonction de la définition du revenu selon la Convention »
+ [violation des articles 12 et 23, A, b), de la Convention] et que, sans contester
+ le fait « qu'en droit belge, conformément à la législation comptable, pour la
+ détermination des bénéfices imposables à l'impôt des sociétés, une partie (de la
+ redevance) n'y est pas reprise, car    elle correspond économiquement à une
+ reconstitution du capital de base et  non à un revenu au sens de la législation
+ comptable et du Code des impôts sur les revenus », l'autre partie de la
+ redevance étant donc constitutive d'intérêts au sens de l'article 17, § 1 er, 2°, du
+ Code des impôts sur les revenus 1992, et donnant dès lors lieu à l'application
+ de la quotité forfaitaire d'impôt étranger prévue par l'article 287 du Code des
+ impôts sur les revenus 1992, il n'a pu légalement confirmer la décision du
+ premier juge, qui avait décidé d'appliquer la quotité forfaitaire d'impôt
+ étranger prévue par l'article 286 du Code des impôts sur les revenus 1992 au
+ motif que « c'est à une quotité forfaitair e d'impôt étranger calculée sur le loyer
+ perçu à titre de redevance [que] la (défenderesse) a droit et, partant, à
+ l'imputation d'une quotité forfaitaire d'impôt étranger calculée conformément à
+ l'article 286 du Code des impôts sur les revenus 1992, et ce, indépendamment
+ du traitement que recevra le revenu au regard de l'impôt des sociétés »
+ (violation des articles 286 et 287 du Code des impôts sur les revenus 1992).
+
+                             22 JANVIER 2010                              F.08.0100.F/8
+
+III.    La décision de la Cour
+
+        L’article 12.1 de la Convention du 19 juin 1975 entre le Royaume de
+Belgique et la République socialiste tchécoslovaque tendant à éviter la double
+imposition et à prévenir l’évasion fiscale en matière d’impôt sur le revenu et
+sur la fortune dispose que les redevances provenant d’un Etat contractant et
+payées à un résident de l’autre Etat contractant ne sont imposables que dans cet
+autre Etat si ce résident en est le bénéficiaire effectif.
+        Aux termes de l’article 12.2 de la Convention,
+                                                        par dérogation au
+paragraphe 1er, les redevances visées au paragraphe 3, b), peuvent aussi être
+imposées dans l’Etat contractant d’où elles proviennent et selon la législation
+de cet Etat, mais si la personne qui perçoi t les redevances en est le bénéficiaire
+effectif, l’impôt ainsi établi ne peut excéder 5 p.c. du montant brut des
+redevances.
+        Selon la volonté des parties contr    actantes, dans les deux cas, les
+conditions d’imposition relèvent de la compétence du législateur national de
+l’Etat concerné.
+        L’article 12.3, b), détermine uniquement le champ d’application de
+l’article 12 en précisant que le terme    «
+                                           redevances
+                                                       » qu’il emploie désigne
+notamment
+            les rémunérations de toute nature payées pour l’usage ou la
+concession de l’usage d’un équipement industriel, commercial ou scientifique
+ne constituant pas un bien immobilier visé à l’article 6.
+
+        En vertu de l’article 23, A, b),   de la convention précitée, la double
+imposition résultant de l’application simultanée éventuelle des articles 12.1 et
+12.2 est évitée de la manière suivante en Belgique : « b) en ce qui concerne les
+redevances imposables conformément à l'article 12, paragraphe 2 ou 6, la
+quotité forfaitaire d'impôt étranger prévue par la législation belge est imputée,
+dans les conditions et au taux prévus par cette législation, sur l'impôt belge
+afférent auxdits revenus ».
+
+                             22 JANVIER 2010                              F.08.0100.F/9
+        La Convention se réfère ainsi à l’imputation telle qu’elle est prévue par
+le droit belge, y compris la détermination de la base imposable et le calcul de la
+quotité forfaitaire d’impôt étranger. Elle ne modifie pas le droit belge à cet
+égard.
+        L’arrêt, qui considère que le calcul de la quotité forfaitaire d’impôt
+étranger « est déterminé par le droit belge mais en fonction de la définition du
+revenu selon la Convention », viole l’article 23, A, b), précité.
+        Le moyen est fondé.
+
+        Par ces motifs,
+
+        La Cour
+
+        Casse l'arrêt attaqué ;
+        Ordonne que mention du présent arrêt sera faite en marge de l'arrêt
+cassé ;
+        Réserve les dépens pour qu'il soit statué sur ceux-ci par le juge du
+fond ;
+        Renvoie la cause devant la cour d'appel de Mons.
+
+
+
+Ainsi jugé par la Cour de cassation, première chambre, à Bruxelles, où
+siégeaient le président de section Paul Mathieu, les conseillers Sylviane Velu,
+Martine Regout, Gustave Steffens et Mireille Delange, et prononcé en audience
+publique du vingt-deux janvier deux mille dix par le président de section Paul
+Mathieu, en présence de l’avocat général André Henkes, avec l’assistance du
+greffier Patricia De Wadripont.
+
+                     22 JANVIER 2010                              F.08.0100.F/10
+P. De Wadripont                 M. Delange                   G. Steffens
+   M. Regout                      S. Velu                    P. Mathieu

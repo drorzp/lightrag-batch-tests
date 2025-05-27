@@ -1,0 +1,345 @@
+                                                                                           1/10
+          JISSIWWO)
+       HOOA
+     40
+    (NOISSIIWWO?
+     4
+    4
+ 5(                                                Avis n° 26/2011 du 19 octobre 2011
+    5
+ L
+       VEPRIEE
+        LEVENSSFEER
+Objet: demande d'avis relatif au projet d'arrêté royal modifiant l'arrêté royal du 23 juin 2003 fixant
+les normes auxquelles un centre de transplantation doit répondre pour être agréé comme service
+médical au  sens  de  l'article 44 de  la  loi sur les hôpitaux, coordonnée  le 7  août  1987
+(CO-A-2011-028)
+La Commission de la protection de la vie privée ;
+Vu la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de
+données à caractère personnel (ci-après LVP), en particulier l'article 29 ;
+Vu la demande d'avis M. C. Decoster, Directeur général de l'Organisation des Établissements de
+soins du  SPF  Santé publique, Sécurité de  la Chaîne  alimentaire et Environnement  reçue  le
+26/08/2011;
+Vu le rapport de Dr J. Remans;
+Émet, le 19 octobre 2011, l'avis suivant :
+                                                                                                    .
+                                                                                                    .
+
+                                                                                Avis  26/2011 - 2/10
+    I. OBJET DE LA DEMANDE D'AVIS
+1.  M.  C. Decoster,  Directeur  général de  l'Organisation des  Établissements  de  soins        du
+    SPF Santé publique, Sécurité de la Chaîne alimentaire et Environnement, sollicite l'avis de la
+    Commission quant au projet d'arrêté royal modifiant l'arrêté royal du 23 juin 2003 fixant les
+    normes auxquelles un centre de transplantation doit répondre pour être agréé comme
+    service médical au sens de l'article 44 de la loi sur les hôpitaux, coordonnée le 7 août 1987.
+2.  Le projet d'arrêté royal vise à compléter et à actualiser les normes qui s'appliquent déjà
+    depuis 2003 aux centres de transplantation :
+    ▪   le projet d'arrêté royal exécute le projet de loi modifiant la loi du 13 juin 1986 sur le
+        prélèvement et la transplantation d'organes, également soumis à l'avis de la Commission
+        (cf. infra) ;
+    ▪   le projet d'arrêté royal et le projet de loi précité s'inscrivent également dans le cadre de
+        la transposition de la Directive 2010/53/UE du Parlement européen et du Conseil du
+        7 juillet 2010 relative aux normes  de  qualité et de  sécurité  des organes         humains
+        destinés à la transplantation.
+3.  Dans son avis n° 13/2011, la Commission s'est dans l'ensemble exprimée positivement
+    quant  au  projet de  loi modifiant  la loi du  13  juin 1986  sur   le prélèvement  et       la
+    transplantation d'organes. Le présent texte se référera en temps opportun à cet avis de la
+    Commission.
+    II. EXAMEN DE LA DEMANDE D'AVIS
+    Nature des données et des traitements au sens de la LVP
+4.  Par analogie avec la Directive précitée 2010/53/UE et le projet de loi précité modifiant la loi
+    du 13 juin 1986, on peut distinguer dans le projet d'arrêté royal cinq traitements de données
+    à caractère personnel :
+    ▪   caractérisation des organes et des donneurs : en vertu des nouveaux articles 10/4
+        à 10/8 à insérer, le centre de transplantation doit, avant de prélever des organes,
+        caractériser le donneur et le ou les organe(s). Cela implique la collecte des informations
+        pertinentes concernant les caractéristiques du donneur/de l'organe, nécessaires pour
+        évaluer son admissibilité au don d'organes, de manière à procéder à une évaluation
+        adéquate  des  risques, réduire autant que  possible les risques pour  le receveur        et
+        optimiser l'attribution des organes.
+
+                                                                                            Avis                  26/2011 - 3/10
+                                         Les données minimales qui doivent être enregistrées pour la caractérisation des organes
+                                        et des donneurs sont reprises à l'Annexe 1 du projet d'arrêté royal et sont identiques à
+                                      celles prévues en la matière dans le projet de loi modifiant la loi du 13 juin 1986 sur le
+             prélèvement et la transplantation d'organes¹.
+        ▪                                       étiquetage pour le transport d'organes : en vertu des nouveaux articles 10/11 et
+                                       10/12 à introduire insérer, les organes prélevés doivent, pour le transport, être pourvus
+                                              d'une étiquette reprenant des informations sur l'origine (coordonnées du centre de
+                                             transplantation – prélèvement) et la destination (coordonnées de l'établissement de
+                                        santé assurant la transplantation), une spécification du type d'organe et des conditions
+             de transport, cette étiquette est également accompagnée d'un rapport mentionnant la
+             caractérisation du donneur et de l'organe (voir note de bas de page 1).
+                                       Le règlement relatif au transport d'organes est une reprise quasiment littérale de ce que
+             prévoit la Directive 2010/53/UE en la matière.
+        ▪                                  traçabilité des organes : en vertu des nouveaux articles 10/14 et 10/15 à insérer, le
+                                        centre de transplantation garantit la traçabilité des organes et applique à cet effet un
+                                         système d'identification du donneur et un système d'identification du receveur avec une
+             identification et un enregistrement sans équivoque de chaque donneur, receveur et des
+                                            organes concernés, de façon à pouvoir localiser et identifier chaque organe à chaque
+                                         étape de la chaîne du donneur jusqu'au receveur ou lors de l'élimination et vice-versa.
+             Ces données sont transmises à l'Organisation européenne d'échange d'organes.
+             Les  données    qui  doivent   être  enregistrées   dans   le cadre   de  la  traçabilité                       par
+             identification du donneur sont reprises à l'Annexe 2 du projet d'arrêté royal²                               et les
+1              Données minimales pour la caractérisation d'organes et de dormeurs : 1° coordonnées de l'hôpital où s'effectue le
+          prélèvement ; 2° type de donneur et d'organe(s) ; 3° groupe sanguin et éventuel le type HLA ; 4° sexe ; 5° cause de la
+       mort ; 6° date du décès en cas de don chez un donneur décédé ; 7° date de naissance ; 8° poids ; 9° taille ; 10° usage de
+             drogues par voie intraveineuse par le passé ou actuellement ; 11 ° néoplasie maligne par le passé ou actuellement ;
+         12° autre maladie transmissible par le passé ou actuellement ; 13° résultats des tests CMV, HFV. HCV et HBV ; 14° autre
+information de base pour  l'évaluation du fonctionnement des organes donnés.". 15° données démographiques                     et
+          anthropomédicales du donneur, nécessaires pour garantir une compatibilité parfaite entre donneur, organe et receveur ;
+    16° anamnèse du donneur avec indication des circonstances susceptibles d'avoir une incidence sur l'aptitude des organes à la
+         transplantation et de comporter un risque de transmission d'une maladie ; 17° données physiques et cliniques du donneur
+          obtenues après examen clinique, en particulier données nécessaires à l'évaluation du maintien physiologique du donneur
+     vivant potentiel, et circonstances susceptibles d'avoir une incidence sur l'aptitude des organes à la transplantation et de
+        comporter un risque de transmission d'une maladie qui n'ont pas été mises en lumière lors de l'anamnèse ; 18° paramètres
+   de laboratoire, à savoir données nécessaires à l'évaluation de la caractérisation fonctionnelle des organes et à la détection
+   d'éventuelles maladies transmissibles et d'éventuelles contre-indications au don d'organes ; 19° examen d'imagerie nécessaire
+    à l'évaluation de l'état anatomique et éventuellement fonctionnel des organes en vue d'une transplantation ; 20° traitements
+     administrés au donneur qui s'avèrent importants pour l'évaluation de l'état fonctionnel des organes et de l'aptitude au don
+d'organes, notamment usage d'antibiotiques, soutien inotrope ou thérapie transfusionnelle."
+2 Données de traçabilité par identification du donneur : 1° identification du donneur avec indication qu'il s'agit d'un don chez
+         un donneur décédé ou vivant ; 2° identification du centre de transplantation ayant procédé au prélèvement des organes ;
+      3° en cas de don chez un donneur décédé, identification de la fonction "coordination locale des donneurs" qui a indiqué le
+                donneur comme donneur potentiel ; 4° date du prélèvement (année/mois/jour) ; 5° identification du ou des organes
+    prélevés ; 6° identification des produits et matériaux qui sont entrés en contact avec le ou les organes ; 7° identification
+           du(des) receveur(s) et du ou des organes correspondants ; 8° date de la transplantation (année/mois/jour) ; 9° le cas
+échéant, date d'élimination d'un organe (année/mois/jour).
+
+                                                                                    Avis                           26/2011 - 4/10
+                                      données qui doivent être enregistrées dans le cadre de la traçabilité par identification du
+            receveur sont reprises à l'Annexe 3 du projet d'arrêté royal³.
+        ▪                                        déclaration et gestion des incidents et réactions indésirables graves : en vertu
+                                          des nouveaux articles 10/16 et 10/17 à insérer, le centre de transplantation enregistre
+                                       tous les incidents et réactions indésirables graves susceptibles d'avoir une incidence sur
+                                           la qualité et la sécurité des organes et pouvant être attribuées aux activités dont le
+                                              centre de transplantation assume la responsabilité dans la chaîne du don jusqu'à la
+                                              transplantation. Le centre de transplantation mène une enquête sur ces incidents et
+                                           réactions et prend les mesures de gestion nécessaires. Les informations pertinentes et
+            nécessaires en  la  matière  sont  notifiées à  l'Organisation européenne                                   d'échange
+            d'organes.
+            Le règlement  en  matière  de  notification et de gestion d'incidents et de                                 réactions
+                                          indésirables graves est une mise en œuvre très fidèle de ce que prévoient en la matière
+            la Directive 2010/53/UE et le projet de loi modifiant la loi du 13 juin 1986.
+        ▪                                   suivi des donneurs vivants : en vertu du nouvel article 10/20 à insérer, le centre de
+                                           transplantation organise un suivi médical et psychosocial des donneurs vivants jusqu'à
+            leur mort.
+                                            Le règlement (assez sommaire) en matière de suivi de donneurs vivants est une mise en
+                                           œuvre fidèle de ce que prévoient en la matière la Directive 2010/53/UE et le projet de
+                                         loi modifiant la loi du 13 juin 1986, sans beaucoup d'explications supplémentaires quant
+            aux traitements de données à caractère personnel concrets qui en découlent.
+    5.  Ces  données   sont   au  minimum    des  données    à  caractère  personnel                                 "ordinaires"
+                                     (non sensibles) au sens de l'article 1 de la LVP, mais pour une grande partie d’entre elles,
+        il s’agit en outre de données à caractère personnel sensibles       au sens de l’article 7
+        (données relatives à la santé) de la LVP.
+    6.  Outre  les  traitements  de  données   à   caractère  personnel  précités,     le centre                               de
+                                         transplantation tient un registre reprenant le nombre de donneurs décédés (potentiels et
+        effectifs), le nombre de donneurs   vivants, le type       et le nombre d'organes                             prélevés et
+                                       transplantés, … au sujet duquel il établit chaque année un rapport (voir le nouvel article
+                                         10/19, §§ 1, 2 et 3 à insérer). Au § 4 de cet article, on mentionne explicitement que ce
+3         Données de traçabilité par identification du receveur : 1 ° identification du receveur ; 2° identification du donneur ;
+         3° identification du centre de transplantation qui réalise la transplantation ; 4° en cas de don chez un donneur décédé,
+identification de l'établissement de soins, de l'équipe ou de l'unité hospitalière, de la personne ou de l'instance qui a prélevé
+  les organes ; 5° date de la transplantation (année/mois/jour ) ; 6° identification du ou des organes qui ont été transplantés ;
+7° identification des produits et matériaux qui sont entrés en contact avec le ou les organes ; 8° en cas de don chez un
+donneur vivant, identification du donneur ; 9° le cas échéant, date d'élimination d'un organe (année/mois/jour).
+
+                                                                                Avis 26/2011 - 5/10
+    registre et le rapport annuel ne peuvent comporter aucun élément permettant d'identifier
+    l'une des personnes physiques concernées par le don.
+    La  Commission   en prend  acte. Elle préconise de  toutefois faire  preuve d'une      certaine
+    vigilance en  la matière  ; en  effet, certains hôpitaux donneurs    n'effectuent qu'1 à      2
+    prélèvements par an,  ce qui implique évidemment un risque de réidentification accru.
+    Finalité, licéité et proportionnalité du traitement
+    Finalité et licéité
+7.  Conformément à l’article 4, § 1, 2° de la LVP, les données à caractère personnel peuvent
+    uniquement être collectées pour des             finalités déterminées, explicites et légitimes.
+    La description des finalités poursuivies doit donc être aussi précise, détaillée et complète
+    que possible, surtout eu égard au caractère particulièrement sensible d'une grande partie
+    des données collectées.
+8.  Le traitement de données à caractère personnel relatives à la santé n'est en outre permis
+    que dans un nombre de cas énumérés de manière limitative à l'article 7, § 2 de la LVP,
+    parmi lesquels :
+    ▪            le traitement qui “est rendu obligatoire par ou en vertu d'une loi, d'un décret ou
+                  d'une ordonnance pour des motifs d'intérêt public importants" (article 7, § 2, e)
+        de la LVP) ;
+    ▪   le traitement qui “est nécessaire aux   fins de médecine préventive, des        diagnostics
+        médicaux,  de  l'administration  de soins ou    de   traitements  soit à        la personne
+         concernée, soit à un parent, ou de la gestion de services de santé agissant dans l'intérêt
+        de la personne concernée" (article 7, § 2, j) de la LVP).
+9.  Les finalités        des différents enregistrements de données – tels qu'expliqués au point 4 –
+    s'inscrivent dans le cadre de la nécessité de normes de qualité et de sécurité fiables en
+    matière de transplantation d'organes et sont licites et légitimes en vertu de l'article 7, § 2,
+    e) et j) de la LVP.
+    Proportionnalité
+        10. L’article 4, § 1, 3° de la LVP dispose que les données à caractère personnel collectées
+    doivent  obligatoirement être pertinentes et non  excessives au  regard  de la finalité      du
+    traitement.
+
+                                                                                  Avis                     26/2011 - 6/10
+    11. Dans  son  avis n°  13/2011⁴,  la Commission   estimait  déjà que dans   le cadre de  la
+         caractérisation des organes et des donneurs, les données à enregistrer n'étaient pas
+         excessives                          à la lumière de la finalité pour laquelle elles étaient obtenues. Comme déjà
+         indiqué ci-avant, les données minimales qu'il faut enregistrer en la matière et qui sont
+         reprises à l'Annexe 1 du projet d'arrêté royal sont identiques à celles prévues dans le projet
+         de loi au sujet duquel la Commission s'est déjà exprimée dans l'avis précité n° 13/2011.
+                             12. Les détails concernant les traitements de données à caractère personnel dans le cadre de
+         l'étiquetage pour le transport d'organes et de la déclaration et de la gestion des
+         incidents et réactions indésirables graves sont, de manière générale, une mise en
+         œuvre très fidèle de ce que prévoient en la matière la Directive 2010/53/UE et le projet de
+         loi modifiant la loi du 13 juin 1986. La Commission ne   voit ici                              aucun problème de
+         proportionnalité.
+                              13. Étant donné que la traçabilité des organes doit impliquer que chaque organe puisse être
+         localisé et identifié à chaque étape de la chaîne du    donneur jusqu'au receveur ou                           à
+         l'élimination et vice-versa, les données à enregistrer à cet égard (système d'identification du
+         donneur et système d'identification du receveur – voir notes de bas de page 2 et 3) ne sont
+         aucunement excessives à la lumière de la finalité pour laquelle elles sont enregistrées.
+    14. Comme   déjà  mentionné  plus haut, le projet  d'arrêté  royal ne donne  pas                        d'explication
+         supplémentaire quant à la manière dont sera organisé le suivi des donneurs vivants
+         ("suivi médical et psychosocial jusqu'à la mort") et en particulier en  ce qui                          concerne
+         l'enregistrement de données concret qui en résulte.
+         Pour la Commission,   il est  dès  lors très  difficile, voire  impossible,  d'apprécier la
+         proportionnalité des données à enregistrer en la matière eu égard à la finalité envisagée.
+         Par conséquent, la Commission formule à ce sujet quelques réserves et recommande de
+         donner des explications complémentaires quant à ce suivi des donneurs vivants et aux
+         traitements de données à caractère personnel qui en découlent.
+         Transfert de données à caractère personnel à l'étranger
+    15.  L'article 16 du projet relatif au nouvel article 10/15  dispose que dans le cadre de                          la
+         traçabilité des organes, le  centre de transplantation  transmet les données relatives                         à
+         l'identification du donneur et à l'identification du receveur à l'Organisation                        européenne
+         d'échange d'organes.
+4 Avis n° 13/2011 du 6 juillet 2011 concernant le projet de loi modifiant la loi du 13 juin 1986 sur le prélèvement et la
+transplantation d’organes.
+
+                                                                                    Avis 26/2011 - 7/10
+        Toute l'information pertinente et nécessaire concernant les incidents indésirables graves et
+        les mesures de gestion prises en la matière est transmise au plus vite à l'Organisation
+        européenne d'échange d'organes (voir le nouvel article 10/16, §§ 2 et 3).
+    16. Concernant cette                Organisation européenne d'échange d'organes, le projet d'arrêté
+        royal précise ce qui suit à l'article 2 (point 13°) : “une organisation à but non lucratif se
+        consacrant aux échanges nationaux et transfrontaliers d'organes et dont les pays membres
+        sont majoritairement des états membres de l'Union, et désignée par Nous en application de
+        la loi du 13 juin 1986 sur le prélèvement et la transplantation d'organes."
+        Bien que le projet d'arrêté royal ne désigne pas cette Organisation européenne d'échange
+        d'organes,  la  lettre accompagnant    la  demande    d'avis  mentionne    qu'il  s'agit     de
+        "Eurotransplant", une institution internationale créée en 1967 et située à Leiden, aux
+        Pays-Bas⁵.
+    17. Pour  autant que  le  transfert de données  à caractère    personnel  ait  lieu au sein de   la
+        Communauté européenne – où s'applique un niveau de protection équivalent en matière de
+        traitement de données à caractère personnel en vertu de la Directive européenne 95/46/CE
+        relative à la protection des personnes physiques à l'égard du traitement des données à
+        caractère  personnel  et à la libre circulation de ces données    –,  ou   vers des pays    qui
+        garantissent un niveau de protection adéquat, conformément à l'article 21 de la LVP, il n'y a
+        en principe aucun problème.
+        Délai de conservation des données
+    18. En vertu de l'article 4, § 1, 5° de la LVP, les données à caractère personnel ne peuvent pas
+        être  conservées  sous  une  forme  permettant  l'identification des  personnes      concernées
+        pendant une durée excédant celle nécessaire à la réalisation des finalités pour lesquelles
+        elles sont obtenues ou pour lesquelles elles sont traitées ultérieurement.
+       19. L'article 16 du projet mentionne que le centre de transplantation conservera, le cas échéant
+        sous forme électronique, les données relatives tant à la caractérisation du donneur et des
+        organes (nouvel article 10/10), qu'à la traçabilité des organes (système d'identification du
+        donneur et système d'identification du receveur) (nouvel article 10/14) et les données à
+        caractère personnel collectées dans le cadre de la déclaration des incidents indésirables
+        graves (nouvel article 16/16, § 6) pendant au minimum 30 ans et au maximum 40 ans,
+        respectivement après le don et après la déclaration (en cas d'incidents indésirables graves).
+5 Voir http://www.eurotransplant.org.
+
+                                                                                               Avis                      26/2011 - 8/10
+                                         20. Le projet de loi modifiant la loi du 13 juin 1986 sur le prélèvement et la transplantation
+        d'organes   prévoit, pour  l'enregistrement  de  données             en matière de traçabilité et de
+                                             caractérisation des organes et des donneurs, un délai de conservation (minimum) de 30 ans.
+                                          L'Exposé des motifs de ce projet de loi se réfère à cet égard à ce que disposent la Directive
+                                           2010/53/UE (relative à la traçabilité), la déontologie médicale belge (relative aux dossiers
+        médicaux   des   médecins)  et  l'arrêté royal du             3 mai  1999 déterminant  les                           conditions
+        générales  minimales   auxquelles  le dossier médical,        visé   à l'article 15 de la loi sur                           les
+        hôpitaux doit répondre (relatif aux dossiers médicaux dans les hôpitaux).
+                                               Dans son avis n° 13/2011 relatif au projet de loi précité, la Commission considère qu'un
+        délai de conservation de 30 ans est légitime.
+    21. Le présent projet d'arrêté royal portant exécution du projet de loi précité évoque à présent
+                                                       subitement un délai de conservation de 30 ans minimum et de 40 ans maximum, sans
+                                          aucune explication claire. Par analogie avec ce qui est prévu dans la réglementation relative
+        au     "matériel corporel humain"⁶,  il est             peut  être indiqué de prévoir un délai                               de
+        conservation minimum         de 30   ans               et un délai de conservation maximum                                   de
+        50 ans, favorisant ainsi une plus grande cohérence dans la réglementation apparentée.
+        Responsabilité et mesures de sécurité
+                                           22. En vertu de l'article 1, § 4, deuxième alinéa de la LVP, le responsable d'un traitement⁷
+                                                dont la finalité et les moyens sont déterminés par ou en vertu d'une loi est l'instance
+                                         désignée en tant que telle par ou en vertu de cette loi. Le projet d'arrêté royal présente des
+        lacunes à ce niveau.
+                                             Le projet de loi modifiant la loi du 13 juin 1986 sur le prélèvement et la transplantation
+                                               d'organes, que le présent projet d'arrêté royal exécute, n'a pas respecté non plus cette
+        disposition de la LVP. La Commission l'avait déjà souligné dans son avis n° 13/2011 du
+        6 juillet 2011.
+6 Voir, en particulier, l'arrêté royal du 28 septembre 2009                fixant les modalités en matière de notification de réactions
+indésirables graves et d'incidents indésirables graves relatifs au matériel corporel humain.
+Voir aussi     : l'avis de la Commission n° 10/2009 relatif à quatre projets d'arrêtés royaux en exécution de la loi                 du
+            19 décembre 2008 relative à l'obtention et à l'utilisation de matériel corporel humain destiné à des applications médicales
+               humaines ou à des fins de recherche scientifique et l'avis de la Commission n° 17/2009 du 10 juin 2009 relatif au projet
+        d'arrêté royal instituant un règlement relatif aux biobanques en exécution de la loi du 19 décembre 2008 relative à l'obtention
+                et à l'utilisation de matériel corporel humain destiné à des applications médicales humaines ou à des fins de recherche
+scientifique.
+        7 Voir l'article 1, § 4, premier alinéa de la LVP : “Par 'responsable du traitement', on entend la personne physique ou morale,
+l'association  de fait ou l'administration publique qui, seule ou conjointement avec d'autres, détermine les finalités et les moyens du
+traitement de données à caractère personnel."
+
+                                                                                  Avis   26/2011 - 9/10
+       23. Il découle de l'article 16 du projet d'arrêté royal concernant le nouvel article 10/21 qu'un
+                  professionnel des soins de santé sera désigné, au sens de l'article 7, § 4 de la LVP.
+               Le traitement de données à caractère personnel au sein du centre de transplantation aura
+        lieu sous sa responsabilité.
+    24. L'article 16 de la LVP impose au responsable du traitement de "prendre les              mesures
+        techniques   et organisationnelles    requises  pour  protéger les  données  à        caractère
+        personnel (…)"  [et précise           que] "Ces mesures doivent assurer un niveau de protection
+                 adéquat, compte tenu, d'une part, de l'état de la technique en la matière et des frais
+        qu'entraîne l'application de ces mesures  et, d'autre part, de la nature des  données         à
+        protéger et  des risques potentiels." Pour satisfaire concrètement  à cette exigence,        la
+        Commission se réfère aux mesures de référence qu'elle a rédigées.⁸
+             25. Les données à caractère personnel sensibles, dont celles relatives à la santé, sont de
+         nature à justifier des mesures de sécurité plus strictes. En vertu de l'article 25 de l'arrêté
+          royal du 13 février 2001 portant exécution de la LVP, le responsable du traitement doit, dans
+                 le cadre du traitement de données à caractère personnel sensibles, comme les données à
+        caractère  personnel  relatives  à  la  santé,  prendre   les  mesures    de           sécurité
+        supplémentaires suivantes :
+        -   désigner les  catégories   de    personnes  ayant  accès aux   données  à         caractère
+                 personnel, avec une description précise de leur fonction par rapport au traitement des
+            données visées ;
+        -           tenir à la disposition de la Commission la liste des catégories des personnes ainsi
+            désignées ;
+        -   veiller à ce que les personnes désignées soient tenues, par une obligation        légale ou
+                  statutaire, ou par une disposition contractuelle équivalente, au respect du caractère
+            confidentiel des données visées.
+        L'article 16 du projet relatif au nouvel article 10/21 semble y répondre en grande partie.
+       26. Le responsable du traitement devra quoi qu'il en soit veiller à ce que toutes les mesures de
+        sécurité précitées soient respectées à tout moment.
+        Déclaration des traitements à la Commission
+     27. L'article 17 de la LVP prévoit ce qui suit : “Préalablement à la mise en œuvre d'un traitement
+                 entièrement ou partiellement automatisé ou d'un ensemble de tels traitements ayant une
+8 Voir le site Internet : http://www.privacycommission.be/fr/static/pdf/mesures-de-r-f-rence-vs-01.pdf.
+
+                                                                                  Avis 26/2011 - 10/10
+        même finalité ou des finalités liées, le responsable du traitement ou, le cas échéant, son
+        représentant, en fait la déclaration auprès de la Commission de la protection de la vie
+        privée."
+    28. Cette déclaration doit préciser les informations énumérées à l'article 17, § 3 de la LVP.
+        29. La déclaration peut être effectuée au moyen d'un formulaire papier disponible auprès de la
+        Commission. La déclaration peut toutefois aussi être introduite par voie électronique via le
+        site Internet de la Commission (http://www.privacycommission.be).
+        III. CONCLUSION
+          30. Vu ce qui précède, la Commission estime que le projet d'arrêté royal offre des garanties
+        suffisantes en   ce qui concerne  la protection des  données  à caractère  personnel       des
+        personnes concernées, à condition que les points importants suivants      soient intégrés
+        dans l'avant-projet :
+        -           explication supplémentaire concernant l'organisation du suivi des donneurs vivants
+                   et le(s) traitement(s) de données à caractère personnel qui en découle(nt) (voir le
+            point 14) ;
+        -   fixation d'un délai de conservation maximal de 50 ans (voir le point 21) ;
+        -   désignation du responsable du traitement (voir le point 22).
+        PAR CES MOTIFS,
+        31. La Commission émet un avis positif quant au projet d'arrêté royal modifiant l'arrêté royal
+        du 23 janvier 2003 fixant les normes auxquelles un centre de transplantation doit répondre
+        pour être agréé comme service médical au sens de l'article 44 de la loi sur les hôpitaux,
+        coordonnée le 7 août 1987, et ce à condition         que les points importants précités soient
+        intégrés de manière complémentaire.
+Pour l’Administrateur e.c.,                                 Le Président,
+(sé) Patrick Van Wouwe                                      (sé) Willem Debeuckelaere

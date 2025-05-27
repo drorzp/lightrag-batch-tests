@@ -1,0 +1,955 @@
+                       14 SEPTEMBRE 2007                              F.05.0070.F/1
+                 Cour de cassation de Belgique
+                                        Arrêt
+N° F.05.0070.F
+1.  PLOUMHANS Pierre,         domicilié à Dison, chemin de la Neuville, 12,
+    agissant en qualité de liquidateur de    la société privée à responsabilité
+    limitée Imprimerie Plumhans,
+2.  IMPRIMERIE PLUMHANS,  société privée à responsabilité limitée en
+    liquidation, représentée par son liquidateur Pierre Ploumhans, domicilié à
+    Dison, chemin de la Neuville, 12,
+demandeurs en cassation,
+représentés par Maître John Kirkpatrick, av ocat à la Cour de cassation, dont le
+cabinet est établi à Bruxelles, boulevard de l’Empereur, 3, où il est fait élection
+de domicile,
+contre
+ETAT BELGE,  représenté par le ministre de      s Finances, dont le cabinet est
+établi à Bruxelles, rue de la Loi, 12,
+défendeur en cassation.
+
+                         14 SEPTEMBRE 2007                              F.05.0070.F/2
+I.      La procédure devant la Cour
+        Le pourvoi en cassation est dirigé contre l’arrêt rendu le 11 février 2005
+par la cour d’appel de Liège.
+        Le président de section Claude Parmentier a fait rapport.
+        L’avocat général André Henkes a conclu.
+
+II.     Les moyens de cassation
+        Les demandeurs présentent deux moyens dont le premier est libellé
+dans les termes suivants :
+
+        Premier moyen
+
+        Dispositions légales violées
+
+        - article 149 de la Constitution ;
+        - articles 1165 et 1321 du Code civil ;
+        - principe général du droit de l'opposabilité aux tiers des effets que les
+actes et conventions non simulés ont sur le patrimoine de leurs auteurs ;
+        - articles 2, 13ter, 13quater, § 1er, 13quinquies, 178, 184, 185, 186, 188
+et 194 du titre IX du livre 1   er du Code de commerce, tels que ces articles
+étaient en vigueur avant la loi du 19 avril 1995 ;
+        - articles 172, 175 et 227 du Code des sociétés ;
+        - articles 354, 209 et 264, 2°, du Code des impôts sur les revenus 1992,
+ce dernier article tel qu'il a été modifié avec effet rétroactif par la loi du 6
+juillet 1994, avant sa modification par la loi du 24 décembre 2002.
+        Décisions et motifs critiqués
+        Après avoir fait, en substance,       notamment par référence à la
+notification d'imposition d'office du 24 mars 1997, les constatations suivantes :
+
+                        14 SEPTEMBRE 2007                              F.05.0070.F/3
+(1) la société privée à responsabilité  limitée Imprimerie Pierre Plumhans (ci-
+après appelée la demanderesse), ayant s on siège social rue des Alliés 29 à 35,
+à Verviers, dans un immeuble appartenant à son principal associé, Pierre
+Ploumhans, a été mise en liquidation par décision d'une assemblée générale
+extraordinaire des associés du 7 décembre 1992 (publiée dans l'annexe au
+Moniteur du 29 décembre 1992) et Pierre Ploumhans a été désigné comme
+liquidateur ; le capital de cette société était représenté par 2.200 parts sociales
+réparties comme suit : Pierre Ploumhans : 2.188 ; Georges Ploumhans : 6 ;
+Annette Ploumhans : 6 ; (2) par acte  du 14 décembre 1992, Pierre et Georges
+Ploumhans ont constitué la société privée à responsabilité limitée Pierre
+Plumhans (ci-après la « Nouvelle Société  »), ayant son siège social à l'adresse
+qui était précédemment celle du siège social de la demanderesse; sur les 3.700
+parts représentant le capital de la N  ouvelle Société, Pierre Ploumhans en a
+souscrit 3.695 et Georges Ploumhans 5 ; avant même la constitution de la
+Nouvelle Société, le ministère de la  Région wallonne avait accepté, par lettre
+du 20 novembre 1992, de transférer à la No uvelle Société le bénéfice des aides
+attribuées à la demanderesse aux condi     tions que 1° l'activité initiale soit
+poursuivie ; 2° les investissements ayant   justifié l'octroi des aides soient
+transférés dans la nouvelle entité juridi  que ; 3° les statuts de la Nouvelle
+Société lui soient transmis ; de fait, la Région wallonne a continué à verser à la
+Nouvelle Société les aides dont bénéficiait la société demanderesse ; les
+numéros de téléphone et de fax de la Nouvelle Société sont les mêmes que ceux
+de la demanderesse ; par convention du     2 février 1993, la demanderesse en
+liquidation a vendu à la Nouvelle Société une partie de son matériel
+d'exploitation pour le prix hors T.V.A. de 4.818.000 francs, réalisant ainsi une
+plus-value de 250.000 francs ; les autres actifs corporels de la demanderesse
+ont été repris par la Nouvelle Société  et comptabilisés à la valeur comptable
+qu'ils avaient chez la demanderesse ; les quatre membres du personnel de la
+demanderesse ont été repris par la Nouvelle Société à partir du 1     er janvier
+1993 sans indemnité de dédit ni pécule de vacances anticipé ; la Nouvelle
+Société leur a garanti le maintien de l'ancienneté acquise chez la
+demanderesse ; la Nouvelle Société       a continué l'exécution des contrats
+d'assurance souscrits par la demanderesse  ; la Nouvelle Société a continué à
+payer à Pierre Ploumhans le loyer de l'immeuble où était établi son siège
+
+                        14 SEPTEMBRE 2007                              F.05.0070.F/4
+social, sans qu'un bail écrit ait été étab   li ; la Nouvelle Société a repris
+entièrement l'activité de la société demanderesse à partir du 1   er janvier 1993
+sans qu'aucun prix lui ait été demandé par  celle-ci pour la reprise de son actif
+incorporel ; (3) la situation comptable de la demanderesse a été clôturée le 31
+décembre 1992 et cette société n'a plus eu aucune activité par la suite ; durant
+la période du 31 décembre 1992 au 24 juillet 1993, le liquidateur de la
+demanderesse a réparti entre les associés  de celle-ci l'avoir social, s'élevant à
+9.206.136 francs ; cette répartition portait, à concurrence de 700.000 francs,
+sur le capital libéré de la demanderesse, et pour le surplus de 8.506.136
+francs, sur des bénéfices réservés ; le   liquidateur n'a ni retenu ni versé au
+défendeur le précompte mobilier sur ces  répartitions, considérant que celui-ci
+n'était pas dû en vertu des articles 209 et 264, 2°, du Code des impôts sur les
+revenus 1992 ; (4) la liquidation de la demanderesse a été clôturée par une
+assemblée générale extraordinaire du 24 juillet 1993, dont le procès-verbal a
+été publié par extrait dans l'annexe au Moniteur du 10 août 1993 ; (5) de ces
+constatations, une « notification d'impos ition d'office au précompte mobilier »
+adressée le 24 mars 1997 à «
+                              M. Ploumhans P., liquidateur de la s.p.r.l.
+Imprimerie Pierre Plumhans en liquidation »  a tiré les conclusions suivantes :
+« 1) la mise en liquidation et la liquidation sont simulées pour éluder l'impôt
+dans le chef des bénéficiaires de l'avoir social distribué ; les conséquences
+juridiques d'une réelle liquidation n'ont pas été respectées ; 2) par conséquent,
+le partage de l'avoir social représente une attribution de ‘dividendes
+ordinaires’ calculée comme suit : (a) partage de l'avoir social : 9.206.136
+francs ; (b) remboursement du capital  réellement  libéré :  700.000  francs ;
+(c) attribution de dividendes ordinaire  s : 8.506.136 francs » ; à la suite de
+cette notification d'imposition d'office, le défendeur a enrôlé le 24 juin 1997
+(dans le délai de cinq ans prévu par l'ar ticle 354, alinéa 2, du Code des impôts
+sur les revenus 1992  en cas de fraude) une cotisation au précompte mobilier
+de 25 p.c. du montant brut des réserv    es comprises dans les répartitions de
+liquidation, c'est-à-dire 25 p.c. de 100/75     e de 8.506.136 francs, ladite
+cotisation étant majorée d'un accroissement de 50 p.c. ; (6) la réclamation du
+liquidateur de la demanderesse contre       cette cotisation a été rejetée par
+décision du directeur régional des contribu tions directes de Liège du 19 avril
+2000 ; le liquidateur a introduit un recou   rs contre cette décision devant le
+
+                        14 SEPTEMBRE 2007                              F.05.0070.F/5
+tribunal de première instance de Liège et a appelé en intervention forcée dans
+cette instance le conseiller fiscal de la demanderesse, la société privée à
+responsabilité limitée Société verviétois e de fiscalité, pour demander, à titre
+subsidiaire, que celle-ci soit condamnée  à le garantir de toutes sommes qu'il
+serait tenu de verser au défendeur à la su ite de la décision à intervenir sur le
+recours fiscal ; par jugement du 25 septembre 2003, le tribunal a annulé la
+cotisation litigieuse au précompte mobilier et dit la demande en intervention
+forcée recevable mais non fondée ; (7)  devant la cour d'appel, le liquidateur a
+notamment contesté l'existence d'une simulation et invoqué que la cotisation
+litigieuse avait été établie en violation de l'article 354 du Code des impôts sur
+les revenus 1992  relatif aux délais d'imposition,
+        l'arrêt, réformant le jugement dont appel sur l'appel du défendeur,
+décide «
+         que la mise en liquidation et la liquidation de (la demanderesse)
+étaient simulées dans le but d'éluder l'im pôt dans le chef des bénéficiaires de
+l'avoir social distribué », que la simulation porte également sur la constitution
+de la société nouvelle, que les articles 209 et 264, 2°, du Code des impôts sur
+les revenus 1992 ne s'appliquent pas aux ré partitions faites en l'espèce par le
+liquidateur, que la cotisation litigieuse a été valablement enrôlée dans le délai
+de cinq ans prévu par l'article 354, alinéa 2, du Code des impôts sur les
+revenus 1992 en cas de fraude et, en conséquence, « dit pour droit que la
+cotisation au précompte mobilier... major ée des accroissements est due et peut
+être recouvrée ».
+        L'arrêt fonde cette décision sur les motifs suivants :
+        (1) «
+             Pour établir l'existence d'une simulation, l'administration doit
+établir :
+        -  que la situation réelle est cachée par un acte fictif ;
+        - que l'impôt était légalement dû en raison de la situation juridique
+dissimulée.
+        Certes il n'y a ni simulation prohibée à l'égard du fisc, ni partant
+fraude fiscale lorsque, en vue de bénéficier d'un régime fiscal plus favorable,
+les parties, usant de la liberté des c onventions, sans violer aucune obligation
+légale, établissent des actes dont elles acceptent toutes les conséquences, même
+si la forme qu'elles leur donnent n'est pas la plus normale ...
+
+                         14 SEPTEMBRE 2007                              F.05.0070.F/6
+        Il échet d'examiner si les parties ont accepté toutes les conséquences de
+leurs actes. Au vu des éléments relevés par le taxateur, tel n'est pas le cas en
+l'espèce.
+         (2) La Cour de cassation définit la liquidation comme l’‘ensemble des
+opérations qui, à la suite de la dissolu tion d'une société commerciale, tendent
+au paiement des créanciers à l'aide de l'actif social et à la répartition du
+reliquat éventuel entre les associés' (Cass., 8 mai 1930, Pas., 1930, I, 202). La
+liquidation d'une société commerciale vise donc bien à mettre fin à ses activités
+et à répartir ses avoirs entre ses associ  és après avoir apuré toutes ses dettes
+envers les tiers (...). Le liquidateur  est donc autorisé à terminer toutes les
+opérations en cours et, pour liquider, il do it dresser un inventaire de toutes les
+valeurs et notamment de l'actif, y compris de l'actif incorporel.
+        (La demanderesse) ne prouve nullement que de telles obligations ont
+été remplies. La réalité des choses dém    ontre que tous les actifs n'ont pas été
+régulièrement réalisés par le liquidateur, qui s'est contenté d'en réaliser
+certains actifs (actifs corporels) et les a revendus à une société qu'il contrôle
+en tant qu'actionnaire majoritaire.
+        Le fonctionnaire-taxateur a dès lors justement déduit de ces
+constatations que la mise en liquidation et la liquidation de la (demanderesse)
+étaient simulées dans le but d'éluder l'im pôt dans le chef des bénéficiaires de
+l'avoir social distribué.
+        (3) Si la mise en liquidation d'une société n'exige pas, à titre de
+condition, que le passif dépasse l'actif, il n'en demeure pas moins que la mise
+en liquidation d'une société reste un événement exceptionnel dans la vie de
+celle-ci et qui vise à mettre fin à l'ac  tivité de celle-ci. La liquidation d'une
+société est habituellement envisagée soit afin d'éviter une procédure en faillite
+lorsque sa situation est précaire, soit lorsque la gestion de la société s'avère
+difficile en raison d'un manque de coll       aboration entre associés qui rend la
+poursuite de l'activité sociale impossible...
+        En l'espèce, (le liquidateur) n'a jamais fourni à l'administration la
+moindre justification quant aux raisons qui auraient amené l'assemblée
+générale à décider de la dissolution de la société. La situation financière de la
+société n'était manifestement pas en cause et un manque de collaboration entre
+associés était difficilement imaginable,  dans la mesure où les deux associés de
+
+                         14 SEPTEMBRE 2007                              F.05.0070.F/7
+la société en liquidation, soit le détenteur de titres majoritaire et un de ses
+coassociés, se retrouvent dans le capital de la société constituée
+postérieurement, laquelle a acquis les instruments permettant la poursuite de
+l'activité sociale.
+        (4) Le ‘transfert’ de société que s   outient (la demanderesse) ne s'est
+réalisé ni par une cession de parts, ni par une cession du fonds de commerce.
+La seule opération entre les deux sociétés est relative à la cession, au mois de
+février, d'une partie des actifs corporels de la société. La société en liquidation
+n'a d'ailleurs pas poursuivi son activité  et, sans que la moindre convention de
+transfert ait été conclue entre les deux sociétés, [la Nouvelle Société] a repris
+de facto l'activité de l'ancienne sociét   é, celle-ci subsistant pourtant sans
+activité aucune jusqu'à la clôture de sa liquidation au mois de juillet 1993.
+        (5) (La demanderesse) ne donne pas plus d'explications quant au sort
+qui a été réservé à ses autres éléments d'actif et de passif. Ainsi la cour
+[d’appel] ignore tout du sort réservé aux  dettes à l'égard des fournisseurs ou
+aux créances à récupérer auprès des clients. Le but premier d'une liquidation
+de la société reste pourtant la réalisation des actifs afin d'honorer l'ensemble
+des dettes de la société et de distribuer, le cas échéant, le dividende entre les
+associés.
+        Finalement les créances et les dettes semblent avoir été purement et
+simplement reprises, sans convention, sans accord, par la société nouvellement
+constituée.
+        (6) Il en est de même de l'actif incorporel et plus particulièrement de la
+clientèle. Celle-ci ne semble même pas avoir été informée de la liquidation de
+la société et de la reprise de l'ac        tivité par la nouvelle société, les
+dénominations sociales presque identiqu     es étant par ailleurs manifestement
+confondues par les tiers (voir notamment la police d'assurance dirigeant
+d'entreprise de Swiss Life portant la  référence société priv ée à responsabilité
+limitée Plumhans dès le 1    er décembre 1990, soit avant la création de cette
+société en 1992). Alors que la première mission incombant au liquidateur est
+de valoriser tous les actifs pour les réaliser, celui-ci n'a pas effectué cette
+opération, notamment quant à la clientèle pourtant immédiatement reprise par
+la nouvelle société. Ainsi que le rappe lle Van Ryn (t. II, 1ère édition, n° 1044)
+dans le cadre d'une liquidation, ‘il ne subs iste qu'une masse de biens, droits et
+
+                        14 SEPTEMBRE 2007                              F.05.0070.F/8
+créances, qu'il s'agit de réaliser aussi  avantageusement que possible en vue de
+payer les créanciers sociaux et de ré     partir le surplus entre les anciens
+associés’. La réalisation  aussi avantageuse que possible des actifs est une des
+obligations du liquidateur en vue de garantir l'apurement du passif qui
+pourrait, si elle n'était pas respecté   e, mettre en cause sa responsabilité
+personnelle. Aucun de ces actes n'a été pos é en l'espèce par le liquidateur. La
+société nouvellement constituée n'a ni valorisé la clientèle, ni les autres
+éléments d'actif faisant partie du patrimoine de la société en liquidation, repris
+purement et simplement à leur valeur     comptable sans ajustement. Seule une
+partie des actifs corporels a été réalisée avec une plus-value de 250.000
+francs. La non-valorisation de l'actif in  corporel et d'une partie des actifs
+corporels démontre que (la demandere       sse) n'a pas réellement voulu une
+liquidation telle qu'elle est conçue en droit commercial.
+       (7) Par ailleurs, les membres du personnel de la société privée à
+responsabilité limitée Pierre Plumhans qui figurent sur le relevé 325.10 de
+l'année civile 1993 figurent également   sur le relevé 325.10 de l'année civile
+1992 établi au nom de la société privée à responsabilité limitée Imprimerie
+Pierre Plumhans. Il est manifeste que le s membres du personnel de la société
+privée à responsabilité limitée Pierre  Plumhans n'ont perçu aucune indemnité
+de dédit mais uniquement des rémuné       rations ordinaires. La querelle sur
+l'application de la convention collective de travail n° 32bis apparaît à cet
+égard sans intérêt, la question litigieuse étant étrangère au maintien des droits
+des travailleurs en cas de changement      d'entreprise et se rapportant à la
+volonté de mettre fin à l'activité sociale de la société en liquidation.
+       (8) Au vu de ces éléments il y a lieu de reconnaître l'existence d'une
+simulation organisée en vue d'éviter    la perception du précompte mobilier,
+parce que la liquidation de la société or iginaire n'a pas été réellement voulue
+avec toutes les conséquences qu'elle implique.
+       Au vu des considérations qui précèdent la simulation porte non
+seulement sur la liquidation de la (demanderesse) mais encore sur la
+constitution de la société nouvelle.
+       (9) Il suit de ces considérations que les articles 209 et 264, 2°, du Code
+des impôts sur les revenus 1992 ne peuvent trouver application en l'espèce,
+puisqu'il n'y a pas eu réellement liquidation, ni réel partage de l'avoir social.
+
+                        14 SEPTEMBRE 2007                              F.05.0070.F/9
+        (La demanderesse) ne démontre pas se trouver dans la situation qui lui
+permettrait de revendiquer le bénéfice des dispositions vantées (...).
+        (10) Enfin les accroissements sont pleinement justifiés légalement vu
+l'existence de la fraude caractérisée ».
+        Griefs
+        Première branche
+        Il ressort assurément des constatations  de l'arrêt que le seul but de la
+mise en liquidation de la société demanderesse et de la constitution de la
+Nouvelle Société en vue de reprendre le personnel, les actifs corporels, la
+clientèle, les contrats en cours et l'   activité de la demanderesse, était de
+permettre la répartition des bénéfices ré  servés de la société en liquidation à
+ses associés dans le cadre d'un partage     de l'avoir social et d'éviter ainsi
+l'application du précompte mobilier par application des articles 209 et 264, 2°,
+du Code des impôts sur les revenus 1992.
+        De ces constatations, la cour d'appel n'a pu pour autant déduire
+légalement que les opérations précitées auraient constitué une simulation en
+vue d'éluder un impôt légalement dû et, partant, auraient constitué une fraude
+fiscale, en sorte que le défendeur serait en droit de considérer que la société
+demanderesse n'a pas été mise en liquidation, qu'aucune nouvelle société n'a
+été constituée et que la répartition de l'avoir social de la société demanderesse
+constituait, à concurrence du montant des bénéfices réservés, une simple
+distribution de dividendes passible du précompte mobilier.
+        Il n'y a en effet ni simulation prohibée à l'égard du fisc ni, partant,
+fraude fiscale, lorsque, en vue de bénéficier d'un régime fiscal plus favorable,
+les parties établissent des actes dont elle s acceptent toutes les conséquences,
+même si ces actes sont accomplis à seule fin de réduire la charge fiscale. En
+procédant de la sorte, les parties ne font qu'user de la liberté des conventions
+et ne violent aucune obligation imposée par la loi fiscale.
+        En l'espèce, les constatations de l'arrêt ne permettaient pas à la cour
+d'appel de considérer que les associés        et le liquidateur de la société
+
+                       14 SEPTEMBRE 2007                              F.05.0070.F/10
+demanderesse et les fondateurs de la Nouvelle Société n'auraient pas accepté
+toutes les conséquences de leurs actes.
+       Au contraire, la mise en liquidation de la société demanderesse était
+juridiquement indispensable pour perme ttre au liquidateur de répartir entre
+ses associés, non seulement les réserves     disponibles, mais l'intégralité du
+capital, puisque la loi sur les sociétés interdit à une société privée à
+responsabilité limitée de réduire son capital avant sa liquidation en dessous du
+capital minimum (articles 120, 3°, et 122, dernier alinéa, du titre IX du livre
+1er du Code du commerce).
+       Il ne ressort pas des constatations de l'arrêt que la société
+demanderesse aurait, après les répartitions à ses associés, conservé aucun
+élément d'actif ou que certaines dette   s n'auraient pas été reprises par la
+Nouvelle Société : l'arrêt constate au c ontraire « que les créances et les dettes
+semblent avoir été reprises, sans convention (écrite), sans accord (des
+créanciers) par la société nouvellement constituée ; qu'il en est de même de
+l'actif incorporel et plus particulièremen t de la clientèle » ; que la Nouvelle
+Société a repris « les autres éléments d' actifs faisant partie du patrimoine » de
+la demanderesse « à leur valeur comptable sans ajustement ».
+       Si la cour d'appel a pu, par des appréciations qui gisent en fait, juger
+anormales les modalités de la liquidation    qu'elle décrit, tels le transfert de
+certains éléments d'actifs, et notamment de  la clientèle, à la Nouvelle Société
+sans convention écrite et sans contre   partie, ou l'absence d'information des
+créanciers sur la reprise des engagements de la société en liquidation par la
+Nouvelle Société, ces faits étaient éventuellement de nature à engager la
+responsabilité du liquidateur et, au point de vue fiscal, à justifier la taxation de
+la société en liquidation sur un avantage   anormal en vertu de l'article 26 du
+Code des impôts sur les revenus 1992, mais ne sont pas de nature à justifier
+légalement que la liquidation de la soci été demanderesse soit déclarée simulée
+ou fictive.
+       Dans la mesure où l'arrêt fonde le      caractère simulé ou fictif de la
+liquidation sur la considération que celle-ci n'était pas justifiée par la situation
+financière de la société ou par une mésentente entre les associés (motifs relatés
+supra, 3), l'arrêt restreint illégalement  l'application des dispositions de la loi
+sur les sociétés relatives à la liquidation des sociétés (violation des
+
+                       14 SEPTEMBRE 2007                              F.05.0070.F/11
+dispositions du titre IX du livre 1  er du Code du commerce visées en tête du
+moyen, à l'exception de l'article 2).
+       Dans la mesure où l'arrêt fonde le  caractère fictif de la liquidation sur
+la considération que celle-ci n'a pas mis fin à l'activité qui constituait l'objet de
+la demanderesse parce que cette activ     ité a été poursuivie par la Nouvelle
+Société constituée par les associés majo ritaires de la demanderesse sous une
+dénomination analogue, ayant son siège social et son siège d'exploitation à la
+même adresse, qui a repris le personnel, les moyens d'exploitation, les contrats
+en cours et la clientèle de la demanderesse, il méconnaît que la Nouvelle
+Société constitue une personne juridique distincte de la demanderesse
+(violation de l'article 2, alinéa 2, du titre IX du livre 1      er du Code de
+commerce).
+       En considérant les opérations précitées comme simulées sur la base des
+constatations et sur le fondement des mo tifs qui ont été rappelés, l'arrêt viole
+dès lors la notion légale de simulation    (violation de l'article 1321 du Code
+civil) et le principe général du droit  selon lequel les effets que les actes et
+conventions non simulés ont sur le patrimoine de leurs auteurs sont opposables
+aux tiers, principe qui se déduit de l' article 1165 du Code civil (violation dudit
+principe et dudit article).
+       Par voie de conséquence, en cons     idérant que le précompte mobilier
+litigieux pouvait être enrôlé dans le délai de cinq ans prévu par l'article 354,
+alinéa 2, du Code des impôts sur les revenus 1992 en cas d'infraction aux
+dispositions de ce code ou de ses arrêtés d'exécution commise dans une
+intention frauduleuse ou à dessein de nui   re, l'arrêt viole le dit article, et en
+considérant que le précompte mobilier était dû sur les répartitions faites dans
+le cadre du partage de l'avoir social    de la demanderesse, l'arrêt viole les
+articles 209 et 264, 2°, du Code des impôts sur les revenus 1992.
+       Deuxième branche
+       Après avoir décidé, par les motifs qui ont été reproduits, que la mise en
+liquidation et la liquidation de la société demanderesse étaient simulées,
+l'arrêt, statuant sur l'action en garanti  e introduite à titre subsidiaire par le
+demandeur qualitate qua contre le conseiller fiscal de la demanderesse, la
+
+                       14 SEPTEMBRE 2007                              F.05.0070.F/12
+société privée à responsabilité limitée Société verviétoise de fiscalité, déclare
+cette action non recevable aux motifs « que cette action a été introduite le 19
+décembre 2002 alors que la clôture de la liquidation est intervenue le 24 juillet
+1993 ; qu'après la clôture de sa liquidation,  la société n'a plus d'existence lui
+permettant d'actionner une personne en ju     stice, puisque le délai de cinq ans
+courant contre le liquidateur ne vi    se qu'à assurer la protection des tiers
+(article 194 des lois sur les sociétés  commerciales applicable à l'époque ; voir
+aussi Cass., 22 mars 1962) ; que partant l'action en garantie est manifestement
+irrecevable ; qu'il ne peut en effet être perdu de vue que la dissolution de la
+société décidée par l'assemblée générale a un caractère irrémédiable ».
+        Ces motifs sont en contradiction avec la décision de l'arrêt selon
+laquelle la mise en liquidation et la liquidation de la société demanderesse sont
+simulées ou fictives en sorte qu'il n'y a pas lieu d'en tenir compte. Cette
+contradiction équivaut à l'absence de motifs (violation de l'article 149 de la
+Constitution).
+        Troisième branche
+        En décidant que la mise en liquidation et la liquidation de la
+demanderesse et la constitution de la     société privée à responsabilité limitée
+Plumhans (la Nouvelle Société) sont simulées dans le but d'éluder un impôt, et
+sont donc fictives, l'arrêt considère la  Nouvelle Société comme inexistante ;
+que cette décision équivaut à l'annulati on d'une société privée à responsabilité
+limitée pour une cause non prévue par l' article 13ter du titre IX du livre 1 er du
+Code du commerce, avec  un  effet  rétroactif  prohibé  par  l'article 13quater,
+§ 1er, du même titre et sans la liquidation  prescrite par l'article 13quinquies du
+même titre.
+        Ces dispositions du Code du commer      ce, en vigueur au moment de la
+constitution de la Nouvelle Société, sont remplacées respectivement par les
+articles 227, 172 et 175 du Code des sociétés, en vigueur à la date de l'arrêt.
+
+                       14 SEPTEMBRE 2007                              F.05.0070.F/13
+III.   La décision de la Cour
+
+       Sur le premier moyen :
+
+       Quant à la première branche :
+
+       Il n’y a ni simulation prohibée à      l’égard du fisc ni, partant, fraude
+fiscale lorsque, en vue de bénéficier d’     un régime fiscal plus favorable, les
+parties, usant de la libe  rté des conventions, sans     toutefois violer aucune
+obligation légale, établissent des act    es dont elles acceptent toutes les
+conséquences, même si ces actes sont accomplis à seule fin de réduire la charge
+fiscale.
+       L’arrêt constate que la demanderesse      a été mise en liquidation le 7
+décembre 1992, que « sa situation comptable […] a été clôturée le 31 décembre
+1992 et que cette société n’a plus eu aucu     ne activité par la suite », que le
+demandeur, liquidateur de la société, a réparti entre les associés l’intégralité
+des réserves disponibles et du capital social » et que, en décembre 1992, a été
+constituée une nouvelle société sous la dénomination Pierre Plumhans.
+       Il relève que « les créances et les  dettes semblent avoir été purement et
+simplement reprises […] par la société nouvellement constituée ; qu’il en est de
+même de l’actif incorporel et plus particulièrement de la clientèle », que la
+nouvelle société a repris «
+                          les autres        éléments d’actif faisant partie du
+patrimoine de la société en liquidati      on […] à leur valeur comptable sans
+ajustement » et constate « la reprise de l’activité par la nouvelle société ».
+       Ni les considérations que la mise en liquidation de la demanderesse
+n’était pas justifiée par sa situation financière ou par un manque de
+collaboration entre les associés, tel qu’il eût rendu impossible la poursuite de
+l’activité sociale, mais par l’intention d’éviter le précompte mobilier sur la
+distribution des bénéfices réservés, ni les considérations relatives aux modalités
+de la mise en œuvre de la liquidation et aux négligences du demandeur à cet
+égard, sans que l’arrêt constate un manquement de sa part à des obligations
+
+                       14 SEPTEMBRE 2007                              F.05.0070.F/14
+légales déterminées, ne sont de nature à justifier légalement la décision de
+l’arrêt que la liquidation de la demand   eresse revêtait un caractère simulé et
+que, partant, le précompte mobilier litigieux majoré d’accroissements était dû
+sur les répartitions faites dans le cadre du partage social de la demanderesse.
+       Le moyen, en cette branche, est fondé.
+
+       Quant à la deuxième branche :
+
+       Il est contradictoire de considérer que la mise en liquidation de la
+demanderesse est simulée et de prendre en  considération la date de clôture de
+la liquidation pour déclarer irrecevabl   e l’action en garantie dirigée par le
+demandeur contre le conseiller fiscal de la demanderesse.
+       Le moyen, en cette branche, est fondé.
+
+       La cassation de la décision de teni   r pour simulée la liquidation de la
+demanderesse s’étend à la décision que  la simulation prohibée porte également
+sur la constitution de la nouvelle société, la société privée à responsabilité
+limitée Pierre Plumhans, en raison du lien établi par l’arrêt entre ces décisions.
+
+       Sur les autres griefs :
+
+       Il n’y a pas lieu d’examiner la troisième branche du premier moyen et le
+second moyen qui ne sauraient entraîner une cassation plus étendue.
+
+                      14 SEPTEMBRE 2007                              F.05.0070.F/15
+       Par ces motifs,
+
+       La Cour
+
+       Casse l’arrêt attaqué, sauf en tant qu’il reçoit l’appel du défendeur et
+ordonne la jonction des causes ;
+       Ordonne que mention du présent arrêt sera faite en marge de l’arrêt
+partiellement cassé ;
+       Réserve les dépens pour qu’il soit statué sur ceux-ci par le juge du
+fond ;
+       Renvoie la cause, ainsi limitée, devant la cour d’appel de Mons.
+Ainsi jugé par la Cour de cassation, première chambre, à Bruxelles, où
+siégeaient le président de section Claude Parmentier, les conseillers Didier
+Batselé, Albert Fettweis, Daniel Plas    et Martine Regout, et prononcé en
+audience publique du quatorze septembre deux mille sept par le président de
+section Claude Parmentier, en présence de l’avocat général André Henkes avec
+l’assistance du greffier Marie-Jeanne Massart.
+
+--- ADDITIONAL CONTENT ADDED 2025-05-26T02:03:20.894Z ---
+
+                       14 SEPTEMBRE 2007                              F.05.0070.F/1
+                 Cour de cassation de Belgique
+                                        Arrêt
+N° F.05.0070.F
+1.  PLOUMHANS Pierre,         domicilié à Dison, chemin de la Neuville, 12,
+    agissant en qualité de liquidateur de    la société privée à responsabilité
+    limitée Imprimerie Plumhans,
+2.  IMPRIMERIE PLUMHANS,  société privée à responsabilité limitée en
+    liquidation, représentée par son liquidateur Pierre Ploumhans, domicilié à
+    Dison, chemin de la Neuville, 12,
+demandeurs en cassation,
+représentés par Maître John Kirkpatrick, av ocat à la Cour de cassation, dont le
+cabinet est établi à Bruxelles, boulevard de l’Empereur, 3, où il est fait élection
+de domicile,
+contre
+ETAT BELGE,  représenté par le ministre de      s Finances, dont le cabinet est
+établi à Bruxelles, rue de la Loi, 12,
+défendeur en cassation.
+
+                         14 SEPTEMBRE 2007                              F.05.0070.F/2
+I.      La procédure devant la Cour
+        Le pourvoi en cassation est dirigé contre l’arrêt rendu le 11 février 2005
+par la cour d’appel de Liège.
+        Le président de section Claude Parmentier a fait rapport.
+        L’avocat général André Henkes a conclu.
+
+II.     Les moyens de cassation
+        Les demandeurs présentent deux moyens dont le premier est libellé
+dans les termes suivants :
+
+        Premier moyen
+
+        Dispositions légales violées
+
+        - article 149 de la Constitution ;
+        - articles 1165 et 1321 du Code civil ;
+        - principe général du droit de l'opposabilité aux tiers des effets que les
+actes et conventions non simulés ont sur le patrimoine de leurs auteurs ;
+        - articles 2, 13ter, 13quater, § 1er, 13quinquies, 178, 184, 185, 186, 188
+et 194 du titre IX du livre 1   er du Code de commerce, tels que ces articles
+étaient en vigueur avant la loi du 19 avril 1995 ;
+        - articles 172, 175 et 227 du Code des sociétés ;
+        - articles 354, 209 et 264, 2°, du Code des impôts sur les revenus 1992,
+ce dernier article tel qu'il a été modifié avec effet rétroactif par la loi du 6
+juillet 1994, avant sa modification par la loi du 24 décembre 2002.
+        Décisions et motifs critiqués
+        Après avoir fait, en substance,       notamment par référence à la
+notification d'imposition d'office du 24 mars 1997, les constatations suivantes :
+
+                        14 SEPTEMBRE 2007                              F.05.0070.F/3
+(1) la société privée à responsabilité  limitée Imprimerie Pierre Plumhans (ci-
+après appelée la demanderesse), ayant s on siège social rue des Alliés 29 à 35,
+à Verviers, dans un immeuble appartenant à son principal associé, Pierre
+Ploumhans, a été mise en liquidation par décision d'une assemblée générale
+extraordinaire des associés du 7 décembre 1992 (publiée dans l'annexe au
+Moniteur du 29 décembre 1992) et Pierre Ploumhans a été désigné comme
+liquidateur ; le capital de cette société était représenté par 2.200 parts sociales
+réparties comme suit : Pierre Ploumhans : 2.188 ; Georges Ploumhans : 6 ;
+Annette Ploumhans : 6 ; (2) par acte  du 14 décembre 1992, Pierre et Georges
+Ploumhans ont constitué la société privée à responsabilité limitée Pierre
+Plumhans (ci-après la « Nouvelle Société  »), ayant son siège social à l'adresse
+qui était précédemment celle du siège social de la demanderesse; sur les 3.700
+parts représentant le capital de la N  ouvelle Société, Pierre Ploumhans en a
+souscrit 3.695 et Georges Ploumhans 5 ; avant même la constitution de la
+Nouvelle Société, le ministère de la  Région wallonne avait accepté, par lettre
+du 20 novembre 1992, de transférer à la No uvelle Société le bénéfice des aides
+attribuées à la demanderesse aux condi     tions que 1° l'activité initiale soit
+poursuivie ; 2° les investissements ayant   justifié l'octroi des aides soient
+transférés dans la nouvelle entité juridi  que ; 3° les statuts de la Nouvelle
+Société lui soient transmis ; de fait, la Région wallonne a continué à verser à la
+Nouvelle Société les aides dont bénéficiait la société demanderesse ; les
+numéros de téléphone et de fax de la Nouvelle Société sont les mêmes que ceux
+de la demanderesse ; par convention du     2 février 1993, la demanderesse en
+liquidation a vendu à la Nouvelle Société une partie de son matériel
+d'exploitation pour le prix hors T.V.A. de 4.818.000 francs, réalisant ainsi une
+plus-value de 250.000 francs ; les autres actifs corporels de la demanderesse
+ont été repris par la Nouvelle Société  et comptabilisés à la valeur comptable
+qu'ils avaient chez la demanderesse ; les quatre membres du personnel de la
+demanderesse ont été repris par la Nouvelle Société à partir du 1     er janvier
+1993 sans indemnité de dédit ni pécule de vacances anticipé ; la Nouvelle
+Société leur a garanti le maintien de l'ancienneté acquise chez la
+demanderesse ; la Nouvelle Société       a continué l'exécution des contrats
+d'assurance souscrits par la demanderesse  ; la Nouvelle Société a continué à
+payer à Pierre Ploumhans le loyer de l'immeuble où était établi son siège
+
+                        14 SEPTEMBRE 2007                              F.05.0070.F/4
+social, sans qu'un bail écrit ait été étab   li ; la Nouvelle Société a repris
+entièrement l'activité de la société demanderesse à partir du 1   er janvier 1993
+sans qu'aucun prix lui ait été demandé par  celle-ci pour la reprise de son actif
+incorporel ; (3) la situation comptable de la demanderesse a été clôturée le 31
+décembre 1992 et cette société n'a plus eu aucune activité par la suite ; durant
+la période du 31 décembre 1992 au 24 juillet 1993, le liquidateur de la
+demanderesse a réparti entre les associés  de celle-ci l'avoir social, s'élevant à
+9.206.136 francs ; cette répartition portait, à concurrence de 700.000 francs,
+sur le capital libéré de la demanderesse, et pour le surplus de 8.506.136
+francs, sur des bénéfices réservés ; le   liquidateur n'a ni retenu ni versé au
+défendeur le précompte mobilier sur ces  répartitions, considérant que celui-ci
+n'était pas dû en vertu des articles 209 et 264, 2°, du Code des impôts sur les
+revenus 1992 ; (4) la liquidation de la demanderesse a été clôturée par une
+assemblée générale extraordinaire du 24 juillet 1993, dont le procès-verbal a
+été publié par extrait dans l'annexe au Moniteur du 10 août 1993 ; (5) de ces
+constatations, une « notification d'impos ition d'office au précompte mobilier »
+adressée le 24 mars 1997 à «
+                              M. Ploumhans P., liquidateur de la s.p.r.l.
+Imprimerie Pierre Plumhans en liquidation »  a tiré les conclusions suivantes :
+« 1) la mise en liquidation et la liquidation sont simulées pour éluder l'impôt
+dans le chef des bénéficiaires de l'avoir social distribué ; les conséquences
+juridiques d'une réelle liquidation n'ont pas été respectées ; 2) par conséquent,
+le partage de l'avoir social représente une attribution de ‘dividendes
+ordinaires’ calculée comme suit : (a) partage de l'avoir social : 9.206.136
+francs ; (b) remboursement du capital  réellement  libéré :  700.000  francs ;
+(c) attribution de dividendes ordinaire  s : 8.506.136 francs » ; à la suite de
+cette notification d'imposition d'office, le défendeur a enrôlé le 24 juin 1997
+(dans le délai de cinq ans prévu par l'ar ticle 354, alinéa 2, du Code des impôts
+sur les revenus 1992  en cas de fraude) une cotisation au précompte mobilier
+de 25 p.c. du montant brut des réserv    es comprises dans les répartitions de
+liquidation, c'est-à-dire 25 p.c. de 100/75     e de 8.506.136 francs, ladite
+cotisation étant majorée d'un accroissement de 50 p.c. ; (6) la réclamation du
+liquidateur de la demanderesse contre       cette cotisation a été rejetée par
+décision du directeur régional des contribu tions directes de Liège du 19 avril
+2000 ; le liquidateur a introduit un recou   rs contre cette décision devant le
+
+                        14 SEPTEMBRE 2007                              F.05.0070.F/5
+tribunal de première instance de Liège et a appelé en intervention forcée dans
+cette instance le conseiller fiscal de la demanderesse, la société privée à
+responsabilité limitée Société verviétois e de fiscalité, pour demander, à titre
+subsidiaire, que celle-ci soit condamnée  à le garantir de toutes sommes qu'il
+serait tenu de verser au défendeur à la su ite de la décision à intervenir sur le
+recours fiscal ; par jugement du 25 septembre 2003, le tribunal a annulé la
+cotisation litigieuse au précompte mobilier et dit la demande en intervention
+forcée recevable mais non fondée ; (7)  devant la cour d'appel, le liquidateur a
+notamment contesté l'existence d'une simulation et invoqué que la cotisation
+litigieuse avait été établie en violation de l'article 354 du Code des impôts sur
+les revenus 1992  relatif aux délais d'imposition,
+        l'arrêt, réformant le jugement dont appel sur l'appel du défendeur,
+décide «
+         que la mise en liquidation et la liquidation de (la demanderesse)
+étaient simulées dans le but d'éluder l'im pôt dans le chef des bénéficiaires de
+l'avoir social distribué », que la simulation porte également sur la constitution
+de la société nouvelle, que les articles 209 et 264, 2°, du Code des impôts sur
+les revenus 1992 ne s'appliquent pas aux ré partitions faites en l'espèce par le
+liquidateur, que la cotisation litigieuse a été valablement enrôlée dans le délai
+de cinq ans prévu par l'article 354, alinéa 2, du Code des impôts sur les
+revenus 1992 en cas de fraude et, en conséquence, « dit pour droit que la
+cotisation au précompte mobilier... major ée des accroissements est due et peut
+être recouvrée ».
+        L'arrêt fonde cette décision sur les motifs suivants :
+        (1) «
+             Pour établir l'existence d'une simulation, l'administration doit
+établir :
+        -  que la situation réelle est cachée par un acte fictif ;
+        - que l'impôt était légalement dû en raison de la situation juridique
+dissimulée.
+        Certes il n'y a ni simulation prohibée à l'égard du fisc, ni partant
+fraude fiscale lorsque, en vue de bénéficier d'un régime fiscal plus favorable,
+les parties, usant de la liberté des c onventions, sans violer aucune obligation
+légale, établissent des actes dont elles acceptent toutes les conséquences, même
+si la forme qu'elles leur donnent n'est pas la plus normale ...
+
+                         14 SEPTEMBRE 2007                              F.05.0070.F/6
+        Il échet d'examiner si les parties ont accepté toutes les conséquences de
+leurs actes. Au vu des éléments relevés par le taxateur, tel n'est pas le cas en
+l'espèce.
+         (2) La Cour de cassation définit la liquidation comme l’‘ensemble des
+opérations qui, à la suite de la dissolu tion d'une société commerciale, tendent
+au paiement des créanciers à l'aide de l'actif social et à la répartition du
+reliquat éventuel entre les associés' (Cass., 8 mai 1930, Pas., 1930, I, 202). La
+liquidation d'une société commerciale vise donc bien à mettre fin à ses activités
+et à répartir ses avoirs entre ses associ  és après avoir apuré toutes ses dettes
+envers les tiers (...). Le liquidateur  est donc autorisé à terminer toutes les
+opérations en cours et, pour liquider, il do it dresser un inventaire de toutes les
+valeurs et notamment de l'actif, y compris de l'actif incorporel.
+        (La demanderesse) ne prouve nullement que de telles obligations ont
+été remplies. La réalité des choses dém    ontre que tous les actifs n'ont pas été
+régulièrement réalisés par le liquidateur, qui s'est contenté d'en réaliser
+certains actifs (actifs corporels) et les a revendus à une société qu'il contrôle
+en tant qu'actionnaire majoritaire.
+        Le fonctionnaire-taxateur a dès lors justement déduit de ces
+constatations que la mise en liquidation et la liquidation de la (demanderesse)
+étaient simulées dans le but d'éluder l'im pôt dans le chef des bénéficiaires de
+l'avoir social distribué.
+        (3) Si la mise en liquidation d'une société n'exige pas, à titre de
+condition, que le passif dépasse l'actif, il n'en demeure pas moins que la mise
+en liquidation d'une société reste un événement exceptionnel dans la vie de
+celle-ci et qui vise à mettre fin à l'ac  tivité de celle-ci. La liquidation d'une
+société est habituellement envisagée soit afin d'éviter une procédure en faillite
+lorsque sa situation est précaire, soit lorsque la gestion de la société s'avère
+difficile en raison d'un manque de coll       aboration entre associés qui rend la
+poursuite de l'activité sociale impossible...
+        En l'espèce, (le liquidateur) n'a jamais fourni à l'administration la
+moindre justification quant aux raisons qui auraient amené l'assemblée
+générale à décider de la dissolution de la société. La situation financière de la
+société n'était manifestement pas en cause et un manque de collaboration entre
+associés était difficilement imaginable,  dans la mesure où les deux associés de
+
+                         14 SEPTEMBRE 2007                              F.05.0070.F/7
+la société en liquidation, soit le détenteur de titres majoritaire et un de ses
+coassociés, se retrouvent dans le capital de la société constituée
+postérieurement, laquelle a acquis les instruments permettant la poursuite de
+l'activité sociale.
+        (4) Le ‘transfert’ de société que s   outient (la demanderesse) ne s'est
+réalisé ni par une cession de parts, ni par une cession du fonds de commerce.
+La seule opération entre les deux sociétés est relative à la cession, au mois de
+février, d'une partie des actifs corporels de la société. La société en liquidation
+n'a d'ailleurs pas poursuivi son activité  et, sans que la moindre convention de
+transfert ait été conclue entre les deux sociétés, [la Nouvelle Société] a repris
+de facto l'activité de l'ancienne sociét   é, celle-ci subsistant pourtant sans
+activité aucune jusqu'à la clôture de sa liquidation au mois de juillet 1993.
+        (5) (La demanderesse) ne donne pas plus d'explications quant au sort
+qui a été réservé à ses autres éléments d'actif et de passif. Ainsi la cour
+[d’appel] ignore tout du sort réservé aux  dettes à l'égard des fournisseurs ou
+aux créances à récupérer auprès des clients. Le but premier d'une liquidation
+de la société reste pourtant la réalisation des actifs afin d'honorer l'ensemble
+des dettes de la société et de distribuer, le cas échéant, le dividende entre les
+associés.
+        Finalement les créances et les dettes semblent avoir été purement et
+simplement reprises, sans convention, sans accord, par la société nouvellement
+constituée.
+        (6) Il en est de même de l'actif incorporel et plus particulièrement de la
+clientèle. Celle-ci ne semble même pas avoir été informée de la liquidation de
+la société et de la reprise de l'ac        tivité par la nouvelle société, les
+dénominations sociales presque identiqu     es étant par ailleurs manifestement
+confondues par les tiers (voir notamment la police d'assurance dirigeant
+d'entreprise de Swiss Life portant la  référence société priv ée à responsabilité
+limitée Plumhans dès le 1    er décembre 1990, soit avant la création de cette
+société en 1992). Alors que la première mission incombant au liquidateur est
+de valoriser tous les actifs pour les réaliser, celui-ci n'a pas effectué cette
+opération, notamment quant à la clientèle pourtant immédiatement reprise par
+la nouvelle société. Ainsi que le rappe lle Van Ryn (t. II, 1ère édition, n° 1044)
+dans le cadre d'une liquidation, ‘il ne subs iste qu'une masse de biens, droits et
+
+                        14 SEPTEMBRE 2007                              F.05.0070.F/8
+créances, qu'il s'agit de réaliser aussi  avantageusement que possible en vue de
+payer les créanciers sociaux et de ré     partir le surplus entre les anciens
+associés’. La réalisation  aussi avantageuse que possible des actifs est une des
+obligations du liquidateur en vue de garantir l'apurement du passif qui
+pourrait, si elle n'était pas respecté   e, mettre en cause sa responsabilité
+personnelle. Aucun de ces actes n'a été pos é en l'espèce par le liquidateur. La
+société nouvellement constituée n'a ni valorisé la clientèle, ni les autres
+éléments d'actif faisant partie du patrimoine de la société en liquidation, repris
+purement et simplement à leur valeur     comptable sans ajustement. Seule une
+partie des actifs corporels a été réalisée avec une plus-value de 250.000
+francs. La non-valorisation de l'actif in  corporel et d'une partie des actifs
+corporels démontre que (la demandere       sse) n'a pas réellement voulu une
+liquidation telle qu'elle est conçue en droit commercial.
+       (7) Par ailleurs, les membres du personnel de la société privée à
+responsabilité limitée Pierre Plumhans qui figurent sur le relevé 325.10 de
+l'année civile 1993 figurent également   sur le relevé 325.10 de l'année civile
+1992 établi au nom de la société privée à responsabilité limitée Imprimerie
+Pierre Plumhans. Il est manifeste que le s membres du personnel de la société
+privée à responsabilité limitée Pierre  Plumhans n'ont perçu aucune indemnité
+de dédit mais uniquement des rémuné       rations ordinaires. La querelle sur
+l'application de la convention collective de travail n° 32bis apparaît à cet
+égard sans intérêt, la question litigieuse étant étrangère au maintien des droits
+des travailleurs en cas de changement      d'entreprise et se rapportant à la
+volonté de mettre fin à l'activité sociale de la société en liquidation.
+       (8) Au vu de ces éléments il y a lieu de reconnaître l'existence d'une
+simulation organisée en vue d'éviter    la perception du précompte mobilier,
+parce que la liquidation de la société or iginaire n'a pas été réellement voulue
+avec toutes les conséquences qu'elle implique.
+       Au vu des considérations qui précèdent la simulation porte non
+seulement sur la liquidation de la (demanderesse) mais encore sur la
+constitution de la société nouvelle.
+       (9) Il suit de ces considérations que les articles 209 et 264, 2°, du Code
+des impôts sur les revenus 1992 ne peuvent trouver application en l'espèce,
+puisqu'il n'y a pas eu réellement liquidation, ni réel partage de l'avoir social.
+
+                        14 SEPTEMBRE 2007                              F.05.0070.F/9
+        (La demanderesse) ne démontre pas se trouver dans la situation qui lui
+permettrait de revendiquer le bénéfice des dispositions vantées (...).
+        (10) Enfin les accroissements sont pleinement justifiés légalement vu
+l'existence de la fraude caractérisée ».
+        Griefs
+        Première branche
+        Il ressort assurément des constatations  de l'arrêt que le seul but de la
+mise en liquidation de la société demanderesse et de la constitution de la
+Nouvelle Société en vue de reprendre le personnel, les actifs corporels, la
+clientèle, les contrats en cours et l'   activité de la demanderesse, était de
+permettre la répartition des bénéfices ré  servés de la société en liquidation à
+ses associés dans le cadre d'un partage     de l'avoir social et d'éviter ainsi
+l'application du précompte mobilier par application des articles 209 et 264, 2°,
+du Code des impôts sur les revenus 1992.
+        De ces constatations, la cour d'appel n'a pu pour autant déduire
+légalement que les opérations précitées auraient constitué une simulation en
+vue d'éluder un impôt légalement dû et, partant, auraient constitué une fraude
+fiscale, en sorte que le défendeur serait en droit de considérer que la société
+demanderesse n'a pas été mise en liquidation, qu'aucune nouvelle société n'a
+été constituée et que la répartition de l'avoir social de la société demanderesse
+constituait, à concurrence du montant des bénéfices réservés, une simple
+distribution de dividendes passible du précompte mobilier.
+        Il n'y a en effet ni simulation prohibée à l'égard du fisc ni, partant,
+fraude fiscale, lorsque, en vue de bénéficier d'un régime fiscal plus favorable,
+les parties établissent des actes dont elle s acceptent toutes les conséquences,
+même si ces actes sont accomplis à seule fin de réduire la charge fiscale. En
+procédant de la sorte, les parties ne font qu'user de la liberté des conventions
+et ne violent aucune obligation imposée par la loi fiscale.
+        En l'espèce, les constatations de l'arrêt ne permettaient pas à la cour
+d'appel de considérer que les associés        et le liquidateur de la société
+
+                       14 SEPTEMBRE 2007                              F.05.0070.F/10
+demanderesse et les fondateurs de la Nouvelle Société n'auraient pas accepté
+toutes les conséquences de leurs actes.
+       Au contraire, la mise en liquidation de la société demanderesse était
+juridiquement indispensable pour perme ttre au liquidateur de répartir entre
+ses associés, non seulement les réserves     disponibles, mais l'intégralité du
+capital, puisque la loi sur les sociétés interdit à une société privée à
+responsabilité limitée de réduire son capital avant sa liquidation en dessous du
+capital minimum (articles 120, 3°, et 122, dernier alinéa, du titre IX du livre
+1er du Code du commerce).
+       Il ne ressort pas des constatations de l'arrêt que la société
+demanderesse aurait, après les répartitions à ses associés, conservé aucun
+élément d'actif ou que certaines dette   s n'auraient pas été reprises par la
+Nouvelle Société : l'arrêt constate au c ontraire « que les créances et les dettes
+semblent avoir été reprises, sans convention (écrite), sans accord (des
+créanciers) par la société nouvellement constituée ; qu'il en est de même de
+l'actif incorporel et plus particulièremen t de la clientèle » ; que la Nouvelle
+Société a repris « les autres éléments d' actifs faisant partie du patrimoine » de
+la demanderesse « à leur valeur comptable sans ajustement ».
+       Si la cour d'appel a pu, par des appréciations qui gisent en fait, juger
+anormales les modalités de la liquidation    qu'elle décrit, tels le transfert de
+certains éléments d'actifs, et notamment de  la clientèle, à la Nouvelle Société
+sans convention écrite et sans contre   partie, ou l'absence d'information des
+créanciers sur la reprise des engagements de la société en liquidation par la
+Nouvelle Société, ces faits étaient éventuellement de nature à engager la
+responsabilité du liquidateur et, au point de vue fiscal, à justifier la taxation de
+la société en liquidation sur un avantage   anormal en vertu de l'article 26 du
+Code des impôts sur les revenus 1992, mais ne sont pas de nature à justifier
+légalement que la liquidation de la soci été demanderesse soit déclarée simulée
+ou fictive.
+       Dans la mesure où l'arrêt fonde le      caractère simulé ou fictif de la
+liquidation sur la considération que celle-ci n'était pas justifiée par la situation
+financière de la société ou par une mésentente entre les associés (motifs relatés
+supra, 3), l'arrêt restreint illégalement  l'application des dispositions de la loi
+sur les sociétés relatives à la liquidation des sociétés (violation des
+
+                       14 SEPTEMBRE 2007                              F.05.0070.F/11
+dispositions du titre IX du livre 1  er du Code du commerce visées en tête du
+moyen, à l'exception de l'article 2).
+       Dans la mesure où l'arrêt fonde le  caractère fictif de la liquidation sur
+la considération que celle-ci n'a pas mis fin à l'activité qui constituait l'objet de
+la demanderesse parce que cette activ     ité a été poursuivie par la Nouvelle
+Société constituée par les associés majo ritaires de la demanderesse sous une
+dénomination analogue, ayant son siège social et son siège d'exploitation à la
+même adresse, qui a repris le personnel, les moyens d'exploitation, les contrats
+en cours et la clientèle de la demanderesse, il méconnaît que la Nouvelle
+Société constitue une personne juridique distincte de la demanderesse
+(violation de l'article 2, alinéa 2, du titre IX du livre 1      er du Code de
+commerce).
+       En considérant les opérations précitées comme simulées sur la base des
+constatations et sur le fondement des mo tifs qui ont été rappelés, l'arrêt viole
+dès lors la notion légale de simulation    (violation de l'article 1321 du Code
+civil) et le principe général du droit  selon lequel les effets que les actes et
+conventions non simulés ont sur le patrimoine de leurs auteurs sont opposables
+aux tiers, principe qui se déduit de l' article 1165 du Code civil (violation dudit
+principe et dudit article).
+       Par voie de conséquence, en cons     idérant que le précompte mobilier
+litigieux pouvait être enrôlé dans le délai de cinq ans prévu par l'article 354,
+alinéa 2, du Code des impôts sur les revenus 1992 en cas d'infraction aux
+dispositions de ce code ou de ses arrêtés d'exécution commise dans une
+intention frauduleuse ou à dessein de nui   re, l'arrêt viole le dit article, et en
+considérant que le précompte mobilier était dû sur les répartitions faites dans
+le cadre du partage de l'avoir social    de la demanderesse, l'arrêt viole les
+articles 209 et 264, 2°, du Code des impôts sur les revenus 1992.
+       Deuxième branche
+       Après avoir décidé, par les motifs qui ont été reproduits, que la mise en
+liquidation et la liquidation de la société demanderesse étaient simulées,
+l'arrêt, statuant sur l'action en garanti  e introduite à titre subsidiaire par le
+demandeur qualitate qua contre le conseiller fiscal de la demanderesse, la
+
+                       14 SEPTEMBRE 2007                              F.05.0070.F/12
+société privée à responsabilité limitée Société verviétoise de fiscalité, déclare
+cette action non recevable aux motifs « que cette action a été introduite le 19
+décembre 2002 alors que la clôture de la liquidation est intervenue le 24 juillet
+1993 ; qu'après la clôture de sa liquidation,  la société n'a plus d'existence lui
+permettant d'actionner une personne en ju     stice, puisque le délai de cinq ans
+courant contre le liquidateur ne vi    se qu'à assurer la protection des tiers
+(article 194 des lois sur les sociétés  commerciales applicable à l'époque ; voir
+aussi Cass., 22 mars 1962) ; que partant l'action en garantie est manifestement
+irrecevable ; qu'il ne peut en effet être perdu de vue que la dissolution de la
+société décidée par l'assemblée générale a un caractère irrémédiable ».
+        Ces motifs sont en contradiction avec la décision de l'arrêt selon
+laquelle la mise en liquidation et la liquidation de la société demanderesse sont
+simulées ou fictives en sorte qu'il n'y a pas lieu d'en tenir compte. Cette
+contradiction équivaut à l'absence de motifs (violation de l'article 149 de la
+Constitution).
+        Troisième branche
+        En décidant que la mise en liquidation et la liquidation de la
+demanderesse et la constitution de la     société privée à responsabilité limitée
+Plumhans (la Nouvelle Société) sont simulées dans le but d'éluder un impôt, et
+sont donc fictives, l'arrêt considère la  Nouvelle Société comme inexistante ;
+que cette décision équivaut à l'annulati on d'une société privée à responsabilité
+limitée pour une cause non prévue par l' article 13ter du titre IX du livre 1 er du
+Code du commerce, avec  un  effet  rétroactif  prohibé  par  l'article 13quater,
+§ 1er, du même titre et sans la liquidation  prescrite par l'article 13quinquies du
+même titre.
+        Ces dispositions du Code du commer      ce, en vigueur au moment de la
+constitution de la Nouvelle Société, sont remplacées respectivement par les
+articles 227, 172 et 175 du Code des sociétés, en vigueur à la date de l'arrêt.
+
+                       14 SEPTEMBRE 2007                              F.05.0070.F/13
+III.   La décision de la Cour
+
+       Sur le premier moyen :
+
+       Quant à la première branche :
+
+       Il n’y a ni simulation prohibée à      l’égard du fisc ni, partant, fraude
+fiscale lorsque, en vue de bénéficier d’     un régime fiscal plus favorable, les
+parties, usant de la libe  rté des conventions, sans     toutefois violer aucune
+obligation légale, établissent des act    es dont elles acceptent toutes les
+conséquences, même si ces actes sont accomplis à seule fin de réduire la charge
+fiscale.
+       L’arrêt constate que la demanderesse      a été mise en liquidation le 7
+décembre 1992, que « sa situation comptable […] a été clôturée le 31 décembre
+1992 et que cette société n’a plus eu aucu     ne activité par la suite », que le
+demandeur, liquidateur de la société, a réparti entre les associés l’intégralité
+des réserves disponibles et du capital social » et que, en décembre 1992, a été
+constituée une nouvelle société sous la dénomination Pierre Plumhans.
+       Il relève que « les créances et les  dettes semblent avoir été purement et
+simplement reprises […] par la société nouvellement constituée ; qu’il en est de
+même de l’actif incorporel et plus particulièrement de la clientèle », que la
+nouvelle société a repris «
+                          les autres        éléments d’actif faisant partie du
+patrimoine de la société en liquidati      on […] à leur valeur comptable sans
+ajustement » et constate « la reprise de l’activité par la nouvelle société ».
+       Ni les considérations que la mise en liquidation de la demanderesse
+n’était pas justifiée par sa situation financière ou par un manque de
+collaboration entre les associés, tel qu’il eût rendu impossible la poursuite de
+l’activité sociale, mais par l’intention d’éviter le précompte mobilier sur la
+distribution des bénéfices réservés, ni les considérations relatives aux modalités
+de la mise en œuvre de la liquidation et aux négligences du demandeur à cet
+égard, sans que l’arrêt constate un manquement de sa part à des obligations
+
+                       14 SEPTEMBRE 2007                              F.05.0070.F/14
+légales déterminées, ne sont de nature à justifier légalement la décision de
+l’arrêt que la liquidation de la demand   eresse revêtait un caractère simulé et
+que, partant, le précompte mobilier litigieux majoré d’accroissements était dû
+sur les répartitions faites dans le cadre du partage social de la demanderesse.
+       Le moyen, en cette branche, est fondé.
+
+       Quant à la deuxième branche :
+
+       Il est contradictoire de considérer que la mise en liquidation de la
+demanderesse est simulée et de prendre en  considération la date de clôture de
+la liquidation pour déclarer irrecevabl   e l’action en garantie dirigée par le
+demandeur contre le conseiller fiscal de la demanderesse.
+       Le moyen, en cette branche, est fondé.
+
+       La cassation de la décision de teni   r pour simulée la liquidation de la
+demanderesse s’étend à la décision que  la simulation prohibée porte également
+sur la constitution de la nouvelle société, la société privée à responsabilité
+limitée Pierre Plumhans, en raison du lien établi par l’arrêt entre ces décisions.
+
+       Sur les autres griefs :
+
+       Il n’y a pas lieu d’examiner la troisième branche du premier moyen et le
+second moyen qui ne sauraient entraîner une cassation plus étendue.
+
+                      14 SEPTEMBRE 2007                              F.05.0070.F/15
+       Par ces motifs,
+
+       La Cour
+
+       Casse l’arrêt attaqué, sauf en tant qu’il reçoit l’appel du défendeur et
+ordonne la jonction des causes ;
+       Ordonne que mention du présent arrêt sera faite en marge de l’arrêt
+partiellement cassé ;
+       Réserve les dépens pour qu’il soit statué sur ceux-ci par le juge du
+fond ;
+       Renvoie la cause, ainsi limitée, devant la cour d’appel de Mons.
+Ainsi jugé par la Cour de cassation, première chambre, à Bruxelles, où
+siégeaient le président de section Claude Parmentier, les conseillers Didier
+Batselé, Albert Fettweis, Daniel Plas    et Martine Regout, et prononcé en
+audience publique du quatorze septembre deux mille sept par le président de
+section Claude Parmentier, en présence de l’avocat général André Henkes avec
+l’assistance du greffier Marie-Jeanne Massart.
